@@ -1,0 +1,26 @@
+This is a POS-tagged version of SOAS's Digital communication corpus: larkpie.net/tibetancorpus/ 
+
+The POS tags used adhere to POS (Part of Speech) tags set out by UD (Universal Dependencies): http://universaldependencies.org/u/pos/index.html 
+
+They are given Tibetan-ized, two-character codes as follows: 
+
+POS CODE	UD universal code
+MQ	NOUN: noun
+MK	PROPN: proper noun
+MC	PRON: pronoun
+JC	VERB: verb
+JR	AUX: auxiliary
+GC	ADJ: adjective
+NC	ADV: adverb
+TL	ADP: adposition
+TE	DET: determiner
+TT	CCONJ: coordinating conjunction
+	SCONJ: subordinating conjunction
+TX	PART: particle
+AD	NUM: numeral
+BD	INTJ: interjection
+KX	X: other
+CX	PUNCT: punctuation
+	SYM: symbol
+  
+Two codes do not occur in Tibetan: SCONJ: subordinating conjunction (b/c we aren't convinced there is a subordinating clause structure native to Tibetan) and SYM: symbol (beyond punctuation, symbols don't occur in traditional Tibetan text, as defined by UD)
