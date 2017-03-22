@@ -1,6 +1,6 @@
-This is a POS-tagged version of SOAS's Digital communication corpus: larkpie.net/tibetancorpus/ 
+This is a simplified scheme, POS-tagged version of SOAS's Digital communication corpus: larkpie.net/tibetancorpus/ 
 
-The POS tags used adhere to POS (Part of Speech) tags set out by UD (Universal Dependencies): http://universaldependencies.org/u/pos/index.html 
+The simplified POS tags used adhere to POS (Part of Speech) tags set out by UD (Universal Dependencies): http://universaldependencies.org/u/pos/index.html 
 
 They are given Tibetan-ized, two-character codes as follows: 
 
