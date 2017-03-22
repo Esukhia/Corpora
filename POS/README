@@ -23,4 +23,8 @@ KX	X: other
 CX	PUNCT: punctuation
 	SYM: symbol
   
-Two codes do not occur in Tibetan: SCONJ: subordinating conjunction (b/c we aren't convinced there is a subordinating clause structure native to Tibetan) and SYM: symbol (beyond punctuation, symbols don't occur in traditional Tibetan text, as defined by UD)
+Two codes do not occur in Tibetan: 
+SYM: symbol (beyond punctuation, symbols -- like emoticons, dollar signs, etc. -- simply don't occur in traditional Tibetan text, as defined by UD)
+SCONJ: subordinating conjunction (b/c we aren't yet convinced Tibetan uses subordinating conjunctions, but instead uses a combination of coordinating conjunctions, separate sentences, and/or adpositional phrases that can act as subordinating conjunctions)
+
+Also included are the regex substitution lists for converting between POS schemes (the full, complex SOAS scheme - our own simplified scheme - the UD equivalents to the simplified scheme). 
