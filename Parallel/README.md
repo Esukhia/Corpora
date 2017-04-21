@@ -13,7 +13,7 @@ Complete alignment includes: 1) & 2) from above, aligned in parallel (equivalent
 
 In other words, completed documents include: 
 
-1) A Tibetan original and 2) an English translation (aligned in parallel) 
+1) A Tibetan original .txt and 2) an English translation .txt (aligned in parallel) 
 3) that parallel alignment expressed as a single, tab-separated .txt 
 4) that parallel alignment expressed as a single .tmx file
 
