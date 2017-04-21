@@ -9,7 +9,13 @@ There are currently 2 files for "incomplete" parallel alignment and 4 files for 
 
 Incomplete alignment includes: 1) the Tibetan original, roughly aligned by "sentence"; 2) the English translation, roughly aligned by sentence. (With return carriages [new lines] being the unit defining lines in the plain text, UTF-8 documents). 
 
-Complete alignment includes: 1) & 2) from above, aligned in parallel (equivalent return lines); 3) those parallel files were added to a spreadsheet format, saved here: https://docs.google.com/spreadsheets/d/1NLEluE81bj0JEXMVqBkNlGJUwqo_YIK7Eup8FKTurwI/edit?usp=sharing and downloaded as "tab-separated" .txt files (in the Git); 4) which were then aligned into .tmx files using Olifant (also in the Git). 
+Complete alignment includes: 1) & 2) from above, aligned in parallel (equivalent return lines); 3) those parallel files were added to a spreadsheet format, saved here: https://docs.google.com/spreadsheets/d/1NLEluE81bj0JEXMVqBkNlGJUwqo_YIK7Eup8FKTurwI/edit?usp=sharing and downloaded as "tab-separated" .txt files; 4) which were then aligned into .tmx files using Olifant. 
+
+In other words, completed documents include: 
+
+1) A Tibetan original and 2) an English translation (aligned in parallel) 
+3) that parallel alignment expressed as a single, tab-separated .txt 
+4) that parallel alignment expressed as a single .tmx file
 
 for Olifant, visit: 
 http://okapi.sourceforge.net/downloads.html
