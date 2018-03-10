@@ -10,4 +10,4 @@ Currently, Esukhia hosts 4 "in-progress" corpuses:
 
 ## License 
 
-The Esukhia Corpora are licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
+The Esukhia Corpora are copyright Esukhia, and licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
