@@ -4,6 +4,13 @@ A repo for parallel English/Tibetan corpora compiled by Esukhia
 
 The folder "84000" is a work in progress. It contains all the English and Tibetan sub-sections of the Translated Words that have been done thus far. The have had some basic pre-processing (automatic alignment by sentence), but require more steps to be actually aligned in parallel. This README will be updated once that's completed... 
 
+*UPATE* 
+
+In 2018, 84000 and Esukhia collaborated to manually align the finished translations of the project. 
+
+This repo was updated with the parallel corpus current as of 6 Feb 2019. 
+
+Outdated README: 
 ------------------------------------
 There are currently 2 files for "incomplete" parallel alignment and 4 files for "complete" parallel alignment. 
 
