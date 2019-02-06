@@ -1,0 +1,306 @@
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T16:01:47.493Z" creationid="celso"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:01:47.493Z" creationid="celso">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:01:47.493Z" creationid="celso">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">41</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:01:56.174Z" creationid="celso">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:01:56.174Z" creationid="celso">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">70</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:02:16.654Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་འོག་མིན་ལྷའི་རྒྱལ་པོའི་ཁང་བཟངས་ན་བཞུགས་ཏེ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:02:16.654Z" creationid="celso">
+                <seg>While the Blessed One was residing in the palace of the king of the gods in the Akaniṣṭha realm,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">167</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:02:33.548Z" creationid="celso">
+                <seg>འཁོར་ཐམས་ཅད་ལ་ཆོས་སྟོན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:02:33.548Z" creationid="celso">
+                <seg>he taught the Dharma to the entire assembly.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">212</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:02:54.022Z" creationid="celso">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནམ་མཁའི་སྙིང་པོས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:02:54.022Z" creationid="celso">
+                <seg>The bodhisattva mahāsattva Ākāśagarbha then paid homage to the Blessed One and asked,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">298</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:09:02.848Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་ནམ་འཆི་ཁ་མའི་སེམས་ཇི་ལྟར་བལྟ་བར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:09:02.848Z" creationid="celso">
+                <seg>“Blessed One, how should we think about the mind of a bodhisattva who is about to die?”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">386</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:09:41.269Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:09:41.269Z" creationid="celso">
+                <seg>The Blessed One replied,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">411</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:17:43.702Z" creationid="celso">
+                <seg>ནམ་མཁའི་སྙིང་པོ་བྱང་ཆུབ་སེམས་དཔའ་ནམ་འཆི་བའི་དུས་ཀྱི་ཚེ་འདའ་ཀ་ཡེ་ཤེས་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:17:43.702Z" creationid="celso">
+                <seg>“Ākāśagarbha, when a bodhisattva is about to die, he should cultivate the wisdom of the hour of death.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">514</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:18:12.104Z" creationid="celso">
+                <seg>།དེ་ལ་འདའ་ཀ་ཡེ་ཤེས་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:18:12.104Z" creationid="celso">
+                <seg>The wisdom of the hour of death is as follows:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">561</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:18:33.144Z" creationid="celso">
+                <seg>ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་རྣམ་པར་དག་པས་ན་དངོས་པོ་མེད་པའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:18:33.144Z" creationid="celso">
+                <seg>All phenomena are naturally pure. So, one should cultivate the clear understanding that there are no entities.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">672</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:19:05.625Z" creationid="celso">
+                <seg>།ཆོས་ཐམས་ཅད་བྱང་ཆུབ་ཀྱི་སེམས་སུ་འདུས་པས་ན་སྙིང་རྗེ་ཆེན་པོའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:19:05.625Z" creationid="celso">
+                <seg>All phenomena are subsumed within the mind of enlightenment. So, one should cultivate the clear understanding of great compassion.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">803</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:19:22.291Z" creationid="celso">
+                <seg>།ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་འོད་གསལ་བས་ན་མི་དམིགས་པའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:19:22.291Z" creationid="celso">
+                <seg>All phenomena are naturally luminous. So, one should cultivate the clear understanding of non-apprehension.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">911</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:20:53.461Z" creationid="celso">
+                <seg>།དངོས་པོ་ཐམས་ཅད་མི་རྟག་པས་ན་ཅི་ལ་ཡང་མི་ཆགས་པའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:20:53.461Z" creationid="celso">
+                <seg>All entities are impermanent. So, one should cultivate the clear understanding of non-attachment to anything whatsoever.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1032</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:21:31.05Z" creationid="celso">
+                <seg>།སེམས་རྟོགས་ན་ཡེ་ཤེས་ཡིན་པས་ན་སངས་རྒྱས་གཞན་དུ་མི་བཙལ་བའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:21:31.05Z" creationid="celso">
+                <seg>When one realizes mind, this is wisdom. So, one should cultivate the clear understanding of not seeking the Buddha elsewhere.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1159</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:21:51.178Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:21:51.178Z" creationid="celso">
+                <seg>The Blessed One then spoke the following verses:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1208</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:22:13.302Z" creationid="celso">
+                <seg>ཆོས་རྣམས་རང་བཞིན་རྣམ་དག་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:22:13.302Z" creationid="celso">
+                <seg>“Since all phenomena are naturally pure,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1249</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:22:27.421Z" creationid="celso">
+                <seg>།དངོས་པོ་མེད་པའི་འདུ་ཤེས་བསྒོམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:22:27.421Z" creationid="celso">
+                <seg>One should cultivate the clear understanding that there are no entities.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1322</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:23:25.422Z" creationid="celso">
+                <seg>།བྱང་ཆུབ་སེམས་དང་རབ་ལྡན་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:23:25.422Z" creationid="celso">
+                <seg>“Since all phenomena are connected with the enlightened mind,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1384</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:23:41.527Z" creationid="celso">
+                <seg>སྙིང་རྗེ་ཆེན་པོའི་འདུ་ཤེས་བསྒོམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:23:41.527Z" creationid="celso">
+                <seg>One should cultivate the clear understanding of great compassion.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1450</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:24:06.234Z" creationid="celso">
+                <seg>།ཆོས་རྣམས་རང་བཞིན་འོད་གསལ་བས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:24:06.234Z" creationid="celso">
+                <seg>“Since all phenomena are naturally luminous,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1495</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:24:17.439Z" creationid="celso">
+                <seg>།དམིགས་པ་མེད་པའི་འདུ་ཤེས་བསྒོམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:24:17.439Z" creationid="celso">
+                <seg>One should cultivate the clear understanding of non-apprehension.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1561</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:24:51.967Z" creationid="celso">
+                <seg>།དངོས་པོ་ཐམས་ཅད་མི་རྟག་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:24:51.967Z" creationid="celso">
+                <seg>“Since all entities are impermanent,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1598</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:25:04.233Z" creationid="celso">
+                <seg>།ཆགས་པ་མེད་པའི་འདུ་ཤེས་བསྒོམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:25:04.233Z" creationid="celso">
+                <seg>One should cultivate the clear understanding of non-attachment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1662</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:25:34.243Z" creationid="celso">
+                <seg>།སེམས་ནི་ཡེ་ཤེས་འབྱུང་བའི་རྒྱུ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:25:34.243Z" creationid="celso">
+                <seg>“Since the mind is the cause for the arising of wisdom,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1718</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:25:44.957Z" creationid="celso">
+                <seg>།སངས་རྒྱས་གཞན་དུ་མ་ཚོལ་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:25:44.957Z" creationid="celso">
+                <seg>Do not look for the Buddha elsewhere.”</seg>
+            </tuv>
+        </tu>
+        
+        <tu tuid="27">
+            <prop name="folio">F.153.b</prop>
+            <prop name="position">35</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:27:09.221Z" creationid="celso">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ནམ་མཁའི་སྙིང་པོ་ལ་སོགས་པའི་འཁོར་འདུས་པ་ཐམས་ཅད་རབ་ཏུ་དགའ་མགུ་ཡི་རངས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:27:09.221Z" creationid="celso">
+                <seg>the whole assembly, including the bodhisattva Ākāśagarbha and others, were overjoyed and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="28">
+            <prop name="folio">F.153.b</prop>
+            <prop name="position">124</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:27:19.241Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:27:19.241Z" creationid="celso">
+                <seg>full of praise for the Buddha’s words.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="29">
+            <prop name="folio">F.153.b</prop>
+            <prop name="position">163</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-29T18:27:27.498Z" creationid="celso">
+                <seg>།།འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-29T18:27:27.498Z" creationid="celso">
+                <seg>This concludes the Noble Mahāyāna Sūtra on Wisdom at the Hour of Death.</seg>
+            </tuv>
+        </tu>
+    <tu tuid="30">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-03T08:46:44.312Z" creationid="dirk">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཀ་མ་ལ་གུཔྟ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-03T08:46:44.312Z" creationid="dirk">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1762</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-03T08:47:31.693Z" creationid="dirk">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-03T08:47:31.693Z" creationid="dirk">
+                <seg>After the Blessed One had spoken,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

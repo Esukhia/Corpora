@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-04-04T10:04:29.971Z" creationid="dirk"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">41</prop>
+            <tuv xml:lang="bo" creationdate="2018-04-04T10:04:29.971Z" creationid="dirk">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-04-04T10:04:29.971Z" creationid="dirk">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-04-04T10:04:59.572Z" creationid="dirk">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-04-04T10:04:59.572Z" creationid="dirk">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        
+    <tu tuid="3">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">70</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:42:03.767Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་གྲོང་ཁྱེར་ཀུ་ཤ་ན་གྱད་ཀྱི་ཉེན་འཁོར་ཤིང་སཱ་ལ་ཟུང་གི་ཚལ་ན། ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པར་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:42:03.767Z" creationid="celso">
+                <seg>The Bhagavān was dwelling in the Grove of Twin Sāl-Trees in the vicinity of the Malla town of Kuśinagara, together with a retinue of śrāvakas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">213</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:42:37.895Z" creationid="celso">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བ་ཁོ་ནའི་དུས་ཀྱི་ཚེ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:42:37.895Z" creationid="celso">
+                <seg>Then, when the Bhagavān was about to pass into parinirvāṇa,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">273</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:42:49.213Z" creationid="celso">
+                <seg>དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:42:49.213Z" creationid="celso">
+                <seg>he addressed the bhikṣus,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">300</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:43:03.593Z" creationid="celso">
+                <seg>དགེ་སློང་དག་ཁྱེད་ཀྱིས་འདི་ལྟར་བསླབ་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:43:03.593Z" creationid="celso">
+                <seg>Bhikṣus, you should train in this way.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">376</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:43:35.749Z" creationid="celso">
+                <seg>དགེ་བའི་བཤེས་གཉེན་དང་། དགེ་བའི་གྲོགས་པོ་དང་། དགེ་བའི་སྟེན་དང་གནས་པར་བྱའི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:43:35.749Z" creationid="celso">
+                <seg>One should live with a virtuous spiritual friend, a virtuous companion, a virtuous support.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">468</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:43:49.76Z" creationid="celso">
+                <seg>སྡིག་པའི་བཤེས་གཉེན་དང་། སྡིག་པའི་གྲོགས་པོ་དང་། སྡིག་པའི་སྟེན་དང་གནས་པར་མི་བྱའོ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:43:49.76Z" creationid="celso">
+                <seg>One should not, however, live with a non-virtuous spiritual friend, a non-virtuous companion, a non-virtuous support.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">339</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:44:13.376Z" creationid="celso">
+                <seg>ཞེས་དགེ་སློང་དག་ཁྱེད་ཀྱིས་དེ་ལྟར་བསླབ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:44:13.376Z" creationid="celso">
+                <seg>Bhikṣus, you should train thinking,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">589</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:44:27.371Z" creationid="celso">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:44:27.371Z" creationid="celso">
+                <seg>Then, the venerable Ānanda spoke to the Bhagavān,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">640</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:45:28.318Z" creationid="celso">
+                <seg>།བཙུན་པ་འདིར་བདག་གཅིག་པུ་དབེན་པར་མཆིས་ནས་ནང་དུ་ཡང་དག་འཇོག་ལ་ཞུགས་པ་ན་སེམས་ལ་འདི་ལྟ་བུའི་སེམས་ཀྱི་ཡོངས་སུ་རྟོག་པ་བྱུང་སྟེ། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:45:28.318Z" creationid="celso">
+                <seg>Honorable One, having come here alone to a secluded place, I had gone into meditative retreat when the following thought arose in my mind:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">780</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:45:52.145Z" creationid="celso">
+                <seg>དགེ་བའི་བཤེས་གཉེན་དང་། དགེ་བའི་གྲོགས་པོ་དང་། དགེ་བའི་སྟེན་འདི་ནི་ཚངས་པར་སྤྱོད་པའི་ཕྱེད་ལགས་ཀྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:45:52.145Z" creationid="celso">
+                <seg>A virtuous spiritual friend, a virtuous companion, a virtuous support is half the holy life.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">873</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:46:07.045Z" creationid="celso">
+                <seg>སྡིག་པའི་བཤེས་གཉེན་དང་། སྡིག་པའི་གྲོགས་པོ་དང་། སྡིག་པའི་སྟེན་ནི་དེ་ལྟ་མ་ལགས་སོ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:46:07.045Z" creationid="celso">
+                <seg>A non-virtuous spiritual friend, a non-virtuous companion, a non-virtuous support, however, is not.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">976</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:46:30.491Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:46:30.491Z" creationid="celso">
+                <seg>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">24</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:47:29.002Z" creationid="celso">
+                <seg>དགེ་བའི་བཤེས་གཉེན་དང་། དགེ་བའི་གྲོགས་པོ་དང་། དགེ་བའི་སྟེན་འདི་ནི་ཚངས་པར་སྤྱོད་པའི་ཕྱེད་ཡིན་གྱི། སྡིག་པའི་བཤེས་གཉེན་དང་། སྡིག་པའི་གྲོགས་པོ་དང་། སྡིག་པའི་སྟེན་ནི་དེ་ལྟ་མ་ཡིན་ནོ་ཞེས་མ་ཟེར་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:47:29.002Z" creationid="celso">
+                <seg>Ānanda, do not say that a virtuous spiritual friend, a virtuous companion, a virtuous support is half the holy life, but that a non-virtuous spiritual friend, a non-virtuous companion, a non-virtuous support is not.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">241</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-01T17:47:41.471Z" creationid="celso">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-01T17:47:41.471Z" creationid="celso">
+                <seg>Why?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">246</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:10:00.637Z" creationid="celso">
+                <seg>ཀུན་དགའ་བོ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:10:00.637Z" creationid="celso">
+                <seg>Ānanda, the point is that</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">48</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:12:39.492Z" creationid="celso">
+                <seg>དགེ་བའི་བཤེས་གཉེན་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:12:39.492Z" creationid="celso">
+                <seg>a virtuous spiritual friend,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">77</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:12:48.913Z" creationid="celso">
+                <seg>དགེ་བའི་གྲོགས་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:12:48.913Z" creationid="celso">
+                <seg>a virtuous companion,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">323</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:13:23.919Z" creationid="celso">
+                <seg>དགེ་བའི་སྟེན་འདི་ནི་ཚངས་པར་སྤྱོད་པའི་རིལ་པོ་དང་། མ་འདྲེས་པ་དང་། ཡོངས་སུ་རྫོགས་པ་དང་། ཡོངས་སུ་དག་པ་དང་། ཡོངས་སུ་བྱང་བ་ཡིན་གྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:13:23.919Z" creationid="celso">
+                <seg>a virtuous support is the whole, the unadulterated, the complete, the pure, the totally purified holy life, but</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">150</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:13:33.2Z" creationid="celso">
+                <seg>སྡིག་པའི་བཤེས་གཉེན་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:13:33.2Z" creationid="celso">
+                <seg>a non-virtuous spiritual friend,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">183</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:13:45.742Z" creationid="celso">
+                <seg>སྡིག་པའི་གྲོགས་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:13:45.742Z" creationid="celso">
+                <seg>a non-virtuous companion,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">209</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:13:54.386Z" creationid="celso">
+                <seg>སྡིག་པའི་སྟེན་འདི་ནི་དེ་ལྟ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:13:54.386Z" creationid="celso">
+                <seg>a non-virtuous support is not.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">539</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:15:36.226Z" creationid="celso">
+                <seg>ཀུན་དགའ་བོ་བཤེས་གཉེན་དང་། ང་ལ་བརྟེན་ནས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:15:36.226Z" creationid="celso">
+                <seg>Ānanda, it is because, by relying on me as their spiritual friend,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">606</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:15:55.91Z" creationid="celso">
+                <seg>སེམས་ཅན་སྐྱེ་བའི་ཆོས་ཅན་རྣམས་སྐྱེ་བའི་ཆོས་ཅན་ལས་ཡོངས་སུ་གྲོལ་བར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:15:55.91Z" creationid="celso">
+                <seg>sentient beings subject to birth will be completely released from being subject to birth, and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">700</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:17:14.734Z" creationid="celso">
+                <seg>སེམས་ཅན་རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པའི་ཆོས་ཅན་རྣམས་རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པའི་ཆོས་ཅན་ལས་ཡོངས་སུ་གྲོལ་བར་འགྱུར་བའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:17:14.734Z" creationid="celso">
+                <seg>sentient beings subject to aging, sickness, death, sorrow, lamentation, suffering, distress, and agitation will be completely released from being subject to aging, sickness, death, sorrow, lamentation, suffering, distress, and agitation.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">939</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:17:43.709Z" creationid="celso">
+                <seg>།ཀུན་དགའ་བོ་དེ་བས་ན་རྣམ་གྲངས་ཁོ་ནས་ཁྱོད་ཀྱིས་འདི་ལྟར་རིག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:17:43.709Z" creationid="celso">
+                <seg>Therefore, Ānanda, you should understand this in the following way alone.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="28">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">1266</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:18:47.474Z" creationid="celso">
+                <seg>ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་དེ་ལྟར་བསླབ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:18:47.474Z" creationid="celso">
+                <seg>Ānanda, you should train thinking in this way.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="29">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">1314</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:19:18.222Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:19:18.222Z" creationid="celso">
+                <seg>When the Bhagavān had spoken these words,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="30">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">1356</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:19:32.247Z" creationid="celso">
+                <seg>དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:19:32.247Z" creationid="celso">
+                <seg>the bhikṣus rejoiced and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">1381</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:19:41.875Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:19:41.875Z" creationid="celso">
+                <seg>highly praised what the Blessed One had taught.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="32">
+            <prop name="folio">F.305.a</prop>
+            <prop name="position">1429</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-02T17:19:54.44Z" creationid="celso">
+                <seg>།།འཕགས་པ་དགེ་བའི་བཤེས་གཉེན་བསྟེན་པའི་མདོ་རྫོགས་སྷོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-02T17:19:54.44Z" creationid="celso">
+                <seg>This completes The Noble Sūtra on Reliance upon a Virtuous Spiritual Friend.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

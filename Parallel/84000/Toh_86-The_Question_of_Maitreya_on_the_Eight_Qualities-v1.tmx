@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+    <body>
+        
+    <tu tuid="">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:24:00.589Z" creationid="celso">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:24:00.589Z" creationid="celso">
+                <seg>Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="1">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">45</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:24:09.896Z" creationid="celso">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:24:09.896Z" creationid="celso">
+                <seg>Thus have I heard at one time.</seg>
+            </tuv>
+        </tu>
+        
+        <tu tuid="3">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">206</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:25:11.182Z" creationid="celso">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་འཁོར་བརྒྱ་སྟོང་དུ་མས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ནས་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:25:11.182Z" creationid="celso">
+                <seg>The Blessed One, surrounded by a retinue of many hundreds of thousands, surveyed those before him, and taught the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">328</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:25:41.75Z" creationid="celso">
+                <seg>།དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ཞེས་བྱ་བ་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:25:41.75Z" creationid="celso">
+                <seg>At that time, the bodhisattva mahāsattva Maitreya was present among that very retinue.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">415</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:26:08.369Z" creationid="celso">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་སྟན་ལས་ལངས་ཏེ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:26:08.369Z" creationid="celso">
+                <seg>He rose from his seat,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">444</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T11:13:46.806Z" creationid="jinpa">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T11:13:46.806Z" creationid="jinpa">
+                <seg>draped his shawl over one shoulder, set his right knee on the ground,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">514</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T11:19:52.62Z" creationid="jinpa">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T11:19:52.62Z" creationid="jinpa">
+                <seg>and paid homage with palms joined toward the Blessed One. He then said to the Blessed One</seg>
+            </tuv>
+        </tu>
+    <tu tuid="32">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">222</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:33:05.618Z" creationid="mabja">
+                <seg>ཁྱད་པར་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:33:05.618Z" creationid="mabja">
+                <seg>will gain special attainments;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="33">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">253</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:33:50.384Z" creationid="mabja">
+                <seg>བདུད་ཕྱིར་རྒོལ་བ་བཅོམ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:33:50.384Z" creationid="mabja">
+                <seg>they will vanquish negative and hostile influences;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">358</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:35:37.512Z" creationid="mabja">
+                <seg>ཆོས་ཐམས་ཅད་ཀྱི་ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད་ཇི་ལྟ་བ་བཞིན་དུ་རྟོགས་ནས་འཁོར་བ་ན་ཡོངས་སུ་མི་སྐྱོ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:35:37.512Z" creationid="mabja">
+                <seg>they will realize the intrinsic characteristics of all phenomena just as they are and therefore be indefatigable in saṃsāra.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">488</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:37:21.591Z" creationid="mabja">
+                <seg>ཡོངས་སུ་མི་སྐྱོ་བའི་ཡིད་དང་ལྡན་པར་གྱུར་ནས་ཀྱང་གཞན་གྱི་ཁ་ན་མ་ལས་པའི་ཡེ་ཤེས་ཀྱིས་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:37:21.591Z" creationid="mabja">
+                <seg>as well as having that indefatigable mind, through the pristine awareness that does not rely on anything else, they will quickly awaken to supreme, perfect enlightenment and become a buddha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">679</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:37:53.355Z" creationid="mabja">
+                <seg>།བརྒྱད་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:37:53.355Z" creationid="mabja">
+                <seg>“What are those eight qualities?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">718</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:42:26.378Z" creationid="mabja">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་བསམ་པ་ཕུན་སུམ་ཚོགས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:42:26.378Z" creationid="mabja">
+                <seg>Maitreya, they are for bodhisattva mahāsattvas to have excellent intention,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="40">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">817</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:43:00.599Z" creationid="mabja">
+                <seg>གཏོང་བ་ཕུན་སུམ་ཚོགས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:43:00.599Z" creationid="mabja">
+                <seg>excellent giving,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="41">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">835</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:44:00.938Z" creationid="mabja">
+                <seg>ཡོངས་སུ་བསྔོ་བ་ལ་མཁས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:44:00.938Z" creationid="mabja">
+                <seg>skill in dedicating merit</seg>
+            </tuv>
+        </tu>
+        <tu tuid="43">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">862</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:48:04.692Z" creationid="mabja">
+                <seg>བྱམས་པ་ཕུན་སུམ་ཚོགས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:48:04.692Z" creationid="mabja">
+                <seg>excellent loving kindness,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="44">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">889</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T09:49:40.764Z" creationid="mabja">
+                <seg>སྙིང་རྗེ་ཕུན་སུམ་ཚོགས་པ་ཡིན</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T09:49:40.764Z" creationid="mabja">
+                <seg>excellent compassion,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="45">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">911</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:44:05.574Z" creationid="mabja">
+                <seg>ཐབས་ལ་མཁས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:44:05.574Z" creationid="mabja">
+                <seg>skill in methods,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="46">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">933</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:47:00.675Z" creationid="mabja">
+                <seg>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ངེས་པར་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:47:00.675Z" creationid="mabja">
+                <seg>emancipation in the perfection of wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="47">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">975</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:49:32.23Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བསམ་པ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:49:32.23Z" creationid="mabja">
+                <seg>“Maitreya, how do such bodhisattvas have excellent intention?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="48">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1043</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:52:13.413Z" creationid="mabja">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་སངས་རྒྱས་ཀྱི་བསྔགས་པ་འམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:52:13.413Z" creationid="mabja">
+                <seg>Maitreya, such bodhisattva mahāsattvas, whether they hear praises or</seg>
+            </tuv>
+        </tu>
+        <tu tuid="49">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1112</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:53:23.685Z" creationid="mabja">
+                <seg>བསྔགས་པ་མ་ཡིན་པ་ཐོས་ཀྱང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་བསམ་པ་ངེས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:53:23.685Z" creationid="mabja">
+                <seg>slander of the Buddha, have the intention to attain supreme, perfect enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="50">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1196</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:55:34.736Z" creationid="mabja">
+                <seg>ཆོས་ཀྱི་བསྔགས་པ་འམ་བསྔགས་པ་མ་ཡིན་པ་ཐོས་ཀྱང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་བསམ་པ་ངེས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:55:34.736Z" creationid="mabja">
+                <seg>Whether they hear praises or slander of the Dharma, they have the intention to attain supreme, perfect enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="51">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1314</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:56:44.573Z" creationid="mabja">
+                <seg>དགེ་འདུན་གྱི་བསྔགས་པ་འམ་བསྔགས་པ་མ་ཡིན་པ་ཐོས་ཀྱང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་བསམ་པ་ངེས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:56:44.573Z" creationid="mabja">
+                <seg>Whether they hear praises or slander of the Saṅgha, they have the intention to attain supreme, perfect enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="52">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1432</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T10:58:17.167Z" creationid="mabja">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བསམ་པ་ཕུན་སུམ་ཚོགས་པ་ནི་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T10:58:17.167Z" creationid="mabja">
+                <seg>This, Maitreya, is how the bodhisattvas have excellent intention.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="53">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1499</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:00:16.745Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྦྱོར་བ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:00:16.745Z" creationid="mabja">
+                <seg>Maitreya, how do such bodhisattvas have excellent application?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="54">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1562</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:03:33.343Z" creationid="mabja">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་སྲོག་གཅོད་པ་སྤངས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:03:33.343Z" creationid="mabja">
+                <seg>Well, Maitreya, such bodhisattva mahāsattvas renounce killing,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="55">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1625</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:04:23.42Z" creationid="mabja">
+                <seg>མ་བྱིན་པར་ལེན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:04:23.42Z" creationid="mabja">
+                <seg>theft,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="57">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">154</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:07:29.256Z" creationid="mabja">
+                <seg>བརྫུན་དུ་སྨྲ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:07:29.256Z" creationid="mabja">
+                <seg>falsehood,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="58">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">165</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:07:58.166Z" creationid="mabja">
+                <seg>ཕྲ་མའི་ཚིག་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:07:58.166Z" creationid="mabja">
+                <seg>slander,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="59">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">174</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:08:27.882Z" creationid="mabja">
+                <seg>ངག་རྩུབ་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:08:27.882Z" creationid="mabja">
+                <seg>harsh speech,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="61">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">200</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:11:19.326Z" creationid="mabja">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྦྱོར་བ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:11:19.326Z" creationid="mabja">
+                <seg>This, Maitreya, is how the bodhisattva mahāsattvas have excellent application.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="62">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">279</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:12:43.225Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཏོང་བ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:12:43.225Z" creationid="mabja">
+                <seg>“Maitreya, how do such bodhisattvas have excellent giving?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="64">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-09T11:17:31.343Z" creationid="mabja">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-09T11:17:31.343Z" creationid="mabja">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="73">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">533</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T09:11:27.886Z" creationid="mabja">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཏོང་བ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T09:11:27.886Z" creationid="mabja">
+                <seg>This, Maitreya, is how the bodhisattvas have excellent giving.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="74">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">596</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T09:13:28.137Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཡོངས་སུ་བསྔོ་བ་ལ་མཁས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T09:13:28.137Z" creationid="mabja">
+                <seg>“Maitreya, how do such bodhisattvas have skill in dedicating merit?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="80">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1005</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T09:25:28.283Z" creationid="mabja">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་བྱམས་པའི་ལུས་ཀྱི་ལས་དང་ལྡན་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T09:25:28.283Z" creationid="mabja">
+                <seg>Well, Maitreya, such bodhisattva mahāsattvas’ physical actions are kind,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="81">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1078</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T09:26:12.635Z" creationid="mabja">
+                <seg>བྱམས་པའི་ངག་གི་ལས་དང་ལྡན་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T09:26:12.635Z" creationid="mabja">
+                <seg>their verbal actions are kind,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="82">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1109</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T09:27:55.196Z" creationid="mabja">
+                <seg>བྱམས་པའི་ཡིད་ཀྱི་ལས་དང་ལྡན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T09:27:55.196Z" creationid="mabja">
+                <seg>and their mental actions are kind.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="84">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">525</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T09:58:52.327Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཐབས་ལ་མཁས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T09:58:52.327Z" creationid="mabja">
+                <seg>This, Maitreya, is how the bodhisattva mahāsattvas have skill in their methods.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="85">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">375</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:02:07.094Z" creationid="mabja">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ཀུན་རྫོབ་ཀྱི་དོན་ལ་མཁས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:02:07.094Z" creationid="mabja">
+                <seg>Well, Maitreya, such bodhisattva mahāsattvas are skilled in conventional truth,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="86">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">455</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:03:52.774Z" creationid="mabja">
+                <seg>དམ་པའི་དོན་ལ་མཁས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:03:52.774Z" creationid="mabja">
+                <seg>they are skilled in the absolute truth,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="87">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">499</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:04:34.182Z" creationid="mabja">
+                <seg>གཉི་གའི་དོན་ལ་མཁས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:04:34.182Z" creationid="mabja">
+                <seg>they are skilled in both.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="88">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">299</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:05:14.849Z" creationid="mabja">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཐབས་ལ་མཁས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:05:14.849Z" creationid="mabja">
+                <seg>“Maitreya, how do such bodhisattva mahāsattvas have skill in their methods?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="89">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">605</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:06:46.826Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ངེས་པར་འབྱུང་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:06:46.826Z" creationid="mabja">
+                <seg>“Maitreya, how do such bodhisattva mahāsattvas have emancipation in the perfection of wisdom?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="90">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">699</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:07:46.186Z" creationid="mabja">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་འདི་ལྟར་ཡང་དག་པར་སློབ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:07:46.186Z" creationid="mabja">
+                <seg>Well, Maitreya, such bodhisattva mahāsattvas correctly train</seg>
+            </tuv>
+        </tu>
+        <tu tuid="91">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">785</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:08:48.654Z" creationid="mabja">
+                <seg>འདི་ཡོད་པའི་ཕྱིར་འདི་འབྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:08:48.654Z" creationid="mabja">
+                <seg>‘Because one thing exists, another one arises;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="92">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">832</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:09:30.711Z" creationid="mabja">
+                <seg>འདི་སྐྱེས་པས་འདི་སྐྱེ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:09:30.711Z" creationid="mabja">
+                <seg>because this is born, that is born.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="104">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1459</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:35:57.792Z" creationid="mabja">
+                <seg>སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:35:57.792Z" creationid="mabja">
+                <seg>Conditioned by birth, aging and death come into being,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="105">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1514</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:38:36.535Z" creationid="mabja">
+                <seg>མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:38:36.535Z" creationid="mabja">
+                <seg>as well as misery, lamentations,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="106">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1547</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:39:03.61Z" creationid="mabja">
+                <seg>སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:39:03.61Z" creationid="mabja">
+                <seg>suffering, unhappiness,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="109">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1645</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:42:18.397Z" creationid="mabja">
+                <seg>།འདི་མེད་པའི་ཕྱིར་འདི་མི་འབྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:42:18.397Z" creationid="mabja">
+                <seg>without these conditions, it does not come into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="110">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1702</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:43:05.106Z" creationid="mabja">
+                <seg>འདི་འགགས་པས་འདི་འགག་སྟེ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:43:05.106Z" creationid="mabja">
+                <seg>‘When these conditions cease to exist, it also ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="111">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1757</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:43:37.505Z" creationid="mabja">
+                <seg>མ་རིག་པ་འགགས་པས་འདུ་བྱེད་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:43:37.505Z" creationid="mabja">
+                <seg>When ignorance ceases, karmic formations cease.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="112">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1805</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:44:23.433Z" creationid="mabja">
+                <seg>།འདུ་བྱེད་འགགས་པས་རྣམ་པར་ཤེས་པ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:44:23.433Z" creationid="mabja">
+                <seg>When karmic formations cease, consciousness ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="113">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1857</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:44:59.187Z" creationid="mabja">
+                <seg>།རྣམ་པར་ཤེས་པ་འགགས་པས་མིང་དང་གཟུགས་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:44:59.187Z" creationid="mabja">
+                <seg>When consciousness ceases, name and form cease.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="114">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1905</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:46:50.943Z" creationid="mabja">
+                <seg>།མིང་དང་གཟུགས་འགགས་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:46:50.943Z" creationid="mabja">
+                <seg>When name and form cease,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="115">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1968</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:49:10.402Z" creationid="mabja">
+                <seg>།སྐྱེ་མཆེད་དྲུག་འགགས་པས་རེག་པ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:49:10.402Z" creationid="mabja">
+                <seg>When the six sources of perception cease, contact ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="117">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">2026</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:51:10.025Z" creationid="mabja">
+                <seg>།རེག་པ་འགགས་པས་ཚོར་བ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:51:10.025Z" creationid="mabja">
+                <seg>When contact ceases, feeling ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="118">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1931</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T10:53:53.411Z" creationid="mabja">
+                <seg>སྐྱེ་མཆེད་དྲུག་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T10:53:53.411Z" creationid="mabja">
+                <seg>the six sources of perception cease</seg>
+            </tuv>
+        </tu>
+        <tu tuid="125">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-10T11:25:41.657Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-10T11:25:41.657Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="137">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">666</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:22:08.312Z" creationid="mabja">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ངེས་པར་འབྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:22:08.312Z" creationid="mabja">
+                <seg>This, Maitreya, is how the bodhisattva mahāsattvas have emancipation in the perfection of wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="138">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">764</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:23:27.17Z" creationid="mabja">
+                <seg>།བྱམས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:23:27.17Z" creationid="mabja">
+                <seg>“Maitreya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="139">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">775</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:27:16.753Z" creationid="mabja">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་བརྒྱད་པོ་དེ་དག་དང་ལྡན་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:27:16.753Z" creationid="mabja">
+                <seg>if bodhisattva mahāsattvas possess those eight qualities,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="140">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">833</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:29:02.164Z" creationid="mabja">
+                <seg>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པའི་ཆོས་ཅན་དུ་འགྱུར་ཞིང་མི་ཉམས་ལ་ཡོངས་སུ་མི་ཉམས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:29:02.164Z" creationid="mabja">
+                <seg>they will become irreversibly set on supreme and perfect enlightenment without regressing,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="141">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">965</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:30:10.779Z" creationid="mabja">
+                <seg>ཁྱད་པར་ཐོབ་པར་འགྱུར</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:30:10.779Z" creationid="mabja">
+                <seg>will gain special attainments;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="142">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">996</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:36:16.213Z" creationid="mabja">
+                <seg>བདུད་ཕྱིར་རྒོལ་བ་བཅོམ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:36:16.213Z" creationid="mabja">
+                <seg>they will vanquish negative and hostile influences;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="143">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1053</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:37:30.84Z" creationid="mabja">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ན་ཆོས་ཐམས་ཅད་ཀྱི་ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད་ཇི་ལྟ་བ་བཞིན་དུ་རྟོགས་ནས་འཁོར་བ་ན་ཡོངས་སུ་མི་སྐྱོ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:37:30.84Z" creationid="mabja">
+                <seg>while engaging in the conduct of a bodhisattva, they will realize the intrinsic characteristics of all phenomena just as they are and therefore be indefatigable in saṃsāra.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="144">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1231</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:38:29.129Z" creationid="mabja">
+                <seg>ཡོངས་སུ་མི་སྐྱོ་བའི་ཡིད་དང་ལྡན་ནས་ཀྱང་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:38:29.129Z" creationid="mabja">
+                <seg>as well as having that indefatigable mind,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="148">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1469</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T09:48:18.491Z" creationid="mabja">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T09:48:18.491Z" creationid="mabja">
+                <seg>the bodhisattva mahāsattva Maitreya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="156">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-11T10:18:11.055Z" creationid="mabja">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-11T10:18:11.055Z" creationid="mabja">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="157">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">605</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:03:02.327Z" creationid="mabja">
+                <seg>། གལ་ཏེ་ཞུས་ནས་ཞུ་བ་ལུང་བསྟན་པའི་སླད་དུ་བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་སྐབས་ཕྱེ་ན། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་བདག་ཕྱོགས་འགའ་ཞིག་ཞུ་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:03:02.327Z" creationid="mabja">
+                <seg>“Would the Blessed One please, if he has time, answer a certain question that I would like to put to the Tathāgata, the Arhat, the perfectly enlightened Buddha?”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="159">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:04:51.723Z" creationid="mabja">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:04:51.723Z" creationid="mabja">
+                <seg>The Blessed One answered the bodhisattva mahāsattva Maitreya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="160">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">63</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:16:03.375Z" creationid="mabja">
+                <seg>།བྱམས་པ་ཁྱོད་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་ཅི་དང་ཅི་འདོད་པ་དྲིས་ཤིག་དང་། དྲིས་པ་དེ་དང་དེའི་ལུང་བསྟན་པས་ངས་ཁྱོད་ཀྱི་སེམས་རངས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:16:03.375Z" creationid="mabja">
+                <seg>“Maitreya, you may put to the Tathāgata, the Arhat, the perfectly enlightened Buddha whatever question you wish. What I shall say in response to your question will cause you to rejoice.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="161">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">250</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:16:57.168Z" creationid="mabja">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྐབས་ཕྱེ་བས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:16:57.168Z" creationid="mabja">
+                <seg>So, since the Blessed One had given him the opportunity, the bodhisattva mahāsattva Maitreya asked the Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="163">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">821</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:20:15.468Z" creationid="mabja">
+                <seg>ཡོངས་སུ་མི་སྐྱོ་བའི་ཡིད་དང་ལྡན་པར་གྱུར་ནས་ཀྱང་གཞན་གྱི་ཁ་ན་མ་ལས་པའི་ཡེ་ཤེས་ཀྱིས་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:20:15.468Z" creationid="mabja">
+                <seg>And, as well as having that indefatigable mind, through the pristine awareness that does not rely on anything else, to awaken quickly to supreme, perfect enlightenment and become a buddha?”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="165">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1075</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:23:21.734Z" creationid="mabja">
+                <seg>།བྱམས་པ་ལེགས་སོ། །བྱམས་པ་ཁྱོད་དེ་བཞིན་གཤེགས་པ་ལ་དོན་འདི་འདྲི་བར་སེམས་པ་ཁྱོད་ཡང་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:23:21.734Z" creationid="mabja">
+                <seg>“Very good, Maitreya. It is good that you have thought to ask the Tathāgata a question on this point.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="166">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1177</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:23:55.688Z" creationid="mabja">
+                <seg>།བྱམས་པ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་ངས་ཁྱོད་ལ་བཤད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:23:55.688Z" creationid="mabja">
+                <seg>Therefore, Maitreya, listen well and retain in your mind what I shall explain to you.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="171">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1506</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:39:26.782Z" creationid="mabja">
+                <seg>དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:39:26.782Z" creationid="mabja">
+                <seg>together with the monks, as well as all the worlds of gods and men, demigods and gandharvas, rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="172">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1651</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:40:08.569Z" creationid="mabja">
+                <seg>།འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་བྱམས་པས་ཞུས་པ་ཆོས་བརྒྱད་པ་ཞེས་བྱ་བའི་ལེའུ་སྟེ་བཞི་བཅུ་རྩ་གཉིས་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:40:08.569Z" creationid="mabja">
+                <seg>This concludes “The Question of Maitreya‌ on the Eight Qualities,” the forty-second section of The Noble Dharma Discourse, the Great Heap of Jewels, in one hundred thousand sections.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="173">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1834</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-16T10:40:31.611Z" creationid="mabja">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་ཆད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-16T10:40:31.611Z" creationid="mabja">
+                <seg>The Indian scholars Jinamitra and Danaśila together with the chief editor and translator Yeshé Dé translated, edited, corrected this text using the revised terminology, and finalized it.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="174">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">76</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:29:20.869Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཁྲི་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:29:20.869Z" creationid="celso">
+                <seg>The Blessed One was staying in Rājagṛha, on Vulture Peak Mountain, together with a great saṅgha of 1,250 monks and 10,000 bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="175">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">367</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:33:13.286Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་དུ་དང་ལྡན་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པའི་ཆོས་ཅན་དུ་འགྱུར་ཞིང་མི་ཉམས་ལ་ཡོངས་སུ་མི་ཉམས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:33:13.286Z" creationid="celso">
+                <seg>Blessed One, how many qualities do bodhisattva mahāsattvas need to possess in order to become irreversibly set on supreme and perfect enlightenment without regressing, without regressing in the slightest, and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="176">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">576</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:33:45.948Z" creationid="celso">
+                <seg>ཁྱད་པར་ཐོབ་པར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:33:45.948Z" creationid="celso">
+                <seg>to gain special attainments;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="177">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">605</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:33:59.039Z" creationid="celso">
+                <seg>བདུད་ཕྱིར་རྒོལ་བ་བཅོམ་པར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:33:59.039Z" creationid="celso">
+                <seg>to vanquish negative and hostile influences; and,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="178">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">655</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:34:42.761Z" creationid="celso">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ན་ཆོས་ཐམས་ཅད་ཀྱི་ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད་ཇི་ལྟ་བ་བཞིན་དུ་རྟོགས་ནས་འཁོར་བ་ན་ཡོངས་སུ་མི་སྐྱོ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:34:42.761Z" creationid="celso">
+                <seg>while engaging in the conduct of a bodhisattva, to realize the intrinsic characteristics of all phenomena just as they are and therefore be indefatigable in saṃsāra?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="179">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1011</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:35:21.406Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:35:21.406Z" creationid="celso">
+                <seg>The Blessed One replied to the bodhisattva mahāsattva Maitreya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="180">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1264</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:37:36.377Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་ལྟར་འཚལ་ལོ་ཞེས་གསོལ་ཏོ། །བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:37:36.377Z" creationid="celso">
+                <seg>“Blessed One, please do so,” said the bodhisattva mahāsattva Maitreya, and listened as the Blessed One had instructed him.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="181">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1387</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:37:54.785Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:37:54.785Z" creationid="celso">
+                <seg>The Blessed One, in turn, continued,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="182">
+            <prop name="folio">F.117.a</prop>
+            <prop name="position">1425</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:38:27.587Z" creationid="celso">
+                <seg>།བྱམས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་བརྒྱད་དང་ལྡན་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པའི་ཆོས་ཅན་དུ་འགྱུར་ཞིང་མི་ཉམས་ལ་ཡོངས་སུ་མི་ཉམས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:38:27.587Z" creationid="celso">
+                <seg>Maitreya, if bodhisattvas possess eight qualities, they will become irreversibly set on supreme and perfect enlightenment without regressing, without regressing in the slightest,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="183">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">305</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:39:04.601Z" creationid="celso">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:39:04.601Z" creationid="celso">
+                <seg>and, while engaging in the conduct of a bodhisattva,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="184">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">794</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:39:50.257Z" creationid="celso">
+                <seg>སྦྱོར་བ་ཕུན་སུམ་ཚོགས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:39:50.257Z" creationid="celso">
+                <seg>excellent application,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="185">
+            <prop name="folio">F.117.b</prop>
+            <prop name="position">1632</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:41:47.786Z" creationid="celso">
+                <seg>འདོད་པ་ལ་ལོག་པར་གཡེམ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:41:47.786Z" creationid="celso">
+                <seg>sexual misconduct,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="186">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">192</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:42:20.735Z" creationid="celso">
+                <seg>ཚིག་ཀྱལ་བ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:42:20.735Z" creationid="celso">
+                <seg>gossip.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="187">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">338</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:44:17.693Z" creationid="celso">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་དགེ་སྦྱོང་དང་། བྲམ་ཟེ་རྣམས་དང་། ཕོངས་པ་དང་སློང་བ་རྣམས་ལ་གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། ན་བའི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་གཏོང་བ་དང་། སྦྱིན་པ་དག་ཏུ་གྱུར་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:44:17.693Z" creationid="celso">
+                <seg>Well, Maitreya, such bodhisattva mahāsattvas give clothes, food, bedding, curative medicines, and necessities to ascetics, brahmins, poor people, and beggars. Their generosity then becomes pure.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="188">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">664</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:46:59.127Z" creationid="celso">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་ལུས་དང་ངག་དང་། ཡིད་ཀྱིས་དགེ་བའི་རྩ་བ་མངོན་པར་འདུ་བྱེད་པ་གང་ཅི་ཡང་རུང་སྟེ། དེ་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་སྔོ་བར་བྱེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:46:59.127Z" creationid="celso">
+                <seg>Well, Maitreya, such bodhisattva mahāsattvas dedicate all the accumulations of roots of virtue that they have created through their body, speech, and mind to supreme, perfect enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="189">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">854</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:47:23.726Z" creationid="celso">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཡོངས་སུ་བསྔོ་བ་ལ་མཁས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:47:23.726Z" creationid="celso">
+                <seg>This, Maitreya, is how the bodhisattva mahāsattvas have skill in dedicating merit.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="190">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">938</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:49:28.452Z" creationid="celso">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:49:28.452Z" creationid="celso">
+                <seg>Maitreya, how do such bodhisattvas have excellent loving kindness?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="191">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1144</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:50:12.015Z" creationid="celso">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:50:12.015Z" creationid="celso">
+                <seg>This, Maitreya, is how the bodhisattva mahāsattvas have excellent loving kindness.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="192">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1228</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:50:27.37Z" creationid="celso">
+                <seg>།བྱམས་པ་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྙིང་རྗེ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:50:27.37Z" creationid="celso">
+                <seg>Maitreya, how do such bodhisattvas have excellent compassion?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="193">
+            <prop name="folio">F.118.a</prop>
+            <prop name="position">1290</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:50:52.779Z" creationid="celso">
+                <seg>བྱམས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་གནོད་སེམས་མེད་པའི་ལུས་ཀྱི་ལས་དང་ལྡན་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:50:52.779Z" creationid="celso">
+                <seg>Well, Maitreya, the bodhisattva mahāsattvas’ physical actions are without malice,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="194">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">146</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:51:50.511Z" creationid="celso">
+                <seg>གནོད་སེམས་མེད་པའི་ངག་གི་ལས་དང་ལྡན་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:51:50.511Z" creationid="celso">
+                <seg>their verbal actions are without malice,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="195">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">187</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:52:35.223Z" creationid="celso">
+                <seg>གནོད་སེམས་མེད་པའི་ཡིད་ཀྱི་ལས་དང་ལྡན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:52:35.223Z" creationid="celso">
+                <seg>and their mental actions are without malice.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="196">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">232</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:52:45.91Z" creationid="celso">
+                <seg>བྱམས་པ་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྙིང་རྗེ་ཕུན་སུམ་ཚོགས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:52:45.91Z" creationid="celso">
+                <seg>This, Maitreya, is how the bodhisattvas have excellent compassion.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="197">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1575</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:56:02.291Z" creationid="celso">
+                <seg>འཁྲུག་པ་རྣམས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:56:02.291Z" creationid="celso">
+                <seg>agitation.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="198">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">868</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:56:18.328Z" creationid="celso">
+                <seg>མ་རིག་པའི་རྐྱེན་གྱིས་འདུ་བྱེད་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:56:18.328Z" creationid="celso">
+                <seg>Conditioned by ignorance, karmic formations come into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="199">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">929</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:56:29.669Z" creationid="celso">
+                <seg>འདུ་བྱེད་ཀྱི་རྐྱེན་གྱིས་རྣམ་པར་ཤེས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:56:29.669Z" creationid="celso">
+                <seg>Conditioned by karmic formations, consciousness comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="200">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">995</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:56:42.587Z" creationid="celso">
+                <seg>རྣམ་པར་ཤེས་པའི་རྐྱེན་གྱིས་མིང་དང་གཟུགས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:56:42.587Z" creationid="celso">
+                <seg>Conditioned by consciousness, name and form come into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="201">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1056</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:56:57.458Z" creationid="celso">
+                <seg>མིང་དང་གཟུགས་ཀྱི་རྐྱེན་གྱིས་སྐྱེ་མཆེད་དྲུག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:56:57.458Z" creationid="celso">
+                <seg>Conditioned by name and form, the six sources of perception come into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="202">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1133</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:57:09.244Z" creationid="celso">
+                <seg>།སྐྱེ་མཆེད་དྲུག་གི་རྐྱེན་གྱིས་རེག་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:57:09.244Z" creationid="celso">
+                <seg>Conditioned by the six sources of perception, contact comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="203">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1205</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:57:17.497Z" creationid="celso">
+                <seg>རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:57:17.497Z" creationid="celso">
+                <seg>Conditioned by contact, feeling comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="204">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1255</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:57:25.98Z" creationid="celso">
+                <seg>ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:57:25.98Z" creationid="celso">
+                <seg>Conditioned by feeling, craving comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="205">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1305</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:57:35.913Z" creationid="celso">
+                <seg>སྲེད་པའི་རྐྱེན་གྱིས་ལེན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:57:35.913Z" creationid="celso">
+                <seg>Conditioned by craving, grasping comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="206">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1356</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:57:45.285Z" creationid="celso">
+                <seg>ལེན་པའི་རྐྱེན་གྱིས་སྲིད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:57:45.285Z" creationid="celso">
+                <seg>Conditioned by grasping, existence comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="207">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1409</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:57:54.775Z" creationid="celso">
+                <seg>སྲིད་པའི་རྐྱེན་གྱིས་སྐྱེ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:57:54.775Z" creationid="celso">
+                <seg>Conditioned by existence, birth comes into being.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="208">
+            <prop name="folio">F.118.b</prop>
+            <prop name="position">1586</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T18:59:29.516Z" creationid="celso">
+                <seg>དེ་ལྟར་ན་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཞིག་པོ་འདི་འབྱུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T18:59:29.516Z" creationid="celso">
+                <seg>That is how this great heap of suffering comes into being;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="209">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">364</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:00:19.039Z" creationid="celso">
+                <seg>།ཚོར་བ་འགགས་པས་སྲེད་པ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:00:19.039Z" creationid="celso">
+                <seg>When feeling ceases, craving ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="210">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">401</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:00:30.082Z" creationid="celso">
+                <seg>།སྲེད་པ་འགགས་པས་ལེན་པ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:00:30.082Z" creationid="celso">
+                <seg>When craving ceases, grasping ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="211">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">439</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:00:51.11Z" creationid="celso">
+                <seg>།ལེན་པ་འགགས་པས་སྲིད་པ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:00:51.11Z" creationid="celso">
+                <seg>When grasping ceases, existence ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="212">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">479</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:01:00.914Z" creationid="celso">
+                <seg>།སྲིད་པ་འགགས་པས་སྐྱེ་བ་འགག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:01:00.914Z" creationid="celso">
+                <seg>When existence ceases, birth ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="213">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">516</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:01:15.175Z" creationid="celso">
+                <seg>།སྐྱེ་བ་འགགས་པས་རྒ་ཤི་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་རྣམས་འགག་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:01:15.175Z" creationid="celso">
+                <seg>When birth ceases, aging, death, misery, lamentations, suffering, unhappiness, and agitation cease.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="214">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">616</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:01:28.643Z" creationid="celso">
+                <seg>དེ་ལྟར་ན་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཤིག་པོ་འདི་འགག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:01:28.643Z" creationid="celso">
+                <seg>That is how this great heap of suffering ceases.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="215">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1275</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:02:40.706Z" creationid="celso">
+                <seg>གཞན་གྱི་ཁ་ན་མ་ལས་པའི་ཡེ་ཤེས་ཀྱིས་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:02:40.706Z" creationid="celso">
+                <seg>hrough the pristine awareness that does not rely on anything else, they will quickly awaken to supreme, perfect enlightenment and become a buddha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="216">
+            <prop name="folio">F.119.a</prop>
+            <prop name="position">1423</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-25T19:03:02.257Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-25T19:03:02.257Z" creationid="celso">
+                <seg>After the Blessed One had spoken these words,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

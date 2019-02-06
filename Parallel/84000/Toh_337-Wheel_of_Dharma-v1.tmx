@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-26T08:40:02.862Z" creationid="mabja"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">f.275.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T08:40:02.862Z" creationid="mabja">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T08:40:02.862Z" creationid="mabja">
+                <seg>Homage to the Omniscient One!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">f.275.a</prop>
+            <prop name="position">31</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T08:40:12.66Z" creationid="mabja">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T08:40:12.66Z" creationid="mabja">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">f.275.a</prop>
+            <prop name="position">60</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T08:40:23.035Z" creationid="mabja">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་བཱ་རཱ་ཎ་སཱི་དྲང་སྲོང་སྨྲ་བའི་རི་དགས་ཀྱི་ནགས་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T08:40:23.035Z" creationid="mabja">
+                <seg>The Blessed One, the Buddha, was residing in the Deer Park at Ṛṣivadana by Vārāṇasī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">f.275.a</prop>
+            <prop name="position">145</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T08:40:36.765Z" creationid="mabja">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྔ་སྡེའི་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T08:40:36.765Z" creationid="mabja">
+                <seg>At that time the Blessed One spoke to the group of five monks:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">1265</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:19:50.915Z" creationid="mabja">
+                <seg>དགེ་སློང་དག་ངས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་ཞེས་བྱ་བར་མ་ཤེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:19:50.915Z" creationid="mabja">
+                <seg>Monks, I did not have the knowledge that I had fully awakened to unsurpassed and perfect buddhahood.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">404</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:23:51.23Z" creationid="mabja">
+                <seg>དགེ་སློང་དག་ངས་དེ་ནས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ་ཞེས་བྱ་བར་ཤེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:23:51.23Z" creationid="mabja">
+                <seg>Monks, I then had the knowledge that I had fully awakened to unsurpassed and perfect buddhahood.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">502</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:24:32.852Z" creationid="mabja">
+                <seg>།ཆོས་ཀྱི་རྣམ་གྲངས་དེ་བཀའ་སྩལ་པ་ན། ཚེ་དང་ལྡན་པ་ཀཽ་ཎྜི་ནྱ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:24:32.852Z" creationid="mabja">
+                <seg>When the Blessed One had given this Dharma discourse, venerable Kauṇḍinya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="28">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">577</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:25:07.195Z" creationid="mabja">
+                <seg>ལྷ་བརྒྱད་ཁྲི་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་མིག་རྡུལ་མེད་ཅིང་དྲི་མ་དང་བྲལ་བ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:25:07.195Z" creationid="mabja">
+                <seg>along with eighty thousand gods, achieved the Dharma vision that is free from dust and stainless with regard to phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="29">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">700</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:25:16.67Z" creationid="mabja">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀཽ་ཎྜི་ནྱ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:25:16.67Z" creationid="mabja">
+                <seg>The Blessed One now asked venerable Kauṇḍinya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">945</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:28:41.716Z" creationid="mabja">
+                <seg>།ཚེ་དང་ལྡན་པ་ཀཽ་ཎྜི་ནྱས་ཆོས་ཀུན་ཤེས་པས་དེའི་ཕྱིར་ཚེ་དང་ལྡན་པ་ཀཽཎྜི་ནྱ་ཀུན་ཤེས་ཀཽཎྜི་ནྱ་ཞེས་ཚིག་བླ་དགས་སུ་བཏགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:28:41.716Z" creationid="mabja">
+                <seg>“Because venerable Kauṇḍinya has understood the Dharma, venerable Kauṇḍinya shall now be known as Ājñātakauṇḍinya.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">1061</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:29:36.728Z" creationid="mabja">
+                <seg>།ཚེ་དང་ལྡན་པ་ཀཽ་ཎྜི་ནྱས་ཆོས་ཀུན་ཤེས་སོ་ཞེས་ས་བླའི་གནོད་སྦྱིན་རྣམས་སྒྲ་སྒྲོགས་པར་བྱེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:29:36.728Z" creationid="mabja">
+                <seg>At that point the terrestrial yakṣas called out, “Venerable Kauṇḍinya has understood the Dharma!” And they continued,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="44">
+            <prop name="folio">f.277.a</prop>
+            <prop name="position">1201</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T09:38:00.482Z" creationid="mabja">
+                <seg>།ཆོས་ཀྱི་འཁོར་ལོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T09:38:00.482Z" creationid="mabja">
+                <seg>This completes The Sūtra of the Wheel of Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="45">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">475</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T10:20:42.721Z" creationid="mabja">
+                <seg>།ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ། །དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ་སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་བསྒོམས་སོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ། །ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T10:20:42.721Z" creationid="mabja">
+                <seg>knowledge, apprehension, understanding, and realization arose. “Monks, as I focused my mind correctly on the things that I had not hitherto heard, thinking, ‘With higher knowledge I have cultivated the path leading to the cessation of suffering, that truth of noble beings,’ vision arose; knowledge, apprehension, understanding, and realization arose.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="46">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">382</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T10:21:47.67Z" creationid="mabja">
+                <seg>།འདི་ནི་སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་མོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ། །ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T10:21:47.67Z" creationid="mabja">
+                <seg>and this is the path leading to the cessation of suffering,’ vision arose; knowledge, apprehension, understanding, and realization arose.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="47">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">711</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T10:22:46.9Z" creationid="mabja">
+                <seg>།ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ། །དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ་སྡུག་བསྔལ་ཀུན་འབྱུང་བ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་སྤང་བར་བྱའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ། །ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T10:22:46.9Z" creationid="mabja">
+                <seg>knowledge, apprehension, understanding, and realization arose. “Monks, as I focused my mind correctly on the things that I had not hitherto heard, thinking, ‘With higher knowledge I should relinquish the origin of suffering, that truth of noble beings,’ vision arose; knowledge, apprehension, understanding, and realization arose.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="48">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">1249</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T10:23:40.169Z" creationid="mabja">
+                <seg>།ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ། །དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ་སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་བསྒོམ་པར་བྱའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ། །ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T10:23:40.169Z" creationid="mabja">
+                <seg>knowledge, apprehension, understanding, and realization arose. “Monks, as I focused my mind correctly on the things that I had not hitherto heard, thinking, ‘With higher knowledge I should cultivate the path leading to the cessation of suffering, that truth of noble beings,’ vision arose; knowledge, apprehension, understanding, and realization arose.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="49">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">1793</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T10:24:49.821Z" creationid="mabja">
+                <seg>།ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ། །དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ་སྡུག་བསྔལ་ཀུན་འབྱུང་བ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་སྤངས་སོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T10:24:49.821Z" creationid="mabja">
+                <seg>knowledge, apprehension, understanding, and realization arose. “Monks, as I focused my mind correctly on the things that I had not hitherto heard, thinking, ‘With higher knowledge I have relinquished the origin of suffering, that truth of noble beings,’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="50">
+            <prop name="folio">f.275.a</prop>
+            <prop name="position">209</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:16:11.071Z" creationid="laura">
+                <seg>དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:16:11.071Z" creationid="laura">
+                <seg>Monks, as I focused my mind correctly on the things that I had not hitherto heard,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="51">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">85</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:16:41.05Z" creationid="laura">
+                <seg>འདི་ནི་སྡུག་བསྔལ་འཕགས་པའི་བདེན་པའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:16:41.05Z" creationid="laura">
+                <seg>thinking, ‘This is suffering, a truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="52">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">155</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:17:06.918Z" creationid="laura">
+                <seg>།ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:17:06.918Z" creationid="laura">
+                <seg>knowledge, apprehension, understanding, and realization arose.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="53">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">2</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:17:56.008Z" creationid="laura">
+                <seg>།དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:17:56.008Z" creationid="laura">
+                <seg>Monks, as I focused my mind correctly on the things that I had not hitherto heard</seg>
+            </tuv>
+        </tu>
+        <tu tuid="54">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">302</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:18:24.019Z" creationid="laura">
+                <seg>འདི་ནི་སྡུག་བསྔལ་ལོ། །འདི་ནི་སྡུག་བསྔལ་ཀུན་འབྱུང་བའོ། །འདི་ནི་སྡུག་བསྔལ་འགོག་པའོ། །འདི་ནི་སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་མོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:18:24.019Z" creationid="laura">
+                <seg>thinking, ‘This is the origin of suffering, this is the cessation of suffering, and this is the path leading to the cessation of suffering,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="55">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">604</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:23:41.504Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་ཡོངས་སུ་ཤེས་པར་བྱའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:23:41.504Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I should comprehend suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="56">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">858</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:24:07.739Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་ཀུན་འབྱུང་བ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་སྤང་བར་བྱའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:24:07.739Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I should relinquish the origin of suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="57">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">1126</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:24:21.946Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་འགོག་པ་ཤེས་པ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་མངོན་སུམ་དུ་བྱའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:24:21.946Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I should actualize the cessation of suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="58">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">1396</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:24:37.194Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་བསྒོམ་པར་བྱའོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:24:37.194Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I should cultivate the path leading to the cessation of suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="59">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">1686</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:25:01.254Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་ཡོངས་སུ་ཤེས་སོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:25:01.254Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I have comprehended suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="60">
+            <prop name="folio">f.275.b</prop>
+            <prop name="position">1940</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:25:16.447Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་ཀུན་འབྱུང་བ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་སྤངས་སོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:25:16.447Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I have relinquished the origin of suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="61">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">2</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:25:52.327Z" creationid="laura">
+                <seg>།དགེ་སློང་དག་ང་སྔོན་མ་ཐོས་པའི་ཆོས་རྣམས་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:25:52.327Z" creationid="laura">
+                <seg>Monks, as I focused my mind correctly on the things that I had not hitherto heard,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="62">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">353</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:27:09.369Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་འགོག་པ་ཤེས་པའི་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་མངོན་སུམ་དུ་བྱས་སོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:27:09.369Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I have actualized the cessation of suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="63">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">206</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:27:21.879Z" creationid="laura">
+                <seg>།ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:27:21.879Z" creationid="laura">
+                <seg>knowledge, apprehension, understanding, and realization arose.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="64">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">622</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:27:34.775Z" creationid="laura">
+                <seg>སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་འཕགས་པའི་བདེན་པ་དེ་ངས་མངོན་པར་ཤེས་པས་བསྒོམས་སོ་ཞེས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ན་མིག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:27:34.775Z" creationid="laura">
+                <seg>thinking, ‘With higher knowledge I have cultivated the path leading to the cessation of suffering, that truth of noble beings,’ vision arose</seg>
+            </tuv>
+        </tu>
+        <tu tuid="65">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">828</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T19:29:16.456Z" creationid="laura">
+                <seg>།དགེ་སློང་དག་ང་ཇི་སྲིད་དུ་འཕགས་པའི་བདེན་པ་བཞི་པོ་འདི་རྣམས་ལ་དེ་ལྟར་ལན་གསུམ་དུ་བཟླས་ཏེ་རྣམ་པ་བཅུ་གཉིས་སུ་བསྐོར་བའི་མིག་མ་སྐྱེས། ཤེས་པ་མ་ཡིན་རིག་པ་མ་ཡིན་བློ་མ་ཡིན་རྟོགས་པ་མ་སྐྱེས་པ་དེ་སྲིད་དུ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T19:29:16.456Z" creationid="laura">
+                <seg>Monks, until I had achieved the vision, knowledge, apprehension, understanding, and realization of these four truths of noble beings that are turned in three phases and comprise twelve aspects,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="66">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">1022</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:01:50.159Z" creationid="laura">
+                <seg>ང་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་བདུད་དང་བཅས་ཚངས་པ་དང་བཅས་དགེ་སྦྱོང་དང་བྲམ་ཟེར་བཅས་པའི་སྐྱེ་དགུ་དང་། ལྷ་དང་མིར་བཅས་པ་འདི་ལས་གྲོལ་བ་དང་ངེས་པར་བྱུང་བ་དང་མི་ལྡན་པ་དང་། རབ་ཏུ་གྲོལ་བ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:01:50.159Z" creationid="laura">
+                <seg>I had not been freed from the world replete with gods, māras, Brahmā, mendicants, brahmins, humans, and gods. I had not escaped from it, severed ties with it, or been delivered from it.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="67">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">1208</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:02:32.694Z" creationid="laura">
+                <seg>དང་ཕྱིན་ཅི་ལོག་དང་བྲལ་བའི་སེམས་ཀྱིས་མང་དུ་གནས་པར་མ་གྱུར་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:02:32.694Z" creationid="laura">
+                <seg>Nor did I dwell extensively with a mind free from error.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="68">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">1367</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:04:12.667Z" creationid="laura">
+                <seg>།དགེ་སློང་དག་ངས་གང་ནས་འཕགས་པའི་བདེན་པ་བཞི་པོ་འདི་རྣམས་ལ་དེ་ལྟར་ལན་གསུམ་དུ་བཟླས་ཏེ། རྣམ་པ་བཅུ་གཉིས་སུ་བསྐོར་བའི་མིག་སྐྱེས་ཤིང་ཤེས་པ་དང་རིག་པ་དང་བློ་དང་རྟོགས་པ་སྐྱེས་པ་དེ་ནས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:04:12.667Z" creationid="laura">
+                <seg>Monks, once I had achieved the vision, knowledge, apprehension, understanding, and realization of turning these four truths of noble beings in three phases with twelve aspects,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="69">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">1544</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:05:04.892Z" creationid="laura">
+                <seg>ང་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་བདུད་དང་བཅས་ཚངས་པ་དང་བཅས་དགེ་སྦྱོང་དང་བྲམ་ཟེར་བཅས་པའི་སྐྱེ་དགུ་དང་། ལྷ་དང་མིར་བཅས་པ་འདི་ལས་གྲོལ་བ་དང་ངེས་པར་འབྱུང་བ་དང་མི་ལྡན་པ་དང་། རབ་ཏུ་གྲོལ་བ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:05:04.892Z" creationid="laura">
+                <seg>I was freed from the world replete with gods, māras, Brahmā, mendicants, brahmins, humans, and gods. I had escaped from it, severed ties with it, and been delivered from it.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="70">
+            <prop name="folio">f.276.a</prop>
+            <prop name="position">1718</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:05:19.442Z" creationid="laura">
+                <seg>དང་ཕྱིན་ཅི་ལོག་དང་བྲལ་བའི་སེམས་ཀྱིས་མང་དུ་གནས་པར་གྱུར་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:05:19.442Z" creationid="laura">
+                <seg>I dwelled extensively with a mind free from error.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="71">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">747</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:09:19.864Z" creationid="laura">
+                <seg>ཀཽ་ཎྜི་ནྱ་ཁྱོད་ཀྱིས་ཆོས་ཀུན་ཤེས་སམ། བཅོམ་ལྡན་འདས་ཀུན་འཚལ་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:09:19.864Z" creationid="laura">
+                <seg>“Kauṇḍinya, did you understand the Dharma?” “Blessed One,” he replied, “I understood.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="72">
+            <prop name="folio">f.276.b</prop>
+            <prop name="position">834</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:09:47.466Z" creationid="laura">
+                <seg>།ཀཽ་ཎྜི་ནྱ་ཁྱོད་ཀྱིས་ཀུན་ཤེས་སམ་ཀུན་ཤེས་སམ། བདེ་བར་གཤེགས་པ་ཀུན་འཚལ་ལགས་སོ། ། ཀུན་འཚལ་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:09:47.466Z" creationid="laura">
+                <seg>“Kauṇḍinya, did you understand? Did you understand?” “Blissful One,” he replied, “I understood. I understood.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="74">
+            <prop name="folio">f.277.a</prop>
+            <prop name="position">945</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:15:06.512Z" creationid="laura">
+                <seg>ལྷའི་རིས་མངོན་པར་འཕེལ་ཞིང་ལྷ་མ་ཡིན་གྱི་རིས་ཡོངས་སུ་ཉམས་སོ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:15:06.512Z" creationid="laura">
+                <seg>the gods will flourish and the demigods will be on the wane.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="75">
+            <prop name="folio">f.277.a</prop>
+            <prop name="position">475</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:15:46.222Z" creationid="laura">
+                <seg>གྲོགས་པོ་དག་བཅོམ་ལྡན་འདས་ཀྱིས་བཱ་རཱ་ཎ་སཱིར་དྲང་སྲོང་སྨྲ་བའི་རི་དགས་ཀྱི་ནགས་སུ་ལན་གསུམ་དུ་བཟླས་ཏེ་རྣམ་པ་བཅུ་གཉིས་ཀྱི་ཆོས་ཀྱི་འཁོར་ལོ་ཆོས་དང་ལྡན་པ་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་འམ་ལྷ་འམ་བདུད་དམ་ཚངས་པའམ་སུས་ཀྱང་འཇིག་རྟེན་དུ་ཆོས་དང་འཐུན་པར་འགའ་ཡང་མ་བསྐོར་བ། སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་། འཇིག་རྟེན་ལ་སྙིང་བརྩེ་བ་དང་། ལྷ་དང་མི་རྣམས་ཀྱི་དོན་དང་ཕན་པ་དང་བདེ་བའི་ཕྱིར་བསྐོར་བས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:15:46.222Z" creationid="laura">
+                <seg>Friends, in the Deer Park at Ṛṣivadana by Vārāṇasī, the Blessed One has turned the wheel of Dharma in three phases with twelve aspects. He has turned the wheel of Dharma in a way that no mendicant or brahmin, and no god, māra, or Brahmā in the world could ever do in accord with the Dharma. He has done so for the benefit of many beings, for the happiness of many beings, out of love for the world, and for the welfare, benefit, and happiness of gods and humans. Hence,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="76">
+            <prop name="folio">f.277.a</prop>
+            <prop name="position">1130</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:16:35.83Z" creationid="laura">
+                <seg>དེའི་ཕྱིར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་ཞེས་ཚིག་བླ་དགས་སུ་བཏགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:16:35.83Z" creationid="laura">
+                <seg>Therefore, this Dharma teaching was named Turning the Wheel of Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="77">
+            <prop name="folio">f.277.a</prop>
+            <prop name="position">1007</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T15:17:16.233Z" creationid="laura">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཱ་རཱ་ཎ་སཱིར་དྲང་སྲོང་སྨྲ་བའི་རི་དགས་ཀྱི་ནགས་སུ་ལན་གསུམ་དུ་བཟླས་ཏེ། རྣམ་པ་བཅུ་གཉིས་སུ་ཆོས་ཀྱི་འཁོར་ལོ་ཆོས་དང་ལྡན་པ་བསྐོར་བས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T15:17:16.233Z" creationid="laura">
+                <seg>In the Deer Park at Ṛṣivadana by Vārāṇasī, the Blessed One turned the wheel of Dharma in three phases with twelve aspects.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

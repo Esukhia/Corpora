@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-08-29T05:21:12.219Z" creationid="kent"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:21:12.219Z" creationid="kent">
+                <seg>ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་མཐའ་ཡས་མུ་མེད་པ་དག་ན་དུས་གསུམ་དུ་གཤེགས་ཤིང་བཞུགས་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་འཁོར་དང་བཅས་པ་རབ་འབྱམ་མ་ལུས་པའི་དཀོན་མཆོག་ཐམས་ཅད་ལ་གུས་པས་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:21:12.219Z" creationid="kent">
+                <seg>Devoted prostrations to every one of the myriad Three Jewels, and to the buddhas and bodhisattvas and their retinues, who appear and dwell in the infinite, endless worlds of existence of the ten directions and three times.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">224</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:21:55.606Z" creationid="kent">
+                <seg>ཕྱོགས་བཅུའི་སངས་རྒྱས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:21:55.606Z" creationid="kent">
+                <seg>Prostrations to all the buddhas of the ten directions</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">279</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:22:42.508Z" creationid="kent">
+                <seg>ཤར་ཕྱོགས་ཀྱི་སངས་རྒྱས་རིན་ཆེན་འབྱུང་གནས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:22:42.508Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Ratnākara, buddha of the east</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">340</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:23:11.123Z" creationid="kent">
+                <seg>།ལྷོ་ཕྱོགས་ཀྱི་སངས་རྒྱས་མྱ་ངན་མེད་པའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:23:11.123Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Aśokaśrī, buddha of the south</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">401</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:23:40.895Z" creationid="kent">
+                <seg>ནུབ་ཕྱོགས་ཀྱི་སངས་རྒྱས་རིན་ཆེན་འོད་འཕྲོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:23:40.895Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Ratnārcis, buddha of the west</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">463</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:24:11.802Z" creationid="kent">
+                <seg>།བྱང་ཕྱོགས་ཀྱི་སངས་རྒྱས་རྒྱལ་བའི་དབང་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:24:11.802Z" creationid="kent">
+                <seg>rostrations to the tathāgata Jinendra, buddha of the north</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">523</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:24:46.821Z" creationid="kent">
+                <seg>།བྱང་ཤར་མཚམས་ཀྱི་སངས་རྒྱས་ཏིང་ངེ་འཛིན་གྱི་གླང་པོ་དམ་པའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:24:46.821Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Samādhi­hastyuttara­śrī, buddha of the northeast</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">380</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:26:34.235Z" creationid="kent">
+                <seg>ཤར་ལྷོ་མཚམས་ཀྱི་སངས་རྒྱས་པད་མོ་དམ་པའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:26:34.235Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Padmottaraśrī, buddha of the southeast</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">540</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:27:54.699Z" creationid="kent">
+                <seg>ནུབ་བྱང་མཚམས་ཀྱི་སངས་རྒྱས་གདུགས་དམ་པའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:27:54.699Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Chattrottama­śrī, buddha of the northwest</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">613</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:28:49.246Z" creationid="kent">
+                <seg>འོག་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་པད་མོའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:28:49.246Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Padmaśrī, buddha of the nadir</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">674</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:29:25.919Z" creationid="kent">
+                <seg>བླ་མ་ཕྱོགས་ཀྱི་སངས་རྒྱས་དགའ་བའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:29:25.919Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Ānandaśrī, buddha of the zenith.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">737</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:29:59.288Z" creationid="kent">
+                <seg>།ཡང་ཤར་ཕྱོགས་ཀྱི་སངས་རྒྱས་མི་འཁྲུགས་པ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:29:59.288Z" creationid="kent">
+                <seg>Again, prostrations to the tathāgata, buddha of the east, Akṣobhya;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">805</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:30:25.856Z" creationid="kent">
+                <seg>ལྷོ་ཕྱོགས་ཀྱི་སངས་རྒྱས་རིན་ཆེན་འབྱུང་ལྡན་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:30:25.856Z" creationid="kent">
+                <seg>Prostrations to the tathāgata buddha of the south, Ratnasaṃbhava;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">871</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:30:49.333Z" creationid="kent">
+                <seg>ནུབ་ཕྱོགས་ཀྱི་སངས་རྒྱས་སྣང་བ་མཐའ་ཡས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:30:49.333Z" creationid="kent">
+                <seg>Prostrations to the tathāgata buddha of the west, Amitābha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">931</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:31:10.864Z" creationid="kent">
+                <seg>བྱང་ཕྱོགས་ཀྱི་སངས་རྒྱས་དོན་ཡོད་གྲུབ་པ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:31:10.864Z" creationid="kent">
+                <seg>Prostrations to the tathāgata buddha of the north, Amoghasiddhi;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">996</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:32:50.277Z" creationid="kent">
+                <seg>སངས་རྒྱས་དཔའ་བརྟན་པའི་སྡེ་དགའ་བའི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:32:50.277Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “Joyous King Vīrasena;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">1057</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:33:24.542Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཚེ་མཐའ་ཡས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:33:24.542Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Amitāyus;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">1104</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:33:54.222Z" creationid="kent">
+                <seg>།སངས་རྒྱས་མི་འཁྲུགས་པ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:33:54.222Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Akṣobhya;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">1151</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:34:24.53Z" creationid="kent">
+                <seg>།སངས་རྒྱས་སྨན་གྱི་བླ་བཻ་དཱུརྱའི་འོད་ཀྱི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:34:24.53Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Bhaiṣajya­guru­vaiḍūrya­prabha­rāja;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">1225</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:34:57.536Z" creationid="kent">
+                <seg>།སངས་རྒྱས་སཱ་ལའི་མེ་ཏོག་ཀུན་ཏུ་རྒྱས་པའི་དབང་པོའི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:34:57.536Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Śāla­saṃkusumita­rājendra;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">1289</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:35:20.77Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:35:20.77Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Śākyamuni;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">1337</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:35:51.56Z" creationid="kent">
+                <seg>།སངས་རྒྱས་རིན་པོ་ཆེའི་དཔལ་གྱི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:35:51.56Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Ratnaśrīrāja;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">652</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:36:51.455Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཀུན་ཏུ་བཟང་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:36:51.455Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Samantabhadra;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">704</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:37:11.464Z" creationid="kent">
+                <seg>།སངས་རྒྱས་རྣམ་པར་སྣང་མཛད་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:37:11.464Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Vairocana;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">752</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-29T05:37:37.633Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཨུད་པ་ལ་རྒྱས་པ་བསུང་གི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-29T05:37:37.633Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “King whose Fragrance is that of a Blossoming Utpala;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1144</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:35:15.707Z" creationid="kent">
+                <seg>།རྡུལ་མེད་པའི་འཇིག་རྟེན་ན། སངས་རྒྱས་སེང་གེ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:35:15.707Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World Without Dust,” Buddha Siṃha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="32">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1217</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:35:59.025Z" creationid="kent">
+                <seg>།རབ་ཏུ་སྣང་བའི་འཇིག་རྟེན་ན་སངས་རྒྱས་རིན་པོ་ཆེའི་གཙུག་ཕུད་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:35:59.025Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World of Supreme Illumination,” Buddha Ratnaśikhin;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="33">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1307</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:36:47.644Z" creationid="kent">
+                <seg>།འོད་བཟང་པོའི་འཇིག་རྟེན་ན། སངས་རྒྱས་རྣམ་པར་སྣང་མཛད་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:36:47.644Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World of Noble Light,” Buddha Vairocana;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="34">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1386</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:38:07.346Z" creationid="kent">
+                <seg>།འདའ་བར་དཀའ་བའི་འཇིག་རྟེན་ན། སངས་རྒྱས་ཆོས་ཀྱི་འོད་ཟེར་རབ་ཏུ་རྒྱས་པའི་སྐུ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:38:07.346Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World that is Difficult to Transcend,” Buddha “Whose Body is the Widely Spreading Light of the Dharma;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1528</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:38:46.045Z" creationid="kent">
+                <seg>།རབ་ཏུ་བཟང་པོའི་འཇིག་རྟེན་ན། སངས་རྒྱས་ཐམས་ཅད་མཁྱེན་པའི་བློ་གྲོས་འོད་ཟེར་གྱི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:38:46.045Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World that is Supremely Noble,” Buddha “King who is the Light of Intelligence that Understands All;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1667</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:39:28.1Z" creationid="kent">
+                <seg>།མེ་ལོང་གི་དཀྱིལ་འཁོར་བསྒྲགས་པའི་འཇིག་རྟེན་ན། སངས་རྒྱས་ཟླ་བའི་ཐུགས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:39:28.1Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World where the Mirror-disk has been Proclaimed,” Buddha “Whose Mind is like the Moon;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1793</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:40:47.31Z" creationid="kent">
+                <seg>།པད་མོ་དཔལ་གྱི་འཇིག་རྟེན་ན། སངས་རྒྱས་དཔལ་བཟང་པོ་དེ་བཞིན་གཤེགས་པའི་བར་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:40:47.31Z" creationid="kent">
+                <seg>Prostrations to all the tathāgatas in the “World of the Glory of the Lotus,” the splendid noble buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1898</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:41:11.33Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཟླ་འོད་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:41:11.33Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Candraprabha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="39">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">1949</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:41:37.994Z" creationid="kent">
+                <seg>།སངས་རྒྱས་མཛེས་ཆེན་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:41:37.994Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “Greatly Handsome”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="40">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">2006</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:42:16.378Z" creationid="kent">
+                <seg>།སངས་རྒྱས་འཇིག་རྟེན་གྱི་དཀྱིལ་འཁོར་དབང་པོའི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:42:16.378Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “King who is Lord of the World's Orb”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="41">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">2082</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:42:48.695Z" creationid="kent">
+                <seg>།སངས་རྒྱས་དགའ་བའི་སྤྱན་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:42:48.695Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “Joyful Eyes”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="42">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">2134</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:43:19.31Z" creationid="kent">
+                <seg>།སངས་རྒྱས་རྒྱ་མཚོའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:43:19.31Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Sāgaraśrī;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="43">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">285</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:43:50.252Z" creationid="kent">
+                <seg>།སངས་རྒྱས་གསེར་གྱི་གཟུ་བ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:43:50.252Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “Golden Pillar”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="44">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">339</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:44:17.904Z" creationid="kent">
+                <seg>།སངས་རྒྱས་མཐའ་ཡས་པའི་ཡོན་ཏན་གྱི་འོད་ཟེར་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:44:17.904Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha, “Light of Infinite Good Qualities”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="45">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">413</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:44:45.102Z" creationid="kent">
+                <seg>།སངས་རྒྱས་སྨོན་ལམ་ཐམས་ཅད་ལས་འབྱུང་བའི་རིན་པོ་ཆེའི་གཟི་བརྗིད་ཤིན་ཏུ་འཕགས་པའི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:44:45.102Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “King who is Extremely Exalted by the Precious Majesty Arising from All Aspirations”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="46">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">536</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:45:09.581Z" creationid="kent">
+                <seg>།སངས་རྒྱས་གྲགས་པའི་སྒྲ་དབྱངས་ཀྱི་རྒྱལ་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:45:09.581Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “King of Renowned Melodious Sounds”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="47">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">610</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:45:30.3Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཡེ་ཤེས་རྡོ་རྗེའི་རྒྱ་མཚོའི་དབང་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:45:30.3Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha “Lord of the Ocean that is the Wisdom Vajra”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="48">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">693</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:46:05.877Z" creationid="kent">
+                <seg>སངས་རྒྱས་རྣམ་པར་གཟིགས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:46:05.877Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Vipaśyin;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="49">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">740</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:46:27.962Z" creationid="kent">
+                <seg>།སངས་རྒྱས་གཙུག་ཏོར་ཅན་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:46:27.962Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Śikhin;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="50">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">785</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:47:02.975Z" creationid="kent">
+                <seg>།སངས་རྒྱས་མ་ལུས་པའི་དབང་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:47:02.975Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Viśvabhū;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="51">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">832</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:47:36.576Z" creationid="kent">
+                <seg>སངས་རྒྱས་ལོག་པར་དད་སེལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:47:36.576Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Krakucchanda;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="52">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">883</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:47:55.349Z" creationid="kent">
+                <seg>།སངས་རྒྱས་གསེར་ཐུབ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:47:55.349Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Kanakamuni;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="53">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">932</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:48:15.814Z" creationid="kent">
+                <seg>།སངས་རྒྱས་འོད་སྲུང་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:48:15.814Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Buddha Kāśyapa;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="54">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">978</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:48:37.504Z" creationid="kent">
+                <seg>།འདས་པའི་སངས་རྒྱས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:48:37.504Z" creationid="kent">
+                <seg>Prostrations to all past buddhas;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="55">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1012</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:50:12.731Z" creationid="kent">
+                <seg>།ད་ལྟར་བཞུགས་པའི་སངས་རྒྱས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:50:12.731Z" creationid="kent">
+                <seg>Prostrations to all buddhas dwelling in the present;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="56">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1065</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:50:30.94Z" creationid="kent">
+                <seg>།མ་བྱོན་པའི་སངས་རྒྱས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:50:30.94Z" creationid="kent">
+                <seg>Prostrations to all future buddhas;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="57">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1101</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:53:09.324Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའི་དཔལ་རྣམ་པར་སྣང་མཛད་ཆེན་པོ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:53:09.324Z" creationid="kent">
+                <seg>Prostrations to the glory of the bodhisattvas, all the great illuminators;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="58">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1176</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:53:38.912Z" creationid="kent">
+                <seg>།སངས་རྒྱས་ཆོས་ཀྱི་སྐུ་མུ་མེད་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:53:38.912Z" creationid="kent">
+                <seg>Prostrations to the Buddha’s infinite dharmakāya;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="59">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1226</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:54:07.128Z" creationid="kent">
+                <seg>།འཇིག་རྟེན་གྱི་ཁམས་མཐའ་ཡས་པའི་སྐུ་གཟུགས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:54:07.128Z" creationid="kent">
+                <seg>Prostrations to all rupakāyas in infinite worlds;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="60">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1276</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:54:27.048Z" creationid="kent">
+                <seg>།རིང་བསྲེལ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:54:27.048Z" creationid="kent">
+                <seg>Prostrations to all relics;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="61">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1304</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:54:44.787Z" creationid="kent">
+                <seg>།མཆོད་རྟེན་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:54:44.787Z" creationid="kent">
+                <seg>Prostrations to all stūpas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="62">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1332</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:55:03.139Z" creationid="kent">
+                <seg>།དམ་པའི་ཆོས་མདོའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:55:03.139Z" creationid="kent">
+                <seg>Prostrations to the category of sūtras, the holy Dharma,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="63">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1389</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:55:23.116Z" creationid="kent">
+                <seg>།དབྱངས་ཀྱིས་བསྙད་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:55:23.116Z" creationid="kent">
+                <seg>Prostrations to the category of melodic verses;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="64">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1437</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:55:47.982Z" creationid="kent">
+                <seg>།ལུང་དུ་བསྟན་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:55:47.982Z" creationid="kent">
+                <seg>Prostrations to the category of prophetic teachings;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="65">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1490</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:56:06.678Z" creationid="kent">
+                <seg>།ཚིགས་སུ་བཅད་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:56:06.678Z" creationid="kent">
+                <seg>Prostrations to the category of metered verses;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="66">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1538</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:56:26.027Z" creationid="kent">
+                <seg>།ཆེད་དུ་བརྗོད་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:56:26.027Z" creationid="kent">
+                <seg>Prostrations to the category of special accounts;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="67">
+            <prop name="folio">F.3.a</prop>
+            <prop name="position">1588</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:56:46.557Z" creationid="kent">
+                <seg>།གླེང་གཞིའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:56:46.557Z" creationid="kent">
+                <seg>Prostrations to the category of themes;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="68">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">297</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:57:06.938Z" creationid="kent">
+                <seg>།རྟོགས་པ་བརྗོད་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:57:06.938Z" creationid="kent">
+                <seg>Prostrations to the category of illustrative accounts;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="69">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">352</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:58:03.336Z" creationid="kent">
+                <seg>།འདས་པ་བརྗོད་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:58:03.336Z" creationid="kent">
+                <seg>Prostrations to the category of parables;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="70">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">394</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-30T06:58:26.036Z" creationid="kent">
+                <seg>།སྐྱེས་པ་རབས་ཀྱི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-30T06:58:26.036Z" creationid="kent">
+                <seg>Prostrations to the category of past life accounts;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="72">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">500</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:05:13.38Z" creationid="kent">
+                <seg>།རྨད་དུ་བྱུང་བའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:05:13.38Z" creationid="kent">
+                <seg>Prostrations to the category of marvelous teachings;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="73">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">446</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:05:49.661Z" creationid="kent">
+                <seg>།ཤིན་ཏུ་རྒྱས་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:05:49.661Z" creationid="kent">
+                <seg>Prostrations to the category of extensive scriptures;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="74">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">553</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:06:12.807Z" creationid="kent">
+                <seg>།ཆོས་རྟོགས་པ་བསྟན་པའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:06:12.807Z" creationid="kent">
+                <seg>Prostrations to the category of finalized instructions</seg>
+            </tuv>
+        </tu>
+        <tu tuid="75">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">609</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:06:36.11Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའི་སྡེ་སྣོད་ཐེག་པ་ཆེན་པོའི་མཛོད་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:06:36.11Z" creationid="kent">
+                <seg>Prostrations to the Bodhisattvapiṭaka, the entire treasure of the Mahāyāna;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="76">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">685</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:07:07.691Z" creationid="kent">
+                <seg>།ཕྱོགས་བཅུ་དུས་གསུམ་གྱི་གསུང་རབ་ཐམས་ཅད་དང་། འདུལ་བ་ཐབས་ཀྱི་སྒོ་མོ་མ་ལུས་པ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:07:07.691Z" creationid="kent">
+                <seg>Prostrations to all scriptures of the ten directions and three times, and to every possible method of taming without exception;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="77">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">813</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:07:31.396Z" creationid="kent">
+                <seg>།ཆོས་ཀྱི་དབྱིངས་ཡང་དག་པའི་མཐའ་བརྗོད་དུ་མེད་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:07:31.396Z" creationid="kent">
+                <seg>Prostrations to the dharmadhātu, indescribable ultimate perfection;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="78">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">881</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:10:35.718Z" creationid="kent">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སོགས་ཏེ། དམ་པའི་ཆོས་ཀྱི་ཡི་གེ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:10:35.718Z" creationid="kent">
+                <seg>Prostrations to every syllable of the holy Dharma, such as the mother of all tathāgatas, the Prajñāpāramitā.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="79">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">990</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:11:19.329Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྣང་མཛད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:11:19.329Z" creationid="kent">
+                <seg>Prostrations to the bodhisattvas, mahāsattvas, illuminators;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="80">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1051</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:11:58.964Z" creationid="kent">
+                <seg>ཤར་ཕྱོགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་འོད་ཟེར་ཀུན་ནས་འབྱུང་བ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:11:58.964Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the east, Samantaprabha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="81">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1111</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:12:26.87Z" creationid="kent">
+                <seg>།ལྷོ་ཕྱོགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་མྱ་ངན་མེད་པས་བྱིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:12:26.87Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the southern direction, Aśokadatta;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="82">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1182</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:12:54.905Z" creationid="kent">
+                <seg>།ནུབ་ཕྱོགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་སྤྱོད་པའི་བློ་གྲོས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:12:54.905Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the west, “Intelligence in Conduct”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="83">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1254</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:13:17.171Z" creationid="kent">
+                <seg>།བྱང་ཕྱོགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་རྒྱལ་བས་བྱིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:13:17.171Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the north, Jayadatta;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="84">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1311</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:16:04.153Z" creationid="kent">
+                <seg>།བྱང་ཤར་མཚམས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་རྣམ་པར་རྒྱལ་བས་རྣམ་པར་གནོན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:16:04.153Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the northeast, Vijaya­vikrāmin;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="85">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1378</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:16:31.814Z" creationid="kent">
+                <seg>།ཤར་ལྷོ་མཚམས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་ལག་ན་པད་མོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:16:31.814Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the southeast, Padmapāṇi;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="86">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1439</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:17:02.279Z" creationid="kent">
+                <seg>།ལྷོ་ནུབ་མཚམས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་ཉི་མ་རབ་ཏུ་སྣང་བ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:17:02.279Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the southwest, Sūrya­prabha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="87">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1503</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:19:25.809Z" creationid="kent">
+                <seg>།ནུབ་བྱང་མཚམས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་རིན་ཆེན་མཆོག་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:19:25.809Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the northwest, “Exalted Jewel”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="88">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1570</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:19:53.182Z" creationid="kent">
+                <seg>།འོག་གི་ཕྱོགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་པད་མོ་དམ་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:19:53.182Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the nadir, Padmottara;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="89">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1628</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:20:23.813Z" creationid="kent">
+                <seg>།བླ་མ་ཕྱོགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་དགའ་བས་བྱིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:20:23.813Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva of the zenith, “Given by Joy”;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="90">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1691</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:20:55.068Z" creationid="kent">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཀུན་ཏུ་སྤྱན་རས་གཟིགས་ཀྱི་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:20:55.068Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Lord Avalokiteśvara;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="91">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1744</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:21:15.642Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་བྱམས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:21:15.642Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Maitreya;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="92">
+            <prop name="folio">F.3.b</prop>
+            <prop name="position">1786</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:21:36.23Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ནམ་མཁའི་སྙིང་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:21:36.23Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Ākāśagarbha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="93">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">842</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:22:05.678Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:22:05.678Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Samantabhadra;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="94">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">889</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:22:32.726Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ཕྱག་ན་རྡོ་རྗེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:22:32.726Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Vajrapāṇi;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="95">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">932</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:23:36.729Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:23:36.729Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Mañjuśrī;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="96">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">974</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:23:59.318Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་སྒྲིབ་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:23:59.318Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Sarva­nīvaraṇa­viṣkambhin;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="97">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1033</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:24:19.329Z" creationid="kent">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སའི་སྙིང་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:24:19.329Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Kṣitigarbha;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="98">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1078</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:24:43.482Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་དྲི་མ་མེད་པར་གྲགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:24:43.482Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Vimalakīrti;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="99">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1123</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:25:14.372Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་མཐུ་ཆེན་ཐོབ་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:25:14.372Z" creationid="kent">
+                <seg>Prostrations to the bodhisattva Mahā­sthāma­prāpta;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="100">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1175</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:25:36.133Z" creationid="kent">
+                <seg>།ཕྱོགས་བཅུ་དུས་གསུམ་གྱི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:25:36.133Z" creationid="kent">
+                <seg>Prostrations to the all the bodhisattvas, mahāsattvas of the ten directions and three times</seg>
+            </tuv>
+        </tu>
+        <tu tuid="101">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1268</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:25:58.459Z" creationid="kent">
+                <seg>།ཤེས་རབ་ཆེན་པོའི་མཆོག་འཕགས་པ་ཤཱ་རིའི་བུ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:25:58.459Z" creationid="kent">
+                <seg>Prostrations to noble Śāriputra, foremost in great wisdom;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="102">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1327</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:26:21.143Z" creationid="kent">
+                <seg>།རྫུ་འཕྲུལ་ཆེན་པོའི་མཆོག་འཕགས་པ་མཽད་གལ་གྱི་བུ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:26:21.143Z" creationid="kent">
+                <seg>Prostrations to noble Maudgalyāyana, foremost in great miracles;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="103">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1392</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:26:53.068Z" creationid="kent">
+                <seg>།མང་དུ་ཐོས་པའི་མཆོག་འཕགས་པ་ཀུན་དགའ་བོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:26:53.068Z" creationid="kent">
+                <seg>Prostrations to noble Ānanda, foremost in having heard much;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="104">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1453</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:27:15.059Z" creationid="kent">
+                <seg>།སྦྱངས་པའི་ཡོན་ཏན་གྱི་མཆོག་འཕགས་པ་འོད་སྲུང་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:27:15.059Z" creationid="kent">
+                <seg>Prostrations to noble Kāśyapa‌, foremost in the good qualities of discipline;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="105">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1531</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:27:38.61Z" creationid="kent">
+                <seg>།བསླབ་པ་ལ་གུས་པའི་མཆོག་འཕགས་པ་ནོར་སྦྱིན་འཛིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:27:38.61Z" creationid="kent">
+                <seg>Prostrations to noble Kauṇḍinya, foremost in devotion to the precepts;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="106">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1602</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:28:02.099Z" creationid="kent">
+                <seg>།འདུལ་བ་འཛིན་པའི་མཆོག་འཕགས་པ་ཉེ་བར་འཁོར་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:28:02.099Z" creationid="kent">
+                <seg>Prostrations to noble Upāli, foremost in holding the Vinaya;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="107">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1663</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:28:22.614Z" creationid="kent">
+                <seg>རྫུ་འཕྲུལ་གྱི་སྤྱན་མངའ་བའི་མཆོག་འཕགས་པ་མ་འགགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:28:22.614Z" creationid="kent">
+                <seg>Prostrations to noble Aniruddha, foremost in possessing the miracle eye;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="108">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1736</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:28:50.956Z" creationid="kent">
+                <seg>།འདྲི་ཞིང་ལན་ལྡོན་པའི་མཆོག་འཕགས་པ་རབ་འབྱོར་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:28:50.956Z" creationid="kent">
+                <seg>Prostrations to noble Subhūti, foremost in questioning and answering;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="109">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1806</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:29:14.106Z" creationid="kent">
+                <seg>།འཕགས་པ་དགྲ་བཅོམ་པའི་དགེ་འདུན་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:29:14.106Z" creationid="kent">
+                <seg>Prostrations to the entire assembly of noble arhats;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="110">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1859</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:29:35.596Z" creationid="kent">
+                <seg>།འཕགས་པ་རང་སངས་རྒྱས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:29:35.596Z" creationid="kent">
+                <seg>Prostrations to all pratyekabuddhas;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="111">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1896</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-31T06:29:58.6Z" creationid="kent">
+                <seg>ཕྱོགས་བཅུའི་དགེ་འདུན་བཞུགས་སོ་འཚལ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-31T06:29:58.6Z" creationid="kent">
+                <seg>Prostrations to all the saṅgha dwelling in the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="112">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">1959</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T06:27:02.932Z" creationid="kent">
+                <seg>།དཀོན་མཆོག་གསུམ་ལ་དད་པས་ཕྱག་འཚལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T06:27:02.932Z" creationid="kent">
+                <seg>Through these prostrations with devotion to the Three Jewels,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="113">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">2021</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T06:28:00.134Z" creationid="kent">
+                <seg>།སྡིག་པ་ཀུན་བྱང་དགེ་ཚོགས་རྣམ་པར་འཕེལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T06:28:00.134Z" creationid="kent">
+                <seg>May all negativities be purified, accumulation of merit fully flourish,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="114">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">2093</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T06:28:52.563Z" creationid="kent">
+                <seg>།བཅོམ་ལྡན་སོ་སོའི་བཀའ་ལས་ཅི་འབྱུང་བ། །ཡོན་ཏན་ཁྱད་པར་ཅན་དེ་གྲུབ་པར་ཤོག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T06:28:52.563Z" creationid="kent">
+                <seg>And may the special good qualities Arising from the sermons of each bhagavān be accomplished.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="115">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">2187</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T06:29:14.954Z" creationid="kent">
+                <seg>།ཕྱོགས་བཅུའི་དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T06:29:14.954Z" creationid="kent">
+                <seg>Prostrations to all the Three Jewels in the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="116">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">2247</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T06:32:20.784Z" creationid="kent">
+                <seg>།བསྟོད་ཅིང་བསྔགས་སོ། །བལྟ་ཞིང་བརྟག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T06:32:20.784Z" creationid="kent">
+                <seg>I praise and glorify them, behold and discern them.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="117">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">2299</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:10:37.787Z" creationid="kent">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའི་བསོད་ནམས་རབ་འབྱམ་ལས་བྱུང་བ་མི་མཉམ་པ་དང་མཉམ་པའི་མཆོད་པ་སྣ་ཚོགས་མཆོག །གཙོ་བོ། དམ་པ། ཁྱད་པར་ཅན། བཟང་པོ། གྱ་ནོམ་པ། བླ་ན་མེད་པ། མི་མཉམ་པ་དང་མཉམ་པས་ཕྱོགས་བཅུའི་སྣོད་ཀྱི་འཇིག་རྟེན་ཐམས་ཅད་བྱུར་བུར་བཀང་སྟེ། ཆོས་ཀྱི་མཆོད་པ་དང་བཅས་པས་མ་ལུས་མི་ལུས་ལུས་པ་མེད་པའི་དཀོན་མཆོག་གསུམ་ལ་ཕྱི་མའི་མུའི་མཐར་རྟག་ཏུ་རྒྱུན་མི་འཆད་པར་མཆོད་ཅིང་འདོན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:10:37.787Z" creationid="kent">
+                <seg>I constantly offer and venerate, unceasingly until the end of time, all of the Three Jewels that have not been, are not now, nor ever will be relinquished. I make Dharma offerings, as well as a variety of offerings comparable to the incomparable, that arise from the infinite merit of the bodhisattvas, and are exalted, foremost, holy, special, noble, supreme and unsurpassable, comparable to the incomparable, and that completely fill the entire world of the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="118">
+            <prop name="folio">F.4.a</prop>
+            <prop name="position">2775</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:17:33.514Z" creationid="kent">
+                <seg>།དབུལ་ཞིང་གསོལ་ལོ། །བཀུར་སྟིར་བགྱིའོ། །བླ་མར་བགྱིའོ། །རི་མོར་བགྱིའོ། །མཉེས་པར་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:17:33.514Z" creationid="kent">
+                <seg>Having offered these, please accept them. I shall venerate, honor, respect and please you.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="121">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1133</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:23:49.904Z" creationid="kent">
+                <seg>།མི་འཆབ་བོ། །མི་སྦེད་དོ། །མི་བསྙེན་མི་བགྱིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:23:49.904Z" creationid="kent">
+                <seg>I shall not hide, shall not conceal, and shall not fail to acknowledge them.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="122">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1210</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:24:22.731Z" creationid="kent">
+                <seg>།དེ་ནས་དེའི་ཚེ་སྡིག་པ་ཐམས་ཅད་ནི་བྱང་། བསོད་ནམས་ཐམས་ཅད་ནི་རྫོགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:24:22.731Z" creationid="kent">
+                <seg>Then, at that time, all negativities will be purified, and all merit will be completely accomplished.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="123">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1075</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:25:02.669Z" creationid="kent">
+                <seg>།སྦྱངས་ཤིང་བསལ་ཏོ། ། གཞིག་ཅིང་གདོན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:25:02.669Z" creationid="kent">
+                <seg>I purify and dispel them, examine them and cast them out.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="124">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">568</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:33:54.323Z" creationid="kent">
+                <seg>བདག་ཅག་གི་སྐྱེ་བ་འདི་དང་སྐྱེ་བ་ཐོག་མ་དང་ཐ་མ་མ་མཆིས་པ་ནས་སྲིད་པ་གསུམ་གྱི་འཁོར་བ་ན་འཁོར་ཞིང་འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་གསུམ་གྱི་དབང་གིས་ལུས་དང་། ངག་དང་། ཡིད་ཀྱི་སྒོ་ནས་མི་དགེ་བ་བཅུ་དང་། མཚམས་མེད་པ་ལྔ་ལ་སོགས་ཏེ། གསུང་རབ་ཀུན་ལས་འགལ་བའི་སྡིག་པ་མི་དགེ་བའི་ལས་བདག་གིས་ཅི་བགྱིས་པ་དང་། གཞན་ལ་བཅོལ་བ་དང་། གཞན་བགྱིད་པ་ལ་རྗེས་སུ་ཡི་རང་བ་དེ་དག་རྡུལ་ཙམ་བག་ཙམ་ཡང་མ་ལུས་པར་མཐོལ་ཞིང་བཤགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:33:54.323Z" creationid="kent">
+                <seg>Not holding back even the most trifling, I avow and confess the sins and nonvirtuous actions that contradict all holy scripture and that I myself have committed in this life or while wandering in the three worlds through beginningless, endless births, or that I caused others to perform, or even that I rejoiced in when performed by others. They are: the ten nonvirtues of body, speech, and mind that were committed under the influence of desire, anger, and ignorance; the five heinous crimes and so forth.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="125">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1539</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:35:11.588Z" creationid="kent">
+                <seg>ལོག་པ་མི་དགེ་བའི་ལས་ལ་མི་ཕྱོགས་མི་བགྱིད་པར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:35:11.588Z" creationid="kent">
+                <seg>May I never lean toward nor perform wrong, nonvirtuous actions.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="126">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1312</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:35:27.905Z" creationid="kent">
+                <seg>དུས་འདི་ནས་ནམ་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་མཆིས་ཀྱི་བར་དུ། དགོངས་པའི་དབང་གིས་ཆེད་དུ་སྤྲུལ་པ་མ་གཏོགས་པར་ནམ་ནམ་ཞར་ཞར་ཚེ་ཚེ་རབས་རབས་སུ་ངན་སོང་གསུམ་ལ་སོགས་ཏེ། བགེགས་རིགས་ཐམས་ཅད་དུ་མི་སྐྱེ་ཞིང་མི་ལྟུང་བར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:35:27.905Z" creationid="kent">
+                <seg>From this time until the essence of enlightenment is reached, in every future life, may I never fall into inferior hindering births, such as birth in the three lower realms, excepting only emanations for the benefit of others.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="127">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1603</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:36:10.582Z" creationid="kent">
+                <seg>།ལས་དང་ཉོན་མོངས་པའི་རྒྱུ་ལ་མི་ཕྱོགས་མི་བསོགས་པར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:36:10.582Z" creationid="kent">
+                <seg>May I never lean toward nor accumulate the causes of karma and defilements.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="128">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1679</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:36:45.42Z" creationid="kent">
+                <seg>།སྨད་པའི་ལུས་དང་སྡུག་བསྔལ་གྱི་འབྲས་བུ་ཀུན་ལས་ཐར་ནས་ཕྱིན་ཅད་མི་མྱོང་བར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:36:45.42Z" creationid="kent">
+                <seg>After being completely freed from results, such as suffering and a contemptible body, may I never again experience them.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="129">
+            <prop name="folio">F.4.b</prop>
+            <prop name="position">1800</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:37:30.574Z" creationid="kent">
+                <seg>།དུས་འདི་ནས་ནམ་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་མཆིས་ཀྱི་བར་དུ་སྒོ་གསུམ་ནས་དགེ་བ་ཆུ་བོའི་རྒྱུན་བཞིན་དུ་རྒྱུན་མི་འཆད་པར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:37:30.574Z" creationid="kent">
+                <seg>From this time until the essence of enlightenment is reached, may the virtues of my body, speech, and mind continue as unceasingly as a stream.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="130">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">145</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:38:08.277Z" creationid="kent">
+                <seg>།ཚེ་རབས་གར་སྐྱེས་ཀྱང་བདེ་སྐྱིད་ཕུན་སུམ་ཚོགས་པ་དང་ལྡན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:38:08.277Z" creationid="kent">
+                <seg>In whatever life I might be born, may I possess magnificent happiness and joy,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="131">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">224</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:38:41.458Z" creationid="kent">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་བྱ་བ་ལ་མཐུ་དང་དབང་ཡོད་པར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:38:41.458Z" creationid="kent">
+                <seg>and attain the ability and power to work for the benefit of all sentient beings.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="133">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">543</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:42:35.406Z" creationid="kent">
+                <seg>།དུས་འདི་ནས་ནམ་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་མཆིས་ཀྱི་བར་དུ་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མཆི་སྟེ། བདག་ཉིད་ལུས་དབུལ་གྱིས་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ་རྣམས་ཀྱིས་སོ་སོ་ནས་རྟག་ཏུ་བཞེས་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:42:35.406Z" creationid="kent">
+                <seg>From this time until the essence of enlightenment is reached, I take refuge in the Three Jewels. I offer them my body; may each of the greatly compassionate ones forever accept it</seg>
+            </tuv>
+        </tu>
+        <tu tuid="134">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">1198</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:47:23.161Z" creationid="kent">
+                <seg>བྱང་ཆུབ་ཀྱི་སེམས་ནི་ནམ་གཞར་ཡང་མི་སྟོར་ཞིང་དགེ་བའི་བཤེས་གཉེན་དམ་པ་དེ་དང་ནམ་ཡང་མི་འབྲལ་བར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:47:23.161Z" creationid="kent">
+                <seg>May I never lose or disregard the thought of enlightenment, and never be separated from noble spiritual masters.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="136">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">1058</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:48:10.842Z" creationid="kent">
+                <seg>ལྟར་བདག་མིང་འདི་ཞེས་བགྱི་བས་ཀྱང་། དུས་འདི་ནས་ནམ་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་མཆིས་ཀྱི་བར་དུ་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:48:10.842Z" creationid="kent">
+                <seg>So likewise, I whose name is …, do also generate the thought of enlightenment from this time until the essence of enlightenment is reached.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="137">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">1311</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:49:26.729Z" creationid="kent">
+                <seg>།ཇི་ལྟར་དུས་གསུམ་གྱི་སངས་རྒྱས་དེ་དག་བླ་ན་མེད་པའི་བསོད་ནམས་ཀྱི་རྗེས་སུ་ཡི་རང་བ་ལྟར། བདག་མིང་འདི་ཞེས་བགྱི་བས་ཀྱང་འཇིག་རྟེན་དང་འཇིག་རྟེན་ལས་འདས་པའི་བསོད་ནམས་ཐམས་ཅད་ལ་རྗེས་སུ་ཡི་རང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:49:26.729Z" creationid="kent">
+                <seg>Just as the buddhas of the three times rejoiced in unsurpassable merit, I whose name is…. also rejoice in all worldly and beyond-worldly merit</seg>
+            </tuv>
+        </tu>
+        <tu tuid="138">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">1455</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:50:48.049Z" creationid="kent">
+                <seg>།ནམ་འཆི་བར་ངེས་པའི་དུས་དེ་ན་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་ཐམས་ཅད་ཀྱི་ཞལ་མངོན་སུམ་དུ་མཐོང་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:50:48.049Z" creationid="kent">
+                <seg>When the time of death is certain, may I directly behold the holy faces of all those buddhas and bodhisattvas,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="139">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">1566</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:51:24.167Z" creationid="kent">
+                <seg>ཕྱག་གཡས་པ་གསེར་གྱི་ཁ་དོག་ཅན་བརྐྱང་སྟེ། བདག་གི་སྤྱི་བོར་བཞག་ནས་ལུང་ནོད་པར་གྱུར་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:51:24.167Z" creationid="kent">
+                <seg>and when they extend their golden right hands and place them upon my head, may I receive a prophecy.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="140">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">1667</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-08T22:52:17.994Z" creationid="kent">
+                <seg>།བདག་གིས་ཀྱང་ཉོན་མོངས་པས་སེམས་མི་འཁྲུལ་པར་ཆོས་བདག་མེད་པ་དང་འཐུན་པའི་འདུན་པ་ཅན་དང་། བྱང་ཆུབ་ཀྱི་སེམས་ཚད་མེད་པ་དང་ལྡན་བཞིན་དུ་འཆི་བའི་དུས་བྱེད་པར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-08T22:52:17.994Z" creationid="kent">
+                <seg>And may I die with my mind undeluded by defilements, with aspirations that accord with the selfless dharmas, and with limitless thought of enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="143">
+            <prop name="folio">F.5.b</prop>
+            <prop name="position">652</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:30:47.275Z" creationid="kent">
+                <seg>།འགྲོ་བ་མ་ལུས་བྱིན་གྱིས་བསྒྲལ་བའི་ཕྱིར། །བདག་ཉིད་མྱུར་དུ་མངོན་པར་སངས་རྒྱས་ཤོག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:30:47.275Z" creationid="kent">
+                <seg>For the purpose of liberating all beings without exception, May I swiftly reach perfect enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="144">
+            <prop name="folio">F.5.b</prop>
+            <prop name="position">512</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:31:08.092Z" creationid="kent">
+                <seg>།མདོར་ན་བག་ཆགས་མ་ལུས་ཀུན་བྱང་ནས། །བསོད་ནམས་ཡེ་ཤེས་ཚོགས་གཉིས་ཡོངས་རྫོགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:31:08.092Z" creationid="kent">
+                <seg>n short: After purifying all habitual tendencies without exception, I will completely accomplish the two accumulations of merit and wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="145">
+            <prop name="folio">F.5.b</prop>
+            <prop name="position">755</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:31:42.994Z" creationid="kent">
+                <seg>།དཔང་སྐོང་ཕྱག་བརྒྱ་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:31:42.994Z" creationid="kent">
+                <seg>This completes Calling Witness with a Hundred Prostrations.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="146">
+            <prop name="folio">F.5.b</prop>
+            <prop name="position">815</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:33:41.907Z" creationid="kent">
+                <seg>།།བོད་དུ་དམ་པའི་ཆོས་འབྱུང་བའི་སྔ་ལྟས་སུ་ལྷ་ཐོ་ཐོ་རི་སྙན་ཤལ་གྱི་སྐུ་རིང་ལ་ཕོ་བྲང་ཡུམ་བུ་བླ་མཁར་དུ་ནམ་མཁའ་ལས་བབས་མི་རབས་ལྔ་ན་འདིའི་དོན་ཤེས་པ་འོང་ཞེས་རྨི་ལམ་དུ་ལུང་བསྟན་ཏེ་ཆོས་ཀྱི་དབུ་བརྙེས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:33:41.907Z" creationid="kent">
+                <seg>As an omen of the arising of the holy Dharma in Tibet, during the reign of King Lha Thothori Nyanshal (lha tho tho ri snyan shal), this text descended from the sky into the palace Yumbu Lhakhar (yum bu bla mkhar). The king dreamed that after five generations it would be possible to understand the meaning of this text. Thus the holy Dharma began.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="147">
+            <prop name="folio">F.2.a</prop>
+            <prop name="position">450</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:35:08.077Z" creationid="kent">
+                <seg>།ལྷོ་ནུབ་མཚམས་ཀྱི་སངས་རྒྱས་ཉི་མའི་དཀྱིལ་འཁོར་སྣང་བ་དམ་པའི་དཔལ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:35:08.077Z" creationid="kent">
+                <seg>Prostrations to the tathāgata Sūrya­maṇḍala­pratibhāsottama­śrī, buddha of the southwest;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="148">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">844</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:36:36.975Z" creationid="kent">
+                <seg>།ངུར་སྨྲིག་གི་རྒྱལ་མཚན་གྱི་འཇིག་རྟེན་ན། སངས་རྒྱས་རྡོ་རྗེ་སྙིང་པོས་རབ་ཏུ་འདུལ་བ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:36:36.975Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World of the Saffron-Colored Victory Banners,” Buddha “Well-Tamed by the Vajra Essence;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="149">
+            <prop name="folio">F.2.b</prop>
+            <prop name="position">971</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-09T04:37:03.049Z" creationid="kent">
+                <seg>།ཕྱིར་མི་ལྡོག་པའི་འཁོར་ལོ་བསྒྲགས་པའི་འཇིག་རྟེན་ན། སངས་རྒྱས་རབ་ཏུ་གདོན་མི་ཟ་བ་པད་མོ་རྒྱས་པའི་སྐུ་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-09T04:37:03.049Z" creationid="kent">
+                <seg>Prostrations to the tathāgata in the “World in which the Wheel of No Regress has been Proclaimed,” Buddha “Whose Body is the Blossoming Lotus of Complete Absence of Doubt;”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="150">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">305</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-10T14:40:26.049Z" creationid="celso">
+                <seg>།གང་དེ་བཞིན་གཤེགས་པ་འབའ་ཞིག་གི་ཐུགས་སུ་ཆུད་པའི་ཆོས་བླ་ན་མེད་པའི་བྱང་ཆུབ་ཏུ་གདོན་མི་ཟ་བར་འཚང་རྒྱ་བའི་དོན་དེ་ཁོ་ན་ཉིད་གང་ཡིན་པ་དེ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-10T14:40:26.049Z" creationid="celso">
+                <seg>That Dharma which is understood only by the tathāgatas, that suchness which without doubt causes unsurpassable enlightenment—</seg>
+            </tuv>
+        </tu>
+        <tu tuid="151">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">430</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-10T14:40:37.362Z" creationid="celso">
+                <seg>བདག་གིས་ཀྱང་མ་ནོར་བར་ཁོང་དུ་ཆུད་ཅིང་བསྒོམས་ལ། གཞན་དག་ལ་ཡང་མ་ནོར་བར་སྟོན་ཅིང་འདྲེན་པར་ཤོག་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-10T14:40:37.362Z" creationid="celso">
+                <seg>may I fully understand it without mistake, meditate upon it, teach it to others without mistake, and guide them.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="152">
+            <prop name="folio">F.5.a</prop>
+            <prop name="position">724</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-10T14:42:21.449Z" creationid="celso">
+                <seg>།ཇི་ལྟར་ན་དུས་གསུམ་གྱི་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་དངོས་པོ་ཐམས་ཅད་དང་བྲལ་བ། ཕུང་པོ་དང་། ཁམས་དང་། སྐྱེ་མཆེད་ཀྱིས་མ་ཟིན་པའི་ཆོས་བདག་མེད་པ་དང་མཉམ་པ། ཐོག་མ་ནས་མ་སྐྱེས་པ། སྟོང་པ་ཉིད་ཀྱི་རང་བཞིན་གྱིས་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-10T14:42:21.449Z" creationid="celso">
+                <seg>The buddhas and bodhisattvas of the three times, who are free of all things, who are comparable to selfless dharmas not comprised within the aggregates (skandha), domains (dhātu) or bases of cognition (āyatana), and who are unborn since beginningless time, generated the thought of enlightenment because of their nature of emptiness.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

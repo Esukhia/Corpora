@@ -1,0 +1,155 @@
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:19:40.66Z" creationid="dirk"/>
+    <body>
+        <tu tuid="">
+            <prop name="folio">f.205.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:10:38.454Z" creationid="jinpa">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:10:38.454Z" creationid="jinpa">
+                <seg>Prostrations to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="1">
+            <prop name="folio">f.205.a</prop>
+            <prop name="position">47</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:10:51.489Z" creationid="jinpa">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:10:51.489Z" creationid="jinpa">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">30</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:20:42.801Z" creationid="jinpa">
+                <seg>བཅོམ་ལྡན་འདས་ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོའི་གནས་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:20:42.801Z" creationid="jinpa">
+                <seg>The Bhagavān was dwelling at the place of the nāga king Sāgara together with a great assembly of 1,250 bhikṣus as well as a multitude of bodhisattvas and mahāsattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">197</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:21:04.871Z" creationid="jinpa">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:21:04.871Z" creationid="jinpa">
+                <seg>At that time the Bhagavān said to the nāga king Sāgara:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">1139</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:26:43.388Z" creationid="jinpa">
+                <seg>དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:26:43.388Z" creationid="jinpa">
+                <seg>the bhikṣus and bodhisattvas rejoiced and greatly praised the teachings of the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">1228</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:27:18.786Z" creationid="jinpa">
+                <seg>།།འཕགས་པ་ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:27:18.786Z" creationid="jinpa">
+                <seg>This completes the Noble Mahāyāna Sūtra, The Questions of the Nāga King Sāgara.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">1308</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:27:43.62Z" creationid="jinpa">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་སུ་རེནྡྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:27:43.62Z" creationid="jinpa">
+                <seg>Translated and finalized by the Indian abbot Surendrabodhi and the senior editor-translator, the monk Yeshé Dé.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">1097</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:28:00.661Z" creationid="jinpa">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:28:00.661Z" creationid="jinpa">
+                <seg>When the Bhagavān had spoken in this way,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">956</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T07:28:37.794Z" creationid="jinpa">
+                <seg>ཀླུའི་བདག་པོ་ཆོས་ཀྱི་མདོ་བཞི་པོ་འདི་དག་བརྗོད་ན་གང་དག་བརྗོད་པས་ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་བརྗོད་པར་འགྱུར་བ་རྣམས་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T07:28:37.794Z" creationid="jinpa">
+                <seg>“Lord of the nāgas, if one utters these four aphorisms of the Dharma, in uttering them one is expressing all 84,000 articles of the Dharma.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">433</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T09:02:31.755Z" creationid="jinpa">
+                <seg>འདུ་བྱེད་ཐམས་ཅད་མི་རྟག་པར། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་བསྟན་པ་མི་ཟད་པའི་ཤེས་པ་རབ་ཏུ་འཇུག་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T09:02:31.755Z" creationid="jinpa">
+                <seg>“To fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that all compounded phenomena are impermanent;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">572</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T09:02:45.108Z" creationid="jinpa">
+                <seg>ཟག་པ་དང་བཅས་པའི་ཆོས་ཐམས་ཅད་སྡུག་བསྔལ་བར། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་བསྟན་པ་མི་ཟད་པའི་ཤེས་པ་རབ་ཏུ་འཇུག་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T09:02:45.108Z" creationid="jinpa">
+                <seg>to fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that all contaminated phenomena are suffering;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">710</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T09:03:07.91Z" creationid="jinpa">
+                <seg>ཆོས་ཐམས་ཅད་ལ་བདག་མེད་པར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་བསྟན་པ་མི་ཟད་པའི་ཤེས་པ་རབ་ཏུ་འཇུག་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T09:03:07.91Z" creationid="jinpa">
+                <seg>to fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that all phenomena are without self;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">838</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-25T09:03:27.505Z" creationid="jinpa">
+                <seg>མྱ་ངན་ལས་འདས་པ་ཞི་བར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་བསྟན་པ་མི་ཟད་པའི་ཤེས་པ་རབ་ཏུ་འཇུག་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-25T09:03:27.505Z" creationid="jinpa">
+                <seg>and to fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that nirvāṇa is peace.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">f.205.a</prop>
+            <prop name="position">76</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T05:56:32.14Z" creationid="mabja">
+                <seg>བཅོམ་ལྡན་འདས་ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོའི་གནས་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T05:56:32.14Z" creationid="mabja">
+                <seg>The Bhagavān was dwelling at the place of the nāga king Sāgara together with a great assembly of 1,250 bhikṣus as well as a multitude of bodhisattvas and mahāsattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">f.205.b</prop>
+            <prop name="position">254</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:33:02.548Z" creationid="laura">
+                <seg>ཀླུའི་བདག་པོ་ཆོས་ཀྱི་མདོ་བཞི་པོ་འདི་དག་བརྗོད་ན་གང་དག་བརྗོད་པས་ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་བརྗོད་པར་འགྱུར་བ་རྣམས་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:33:02.548Z" creationid="laura">
+                <seg>Lord of the nāgas, if one utters these four aphorisms of the Dharma, in uttering them one is expressing all 84,000 articles of the Dharma.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

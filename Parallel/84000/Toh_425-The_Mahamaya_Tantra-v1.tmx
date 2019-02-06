@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-08-01T15:48:47.084Z" creationid="S.E."/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.167.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T15:48:47.084Z" creationid="S.E.">
+                <seg>།དཔལ་རྡོ་རྗེ་མཁའ་འགྲོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T15:48:47.084Z" creationid="S.E.">
+                <seg>Homage to the Glorious Vajraḍākinī!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.167.a</prop>
+            <prop name="position">37</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T15:57:03.818Z" creationid="S.E.">
+                <seg>དཔལ་ལྡན་རྡོ་རྗེ་མཁའ་འགྲོ་མ། །མཁའ་འགྲོ་མ་ཡི་འཁོར་ལོ་བསྒྱུར། །ཡེ་ཤེས་ལྔ་དང་སྐུ་གསུམ་ཉིད། །འགྲོ་བ་སྐྱོབ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T15:57:03.818Z" creationid="S.E.">
+                <seg>I pay homage to the protector of beings, Glorious Vajraḍākinī, Universal sovereign of the ḍākinīs, the very essence of the five wisdoms and three bodies.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.167.a</prop>
+            <prop name="position">191</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T15:59:53.269Z" creationid="S.E.">
+                <seg>།ཇི་སྐད་རྡོ་རྗེ་མཁའ་འགྲོ་མ། །ཀུན་ཏུ་རྟོག་པའི་འཆིང་གཅོད་ཅིང་། །འཇིག་རྟེན་བྱ་བར་རབ་འཇུག་པ། །དེ་སྙེད་རྣམས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T15:59:53.269Z" creationid="S.E.">
+                <seg>I pay homage to all the vajraḍākinīs Who cut the bonds of conceptual thought and descend to act in the world.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.167.a</prop>
+            <prop name="position">301</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T16:06:33.507Z" creationid="S.E.">
+                <seg>།དེ་ནས་དེ་ལས་རྡོ་རྗེ་མཁའ་འགྲོ་མ་གསང་བའི་དབང་ཕྱུག་མ་རྣམས་ཀྱི་མཆོག་ཏུ་གསང་བ་ཞེས་བྱ་བའི་རྒྱུད་བཤད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T16:06:33.507Z" creationid="S.E.">
+                <seg>Now, following that, I will explain the tantra called The Supreme Secret of the Secret Goddesses, the Vajraḍākinīs.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">117</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T16:51:17.931Z" creationid="S.E.">
+                <seg>གང་ཞིག་གིས་ནི་ཀུན་ཁྱབ་པ། །རྒྱུ་དང་མི་རྒྱུ་ཚངས་སྒོ་ང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T16:51:17.931Z" creationid="S.E.">
+                <seg>She pervades the entire Egg of Brahmā, the animate and inanimate.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">183</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T16:58:49.546Z" creationid="S.E.">
+                <seg>།ལྷ་མོ་ཐམས་ཅད་སྐྱེད་བྱེད་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T16:58:49.546Z" creationid="S.E.">
+                <seg>She is the source of all goddesses</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">222</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:00:24.545Z" creationid="S.E.">
+                <seg>།ཚངས་ལ་སོགས་པའི་བདག་ཉིད་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:00:24.545Z" creationid="S.E.">
+                <seg>rules over Brahmā and the rest</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">254</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:00:50.599Z" creationid="S.E.">
+                <seg>།དེ་རྣམས་ཀྱི་ནི་གསང་ཆེན་འདི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:00:50.599Z" creationid="S.E.">
+                <seg>She is their great secret</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">281</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:01:11.315Z" creationid="S.E.">
+                <seg>།སྒྱུ་འཕྲུལ་ཆེན་མོ་དབང་ཕྱུག་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:01:11.315Z" creationid="S.E.">
+                <seg>the great Queen Mahāmāyā</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:04:10.488Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:04:10.488Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">307</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:05:57.868Z" creationid="S.E.">
+                <seg>།སྒྱུ་འཕྲུལ་ཆེན་མོ་དྲག་ཆེན་མོ། །འབྱུང་བ་ཡང་དག་སྡུད་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:05:57.868Z" creationid="S.E.">
+                <seg>She is the great illusion, intensely fierce, who destroys all that exists</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">388</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:06:19.564Z" creationid="S.E.">
+                <seg>།གང་གིས་འདི་ཀུན་ལ་ཁྱབ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:06:19.564Z" creationid="S.E.">
+                <seg>She pervades all of this</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">414</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:06:37.274Z" creationid="S.E.">
+                <seg>།རྒྱུ་དང་མི་རྒྱུའི་འཇིག་རྟེན་གསུམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:06:37.274Z" creationid="S.E.">
+                <seg>the animate and inanimate, the three worlds</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">459</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:07:38.014Z" creationid="S.E.">
+                <seg>།དེས་ནི་དེ་ནས་འདི་བསྡུས་ནས། །འཇིག་རྟེན་གསུམ་པོ་ཡང་སྤྲོའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:07:38.014Z" creationid="S.E.">
+                <seg>Time after time she gathers in and again emanates the triple world</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">527</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:23:06.709Z" creationid="S.E.">
+                <seg>།གསང་བ་པ་རྣམས་འདི་ཡི་ནི། །སྒྱུ་མའི་བདག་ཉིད་ཅེས་རྣམ་གྲགས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:23:06.709Z" creationid="S.E.">
+                <seg>This mother of the guhyakas is celebrated as the essence of illusion</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">597</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:23:49.94Z" creationid="S.E.">
+                <seg>།འཇིག་རྟེན་གསུམ་སྒྲུབ་རིག་མ་སྟེ། །འདོད་པ་ཐམས་ཅད་རབ་སྟེར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:23:49.94Z" creationid="S.E.">
+                <seg>She is the knowledge that perfects the three worlds and fulfills all desires</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">675</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:25:39.978Z" creationid="S.E.">
+                <seg>།གང་ཞིག་རྣམ་པར་ཤེས་ཙམ་གྱིས། །སྒྲུབ་པའི་དབང་ཕྱུག་རིག་པ་ཉིད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:25:39.978Z" creationid="S.E.">
+                <seg>Through the mere thought of the queen of the accomplished, knowledge itself</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">752</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:29:17.484Z" creationid="S.E.">
+                <seg>།ལྷ་དང་ནོར་བདག་དྲི་ཟ་དང་། །གནོད་སྦྱིན་ལྷ་མིན་མི་དང་བཅས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:29:17.484Z" creationid="S.E.">
+                <seg>The devas, dānavas, gandharvas, yakṣas, āsuras, and humans</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">812</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:57:05.595Z" creationid="S.E.">
+                <seg>།རིག་པ་འཛིན་དང་གང་ཡང་རུང་། །མིའམ་ཅི་དང་ལྟོ་འཕྱེ་ཆེ། །སྲིན་པོ་དང་ནི་ཤ་ཟ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:57:05.595Z" creationid="S.E.">
+                <seg>The vidyādharas, the kinnaras, and mahodaras, The rākṣasas and piśācas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">883</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T17:57:21.656Z" creationid="S.E.">
+                <seg>།སྒྲུབ་པོ་རྣམས་ལ་འགྲུབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T17:57:21.656Z" creationid="S.E.">
+                <seg>all are mastered for practitioners</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">919</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:45:31.893Z" creationid="S.E.">
+                <seg>།དབང་དུ་འདུ་འགྱུར་འབྱུང་པོ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:45:31.893Z" creationid="S.E.">
+                <seg>All creatures are subdued</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">946</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:45:53.856Z" creationid="S.E.">
+                <seg>།ཆུ་ལས་སྐྱེས་དང་ཐང་ལས་སྐྱེས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:45:53.856Z" creationid="S.E.">
+                <seg>those born in the water and on land</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">983</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:46:10.72Z" creationid="S.E.">
+                <seg>།ཆོས་རྣམས་རང་བཞིན་འོད་གསལ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:46:10.72Z" creationid="S.E.">
+                <seg>Phenomena are naturally luminous</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1017</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:46:27.704Z" creationid="S.E.">
+                <seg>།གདོད་ནས་དག་ཅིང་རྙོག་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:46:27.704Z" creationid="S.E.">
+                <seg>they are primordially pure and without stain</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1063</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:48:16.594Z" creationid="S.E.">
+                <seg>ཐབས་བརྗོད་པ་ཡིས་དེ་ལས་ནི། །རང་བྱུང་ཡེ་ཤེས་ལྔ་ལྡན་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:48:16.594Z" creationid="S.E.">
+                <seg>The methods of those possessing the self-arisen five wisdoms are to be praised</seg>
+            </tuv>
+        </tu>
+        <tu tuid="28">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1143</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:48:57.512Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་མ་རྣམས་སྦྱོར་བའི་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:48:57.512Z" creationid="S.E.">
+                <seg>These are the yoginīs, the mother of yoga</seg>
+            </tuv>
+        </tu>
+        <tu tuid="29">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1186</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:49:18.898Z" creationid="S.E.">
+                <seg>།ཁམས་གསུམ་པོ་ནི་མ་ལུས་ཀུན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:49:18.898Z" creationid="S.E.">
+                <seg>and the entirety of the three worlds</seg>
+            </tuv>
+        </tu>
+        <tu tuid="30">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1224</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-01T21:51:26.526Z" creationid="S.E.">
+                <seg>།མ་ལུས་ལུས་པ་མེད་གྲུབ་ཅིང་། །སྒྱུ་མ་ཀུན་གྱིས་རྣམ་རོལ་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-01T21:51:26.526Z" creationid="S.E.">
+                <seg>The entire play of illusion is accomplished without exclusion or remainder</seg>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1300</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-02T20:14:25.128Z" creationid="S.E.">
+                <seg>།སངས་རྒྱས་ཀུན་ལས་ཕྲོགས་ནས་སུ། །ལྷ་མཆོག་ལྷ་སྐྱེས་བུ་མོ་སྐྱོད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-02T20:14:25.128Z" creationid="S.E.">
+                <seg>Abducted from the buddhas, the maidens of the highest gods are enjoyed</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1550</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-02T21:32:32.337Z" creationid="S.E.">
+                <seg>།གཞན་གྱི་གྲོང་སོགས་བྱ་བ་དང་། །མི་སྣང་བ་དང་གང་ཡང་རུང་། །ཞེ་འགྲས་པ་དང་རྨུགས་པ་དང་། །དེ་བཞིན་ས་འོག་འགྲོ་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-02T21:32:32.337Z" creationid="S.E.">
+                <seg>He enters the citadel of another, is invisible, and so on. He causes hostility, renders mute and moves under the earth</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1670</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-02T21:33:33.703Z" creationid="S.E.">
+                <seg>།རིག་འཛིན་འཁོར་ལོས་སྒྱུར་ཉིད་འགྱུར། །འཆི་བ་མེད་ཅིང་རྒས་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-02T21:33:33.703Z" creationid="S.E.">
+                <seg>Becomes the universal sovereign of vidyādharas, does not age, and is deathless</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">F.167.b</prop>
+            <prop name="position">1750</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-02T21:45:26.987Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་སྒྱུ་མའི་རིག་པ་འདི། །འདི་ཡིས་ན་བ་མེད་པར་འགྱུར། །སྔགས་ཀྱི་ཡི་གེའི་གཟུགས་ཀྱིས་སུ། །རྣལ་འབྱོར་བས་ནི་རྣམ་རོལ་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-02T21:45:26.987Z" creationid="S.E.">
+                <seg>One with knowledge of yogic illusion is likewise free from disease— Yogīs revel in the form of the mantra’s syllables</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">120</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-02T21:51:52.643Z" creationid="S.E.">
+                <seg>།བཀླགས་པ་དང་ནི་བསམས་པ་ཡིས། །བསྒོམ་པ་དང་ནི་ཏིང་འཛིན་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-02T21:51:52.643Z" creationid="S.E.">
+                <seg>Through recitation and contemplation, meditation and absorption</seg>
+            </tuv>
+        </tu>
+        <tu tuid="39">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">191</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-02T21:52:19.927Z" creationid="S.E.">
+                <seg>།བཀླགས་པས་བྱེད་པའི་རིག་པ་སྟེ། །རིག་པའི་དངོས་གྲུབ་བྱེད་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-02T21:52:19.927Z" creationid="S.E.">
+                <seg>The vidyā created through recitation brings about the accomplishment of knowledge</seg>
+            </tuv>
+        </tu>
+        <tu tuid="40">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">274</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T17:49:22.392Z" creationid="S.E.">
+                <seg>།བརྟུལ་ཞུགས་མེད་ཅིང་དཀའ་ཐུབ་མེད། །དཀའ་སྤྱོད་སྨྱུང་བ་སྡོམ་མེད་པར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T17:49:22.392Z" creationid="S.E.">
+                <seg>Without discipline or austerities, without hardship, fasting, or vows</seg>
+            </tuv>
+        </tu>
+        <tu tuid="41">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">345</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T17:54:09.372Z" creationid="S.E.">
+                <seg>དགའ་དང་བདེ་བས་འགྲུབ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T17:54:09.372Z" creationid="S.E.">
+                <seg>Bliss and Joy bring accomplishment</seg>
+            </tuv>
+        </tu>
+        <tu tuid="42">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">380</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T17:55:42.98Z" creationid="S.E.">
+                <seg>།རྟག་ཏུ་ཤེས་རབ་ཐབས་སོགས་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T17:55:42.98Z" creationid="S.E.">
+                <seg>through constancy in knowledge and method</seg>
+            </tuv>
+        </tu>
+        <tu tuid="43">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">423</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:09:01.72Z" creationid="S.E.">
+                <seg>།ལྟེ་བའི་དབུས་ནས་དཔའ་བོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:09:01.72Z" creationid="S.E.">
+                <seg>The Virile One stands in the center of the navel,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="45">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">473</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:10:01.109Z" creationid="S.E.">
+                <seg>།གེ་སར་གསང་བའི་སྤྱོད་ཡུལ་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:10:01.109Z" creationid="S.E.">
+                <seg>in the hidden space of the blossom</seg>
+            </tuv>
+        </tu>
+        <tu tuid="46">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">509</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:13:45.647Z" creationid="S.E.">
+                <seg>།སེམས་དང་སེམས་མེད་སེམས་ཀྱི་གཟུགས། ། ཡེ་ཤེས་ཤེས་བྱའི་རང་བཞིན་བདག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:13:45.647Z" creationid="S.E.">
+                <seg>He is mind, the absence of mind, and mental form—the nature of knowledge and what can be known</seg>
+            </tuv>
+        </tu>
+        <tu tuid="47">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">605</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:14:23.033Z" creationid="S.E.">
+                <seg>།དེ་ནི་བདག་གིས་བཤད་བྱ་སྟེ། །ཟབ་མོ་སངས་རྒྱས་བསྟན་པའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:14:23.033Z" creationid="S.E.">
+                <seg>I will now describe him—this is the profound instruction of the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu tuid="48">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">677</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:33:33.237Z" creationid="S.E.">
+                <seg>།ཨཱ་ལི་ཀཱ་ལི་མཉམ་བྱས་ཏེ། །རི་མོ་དེ་ལ་སྦྱར་བར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:33:33.237Z" creationid="S.E.">
+                <seg>A chain equal to that of the āli kāli is coiled there</seg>
+            </tuv>
+        </tu>
+        <tu tuid="49">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">732</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:34:06.542Z" creationid="S.E.">
+                <seg>།རི་མོ་སྟེང་དུ་འབར་བ་མཐར། །འོག་ཏུ་འབབ་པར་བྱེད་པའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:34:06.542Z" creationid="S.E.">
+                <seg>The upper chain ignites and is made to flow downward,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="52">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">786</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:37:11.921Z" creationid="S.E.">
+                <seg>།ཁུ་བའི་ཚུལ་གྱིས་འབབ་པ་སྟེ། ། བདུད་རྩིའི་ཐིགས་པའི་གཟུགས་ལས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:37:11.921Z" creationid="S.E.">
+                <seg>A drop of nectar flowing in the form of semen.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="53">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">833</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:40:40.841Z" creationid="S.E.">
+                <seg>།གང་གང་དབང་པོའི་ལམ་ནས་ནི། །དེ་དེའི་རང་བཞིན་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:40:40.841Z" creationid="S.E.">
+                <seg>Whatever comes on the path of the senses is naturally just that.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="54">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">898</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:47:39.524Z" creationid="S.E.">
+                <seg>།མཆོག་ཏུ་ཕན་པའི་རྣལ་འབྱོར་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:47:39.524Z" creationid="S.E.">
+                <seg>Through the practice of supreme benefit</seg>
+            </tuv>
+        </tu>
+        <tu tuid="56">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">976</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T18:58:40.095Z" creationid="S.E.">
+                <seg>།དམ་ཚིག་ཆེན་པོའི་དངོས་གྲུབ་དང་། །རིལ་བུ་ཆེན་པོའི་བསྒྲུབ་པ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T18:58:40.095Z" creationid="S.E.">
+                <seg>The spiritual attainment of the great commitment is the perfection of the great pill</seg>
+            </tuv>
+        </tu>
+        <tu tuid="57">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1062</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T19:03:45.034Z" creationid="S.E.">
+                <seg>སྒྱུ་འཕྲུལ་ཆེན་པོའི་རབ་སྦྱོར་བའི། །སྡོམ་པའི་སྦྱོར་བ་བྱེད་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T19:03:45.034Z" creationid="S.E.">
+                <seg>In the embrace of Mahāmāyā you should practice yogic union</seg>
+            </tuv>
+        </tu>
+        <tu tuid="58">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1122</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T19:04:46.579Z" creationid="S.E.">
+                <seg>།མཆོད་པ་ལྔ་དང་ཡང་དག་ལྡན། །འདོད་པའི་ཡོན་ཏན་ལྔ་དང་བཅས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T19:04:46.579Z" creationid="S.E.">
+                <seg>Endowed with the five offerings together with the five objects of desire</seg>
+            </tuv>
+        </tu>
+        <tu tuid="59">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1196</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T19:05:56.867Z" creationid="S.E.">
+                <seg>།སྒྲུབ་པའི་དབང་པོ་ཤེས་བྱ་བ། །དངོས་གྲུབ་ཤིན་ཏུ་རྟག་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T19:05:56.867Z" creationid="S.E.">
+                <seg>The power of accomplishment will be known and spiritual attainment made permanent.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="60">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1279</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T19:09:29.311Z" creationid="S.E.">
+                <seg>།གང་ཞིག་ཤེས་པའི་དངོས་གྲུབ་ཀྱིས། །ལྷ་ཡི་གནས་སུ་མྱུར་བར་འགྱུར། །དེ་ནི་བདག་གིས་བཤད་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T19:09:29.311Z" creationid="S.E.">
+                <seg>I will explain this spiritual attainment of wisdom, By which the state of a god is swiftly attained</seg>
+            </tuv>
+        </tu>
+        <tu tuid="61">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1379</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T19:09:53.184Z" creationid="S.E.">
+                <seg>།ལྷ་མོ་བདེན་པར་ང་སྨྲའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T19:09:53.184Z" creationid="S.E.">
+                <seg>Goddess, I speak truthfully!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="62">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T20:43:08.266Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T20:43:08.266Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="63">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1408</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T20:43:46.548Z" creationid="S.E.">
+                <seg>།སྒྱུ་འཕྲུལ་ཆེན་མོ་ཁྱོད་ལ་ངས། །འཇིག་རྟེན་གསུམ་འགྲུབ་དེ་བཤད་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T20:43:46.548Z" creationid="S.E.">
+                <seg>To you, Mahāmāyā, I will explain the accomplishment of the three worlds</seg>
+            </tuv>
+        </tu>
+        <tu tuid="64">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1481</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T20:44:40.613Z" creationid="S.E.">
+                <seg>རྣལ་འབྱོར་ཆེན་མོ་རྣམས་ཀྱི་ནི། །བཟང་པོའི་ཡི་གེའི་ཕྲང་བ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T20:44:40.613Z" creationid="S.E.">
+                <seg>The garland of syllables of the most excellent among the great yoginīs</seg>
+            </tuv>
+        </tu>
+        <tu tuid="65">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1553</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:00:30.801Z" creationid="S.E.">
+                <seg>།གང་ཞིག་བསམས་པ་ཙམ་གྱིས་ནི། །རྒྱུ་དང་ནི་རྒྱུ་འགྲུབ་འགྱུར་བའོ། །འདོད་པས་ཀུན་ལ་ཉེར་སྤྱོད་པ། །ཇི་ལྟར་འདོད་བཞིན་བསྟེན་བྱས་ན། །རྣལ་འབྱོར་པ་ཆེན་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:00:30.801Z" creationid="S.E.">
+                <seg>The great yogī who masters the animate and inanimate with thought alone Is constantly offered desirable things and served according to his pleasure</seg>
+            </tuv>
+        </tu>
+        <tu tuid="66">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1702</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:01:16.329Z" creationid="S.E.">
+                <seg>རྟག་རོལ་ཏེ། །རྡོ་རྗེ་རྣལ་འབྱོར་རྣམས་འགྲུབ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:01:16.329Z" creationid="S.E.">
+                <seg>He is always at play and accomplishes the vajra yoginīs</seg>
+            </tuv>
+        </tu>
+        <tu tuid="67">
+            <prop name="folio">F.168.a</prop>
+            <prop name="position">1765</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:02:15.364Z" creationid="S.E.">
+                <seg>།རྣམ་པ་སྣ་ཚོགས་གཟུགས་སུ་ནི། །རྣལ་འབྱོར་བདག་ཉིད་སྟོན་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:02:15.364Z" creationid="S.E.">
+                <seg>In a variety of forms the essential practice is revealed</seg>
+            </tuv>
+        </tu>
+        <tu tuid="68">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">122</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:13:05.898Z" creationid="S.E.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཀུན་གྱི་དཔལ། །དངོས་གྲུབ་ཆེན་པོ་སྟེར་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:13:05.898Z" creationid="S.E.">
+                <seg>The great attainment, the splendor of the tathāgatas, is granted</seg>
+            </tuv>
+        </tu>
+        <tu tuid="69">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">188</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:14:07.759Z" creationid="S.E.">
+                <seg>།བཅུད་ལེན་རྣམ་པ་སྣ་ཚོགས་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:14:07.759Z" creationid="S.E.">
+                <seg>Through extracting various essences</seg>
+            </tuv>
+        </tu>
+        <tu tuid="70">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">233</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:14:40.544Z" creationid="S.E.">
+                <seg>།རྟག་ཏུ་སེམས་ཅན་དོན་བྱེད་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:14:40.544Z" creationid="S.E.">
+                <seg>constantly benefits beings.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="73">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">377</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:33:37.575Z" creationid="S.E.">
+                <seg>།ཚེ་རིང་བརྩོན་འགྲུས་ཆེན་པོ་དང་། །གཟི་བརྗིད་ཆེ་ཞིང་སྟོབས་ཆེན་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:33:37.575Z" creationid="S.E.">
+                <seg>He gains long life, great virility, great splendor, and becomes exceedingly powerful</seg>
+            </tuv>
+        </tu>
+        <tu tuid="74">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">261</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:35:54.764Z" creationid="S.E.">
+                <seg>།ཁུ་བ་དགུག་དང་ཆང་དང་ནི། །གོང་བུ་ཆེན་པོ་དགུག་པ་ཉིད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:35:54.764Z" creationid="S.E.">
+                <seg>With the collected semen, liquor, and extracted large pill,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="75">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">321</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:36:13.848Z" creationid="S.E.">
+                <seg>།ཤ་ཆེན་པོ་ནི་བཀུག་ནས་སུ། །རྣལ་འབྱོར་མ་དང་ལྷན་ཅིག་སྤྱོད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:36:13.848Z" creationid="S.E.">
+                <seg>He mixes in the great flesh and unites with the yoginī</seg>
+            </tuv>
+        </tu>
+        <tu tuid="76">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">463</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:38:26.056Z" creationid="S.E.">
+                <seg>།ལྷ་ཡི་མིག་དང་རྫུ་འཕྲུལ་ལྡན། །ཉིན་རེ་ཟླ་བ་འཐུང་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:38:26.056Z" creationid="S.E.">
+                <seg>He possesses divine sight, magical ability, and drinks the moon day after day</seg>
+            </tuv>
+        </tu>
+        <tu tuid="77">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">542</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:39:27.03Z" creationid="S.E.">
+                <seg>།དེ་ཡི་ཚེ་ནི་འཕེལ་འགྱུར་ཏེ། །བསྐལ་པ་ཆེན་པོའི་བར་དུ་གནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:39:27.03Z" creationid="S.E.">
+                <seg>He becomes long-lived so that he lives for a great age</seg>
+            </tuv>
+        </tu>
+        <tu tuid="78">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">651</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:42:38.084Z" creationid="S.E.">
+                <seg>།ཡིད་ལ་བསམས་མ་ཐག་ཏུ་ནི། །རང་གི་གཟུགས་ནི་ཡོངས་བརྗེས་ཤིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:42:38.084Z" creationid="S.E.">
+                <seg>With merely a thought his appearance is transformed</seg>
+            </tuv>
+        </tu>
+        <tu tuid="79">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">704</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:43:36.827Z" creationid="S.E.">
+                <seg>།རིག་མའི་དབང་ཕྱུག་རྫུ་འཕྲུལ་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:43:36.827Z" creationid="S.E.">
+                <seg>The queen of vidyās, the great enchantress</seg>
+            </tuv>
+        </tu>
+        <tu tuid="80">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">796</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:45:18.365Z" creationid="S.E.">
+                <seg>།རིག་པ་འཇིག་རྟེན་གསུམ་པོ་ན། །ང་ཡི་རིག་དང་མཉམ་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:45:18.365Z" creationid="S.E.">
+                <seg>Vidyā! In the three worlds there is nothing equal to my knowledge</seg>
+            </tuv>
+        </tu>
+        <tu tuid="81">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">863</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:46:21.529Z" creationid="S.E.">
+                <seg>།རྒྱུད་རྣམས་ཀུན་གྱི་ལུང་འདི་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:46:21.529Z" creationid="S.E.">
+                <seg>This transmission of all tantras</seg>
+            </tuv>
+        </tu>
+        <tu tuid="82">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">896</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:46:41.692Z" creationid="S.E.">
+                <seg>།མཛེས་མ་ཁྱོད་ལ་བཤད་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:46:41.692Z" creationid="S.E.">
+                <seg>has been explained to you, Magnificent One!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="83">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">940</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:47:27.52Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་མའི་དབང་ཕྱུག་མའི་རིག་མ་ཆེན་མོ་ལས་དངོས་གྲུབ་ཀྱི་མཚན་མ་བསྟན་པ་སྟེ་ལེའུ་དང་པོའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:47:27.52Z" creationid="S.E.">
+                <seg>This completes the first instruction on the signs of spiritual attainment of The Great Vidyā, Queen of the Yoginīs.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="84">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">748</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:49:24.212Z" creationid="S.E.">
+                <seg>།བཀླགས་པས་འགྲུབ་པའི་དོན་ཡོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:49:24.212Z" creationid="S.E.">
+                <seg>is unfailingly accomplished through recitation</seg>
+            </tuv>
+        </tu>
+        <tu tuid="85">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">598</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-07T21:52:02.05Z" creationid="S.E.">
+                <seg>།བལྟ་བས་མི་ངོམས་ལུས་དང་ནི། །ཆོ་འཕྲུལ་དག་ནི་སྟོན་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-07T21:52:02.05Z" creationid="S.E.">
+                <seg>He manifests an alluring form and conjures miracles</seg>
+            </tuv>
+        </tu>
+        <tu tuid="86">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1091</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:09:17.173Z" creationid="S.E.">
+                <seg>།དེ་ནས་དེ་ལས་རྣལ་འབྱོར་མའི་དབང་ཕྱུག་ཆེན་མོ་རྣམས་ཀྱི་སྦྱོར་བའི་དངོས་གྲུབ་ཀྱི་འབྲས་བུ་རབ་ཏུ་སྟེར་བའི་གསང་བའི་ཡི་གེ་བཟང་པོ་བཤད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:09:17.173Z" creationid="S.E.">
+                <seg>Now, following that, I will explain the sublime secret syllable that bestows the result of the spiritual attainment for the practice of the great queens of yoga</seg>
+            </tuv>
+        </tu>
+        <tu tuid="87">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1253</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:11:34.008Z" creationid="S.E.">
+                <seg>གང་ཞིག་བསམས་པ་ཙམ་གྱིས་ནི། །རྣལ་འབྱོར་མ་མཆོག་སྟེར་འགྱུར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:11:34.008Z" creationid="S.E.">
+                <seg>Merely visualizing her, the yoginī grants the best of things</seg>
+            </tuv>
+        </tu>
+        <tu tuid="88">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1315</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:23:43.132Z" creationid="S.E.">
+                <seg>།དང་པོའི་ཡི་གེའི་སྦྱོར་བ་ཡིས། །རྟག་ཏུ་དགུགས་ནི་གཏང་བར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:23:43.132Z" creationid="S.E.">
+                <seg>Apply the first syllable and sustain the upward breath</seg>
+            </tuv>
+        </tu>
+        <tu tuid="93">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1450</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:28:54.559Z" creationid="S.E.">
+                <seg>། རྣལ་འབྱོར་པ་ཡི་དབུགས་རྔུབ་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:28:54.559Z" creationid="S.E.">
+                <seg>The yogī moves the downward breath</seg>
+            </tuv>
+        </tu>
+        <tu tuid="94">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1486</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:29:07.306Z" creationid="S.E.">
+                <seg>།དངོས་དང་དངོས་མེད་རྣམ་སྤངས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:29:07.306Z" creationid="S.E.">
+                <seg>abandoning the real and unreal</seg>
+            </tuv>
+        </tu>
+        <tu tuid="95">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1371</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:29:42.237Z" creationid="S.E.">
+                <seg>བརྒྱད་པའི་མཐའ་དང་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:29:42.237Z" creationid="S.E.">
+                <seg>Taking that which comes at the end of the eight</seg>
+            </tuv>
+        </tu>
+        <tu tuid="96">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1419</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:29:56.527Z" creationid="S.E.">
+                <seg>།ཨུ་དང་ཐིག་ལེར་བཅས་པ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:29:56.527Z" creationid="S.E.">
+                <seg>together with ū and the bindu</seg>
+            </tuv>
+        </tu>
+        <tu tuid="97">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1524</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:33:34.855Z" creationid="S.E.">
+                <seg>།དེ་ལ་བརྟུལ་ཞུགས་མ་བཤད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:33:34.855Z" creationid="S.E.">
+                <seg>The observances are not explained:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="98">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:34:34.482Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:34:34.482Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="101">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1650</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:38:06.814Z" creationid="S.E.">
+                <seg>།སྔགས་དང་དབྱིབས་དང་ཆོས་བདག་ཉིད། །སྦྱོར་བ་རྣམ་གསུམ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:38:06.814Z" creationid="S.E.">
+                <seg>The threefold practice is said to be essentially mantra, appearance, and reality.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="102">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1732</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:39:48.275Z" creationid="S.E.">
+                <seg>།ཡེ་ཤེས་རྣམ་པ་གསུམ་གྱིས་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:39:48.275Z" creationid="S.E.">
+                <seg>Through three aspects of wisdom</seg>
+            </tuv>
+        </tu>
+        <tu tuid="103">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1764</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:40:06.515Z" creationid="S.E.">
+                <seg>།སྲིད་པའི་ཉེས་པས་གོས་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:40:06.515Z" creationid="S.E.">
+                <seg>he will not be stained by the faults of existence</seg>
+            </tuv>
+        </tu>
+        <tu tuid="104">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1815</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:40:50.051Z" creationid="S.E.">
+                <seg>།དེ་ལྟར་རྒྱུན་དུ་རྣལ་འབྱོར་པ། །རྟག་ཏུ་གོམས་པ་ཉིད་ཀྱིས་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:40:50.051Z" creationid="S.E.">
+                <seg>The yogī who constantly meditates on this without interruption</seg>
+            </tuv>
+        </tu>
+        <tu tuid="105">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1878</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:41:10.516Z" creationid="S.E.">
+                <seg>།རྡོ་རྗེ་སེམས་དཔའ་དང་མཉམ་པའང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:41:10.516Z" creationid="S.E.">
+                <seg>Is equal to Vajrasattva and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="106">
+            <prop name="folio">F.168.b</prop>
+            <prop name="position">1906</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:41:31.971Z" creationid="S.E.">
+                <seg>།ཟླ་བ་གཅིག་གིས་དེ་འགྲུབ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:41:31.971Z" creationid="S.E.">
+                <seg>gains accomplishment in a single month</seg>
+            </tuv>
+        </tu>
+        <tu tuid="107">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">132</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:42:20.424Z" creationid="S.E.">
+                <seg>།དབང་པོའི་མདོག་དང་ཡང་དག་ལྡན། །དང་པོའི་ཡི་གེ་བསྒོམ་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:42:20.424Z" creationid="S.E.">
+                <seg>Meditate upon the first syllable which is the color of Indra.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="108">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">194</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:45:39.344Z" creationid="S.E.">
+                <seg>།རང་གི་རིག་པ་རབ་སྦྱར་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:45:39.344Z" creationid="S.E.">
+                <seg>Merged fully with one’s own awareness</seg>
+            </tuv>
+        </tu>
+        <tu tuid="111">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">232</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:46:48.375Z" creationid="S.E.">
+                <seg>།དེས་འདི་མོད་ལ་འགུགས་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:46:48.375Z" creationid="S.E.">
+                <seg>it is summoned in an instant</seg>
+            </tuv>
+        </tu>
+        <tu tuid="112">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">262</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:47:21.766Z" creationid="S.E.">
+                <seg>།ཡི་གེ་གཉིས་པ་དང་ལྡན་པ། །བསམ་ཞིང་རྣམ་པར་བསྒོམ་བྱས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:47:21.766Z" creationid="S.E.">
+                <seg>The one possessing the second syllable is imagined and cultivated</seg>
+            </tuv>
+        </tu>
+        <tu tuid="113">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">329</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:48:09.514Z" creationid="S.E.">
+                <seg>།ས་གསུམ་པོ་ནི་མ་ལུས་པ། །དེ་དག་ཐམས་ཅད་དབང་དུ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:48:09.514Z" creationid="S.E.">
+                <seg>One gains power over everything within the whole of the three worlds</seg>
+            </tuv>
+        </tu>
+        <tu tuid="114">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">399</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:50:56.18Z" creationid="S.E.">
+                <seg>།ཚངས་དང་ཁྱབ་འཇུག་དབང་པོ་དང་། །དེ་བཞིན་དབང་པོ་འདོད་དབང་ཕྱུག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:50:56.18Z" creationid="S.E.">
+                <seg>Brahmā, and lord Viṣṇu, so too Indra and the Lord of Desire</seg>
+            </tuv>
+        </tu>
+        <tu tuid="115">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">460</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:51:11.014Z" creationid="S.E.">
+                <seg>།ཡེ་ཤེས་ཡི་གེས་བསྐུལ་བྱས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:51:11.014Z" creationid="S.E.">
+                <seg>Invoked with the wisdom syllable</seg>
+            </tuv>
+        </tu>
+        <tu tuid="116">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">494</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:52:09.893Z" creationid="S.E.">
+                <seg>།དེ་དག་ཆུང་མར་བཅས་ཏེ་འགུགས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:52:09.893Z" creationid="S.E.">
+                <seg>they are summoned along with their wives</seg>
+            </tuv>
+        </tu>
+        <tu tuid="118">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">565</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:52:59.338Z" creationid="S.E.">
+                <seg>།སྐུ་གསུང་ཐུགས་ལ་ལེགས་གནས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:52:59.338Z" creationid="S.E.">
+                <seg>settled in awakened body, speech, and mind</seg>
+            </tuv>
+        </tu>
+        <tu tuid="119">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">609</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:55:01.507Z" creationid="S.E.">
+                <seg>།སྦྱོར་བ་རྣམ་གསུམ་བསྒོམ་བྱས་ན། །གོང་བུ་འགུགས་པའི་མཆོག་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:55:01.507Z" creationid="S.E.">
+                <seg>Perform the threefold union—this is the supreme extraction of the pill.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="120">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">681</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:55:34.541Z" creationid="S.E.">
+                <seg>།ཡི་གེ་ཁེ་དང་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:55:34.541Z" creationid="S.E.">
+                <seg>Possessing the syllable khe</seg>
+            </tuv>
+        </tu>
+        <tu tuid="121">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">709</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T19:55:54.921Z" creationid="S.E.">
+                <seg>།སྐུ་མདོག་དམར་པོ་ཞལ་བཞི་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T19:55:54.921Z" creationid="S.E.">
+                <seg>is the four-faced one with a red body</seg>
+            </tuv>
+        </tu>
+        <tu tuid="122">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">748</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-11T13:02:37.505Z" creationid="S.E.">
+                <seg>།ལག་ན་ཐོད་པ་ཆགས་པའི་བདག །ཁུ་བ་འགུགས་པའི་མཆོག་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-11T13:02:37.505Z" creationid="S.E.">
+                <seg>Skull cup in hand he is passion itself—this is the supreme extraction of semen.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="127">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">828</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-11T13:55:39.112Z" creationid="S.E.">
+                <seg>།ཡི་གེ་རྩི་དང་ལྡན་པ་ཡིས། ། ཁ་དོག་སེར་པོ་ཀུན་ཏུ་འོད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-11T13:55:39.112Z" creationid="S.E.">
+                <seg>Possessing the syllable ci is one yellow in color who shines brightly</seg>
+            </tuv>
+        </tu>
+        <tu tuid="128">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">899</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-11T13:57:01.033Z" creationid="S.E.">
+                <seg>།རྟ་ཡི་ཞལ་གྱི་ཚུལ་བྱས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-11T13:57:01.033Z" creationid="S.E.">
+                <seg>With the form of a horse’s face</seg>
+            </tuv>
+        </tu>
+        <tu tuid="129">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">931</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-11T13:57:39.721Z" creationid="S.E.">
+                <seg>།ཆང་འགུགས་པ་ཡི་དམ་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-11T13:57:39.721Z" creationid="S.E.">
+                <seg>engaging him is the supreme extraction of the liquor.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="131">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1020</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-11T14:00:47.073Z" creationid="S.E.">
+                <seg>།ཁ་དོག་དམར་པོ་འོད་ཆེན་པོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-11T14:00:47.073Z" creationid="S.E.">
+                <seg>is red in color and exceedingly bright</seg>
+            </tuv>
+        </tu>
+        <tu tuid="133">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1060</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-11T14:03:14.03Z" creationid="S.E.">
+                <seg>།ཕྱག་བཞི་པ་དང་ཞལ་བཞི་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-11T14:03:14.03Z" creationid="S.E.">
+                <seg>Has four arms and four faces</seg>
+            </tuv>
+        </tu>
+        <tu tuid="134">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1094</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T07:39:00.419Z" creationid="S.E.">
+                <seg>།ཅེ་སྤྱང་ཚུལ་དུ་ལེགས་གནས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T07:39:00.419Z" creationid="S.E.">
+                <seg>appears in the form of a jackal.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="135">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1127</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T07:39:30.297Z" creationid="S.E.">
+                <seg>།ཁྲོ་བའི་སེམས་ཀྱིས་བསྒོམ་བྱས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T07:39:30.297Z" creationid="S.E.">
+                <seg>Cultivating this wrathful mind</seg>
+            </tuv>
+        </tu>
+        <tu tuid="136">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1158</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T07:39:45.428Z" creationid="S.E.">
+                <seg>། ཁྲག་འགུགས་པ་ཡི་དམ་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T07:39:45.428Z" creationid="S.E.">
+                <seg>is the supreme extraction of blood.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="137">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1194</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T07:40:31.975Z" creationid="S.E.">
+                <seg>།ཡི་གེ་དྲུག་དང་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T07:40:31.975Z" creationid="S.E.">
+                <seg>Endowed with the six syllables,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="138">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1226</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T07:42:31.21Z" creationid="S.E.">
+                <seg>།གནས་དྲུག་ཏུ་ནི་ངེས་སྦྱར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T07:42:31.21Z" creationid="S.E.">
+                <seg>they are fixed in the six places.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="139">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1260</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T07:45:26.686Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་མཁའ་འགྲོ་མ་ཡི་ཚོགས། །རྡོ་རྗེ་རྣལ་འབྱོར་མ་རྣམས་འགྲུབ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T07:45:26.686Z" creationid="S.E.">
+                <seg>The practice, the host of ḍākinīs, and the vajra yoginīs are accomplished,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="140">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1341</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T08:21:24.59Z" creationid="S.E.">
+                <seg>།མིག་གཉིས་དང་ནི་རྣ་བ་དང་། །དེ་བཞིན་སྣ་དང་ཡིད་ཉིད་དག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T08:21:24.59Z" creationid="S.E.">
+                <seg>The two eyes, the ears, and so too the nose and the mind.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="142">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1442</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T08:24:10.849Z" creationid="S.E.">
+                <seg>།སྲོག་དང་རྩོལ་བ་བསྡམས་ནས་སུ། །བསྒོམས་ན་སྐད་ཅིག་དེ་ལ་འབར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T08:24:10.849Z" creationid="S.E.">
+                <seg>While meditating with the movement of breath controlled, it blazes in an instant</seg>
+            </tuv>
+        </tu>
+        <tu tuid="145">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1534</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T08:58:30.303Z" creationid="S.E.">
+                <seg>།འོག་མིན་སྲིད་པའི་མཐར་ཐུག་པ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T08:58:30.303Z" creationid="S.E.">
+                <seg>Akaniṣṭha, the summit of existence,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="146">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1577</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T08:59:03.907Z" creationid="S.E.">
+                <seg>།རྒྱུ་དང་མི་རྒྱུའི་འཇིག་རྟེན་བདུན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T08:59:03.907Z" creationid="S.E.">
+                <seg>the seven worlds of the animate and inanimate.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="147">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1624</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:00:02.742Z" creationid="S.E.">
+                <seg>།ཐམས་ཅད་ཀྱིས་ནི་དེ་བསྒོམས་ཀྱང་། །དེ་ནི་རྟོག་པ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:00:02.742Z" creationid="S.E.">
+                <seg>All meditate upon it, but they don’t realize it.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="148">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1673</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:04:28.05Z" creationid="S.E.">
+                <seg>།གལ་ཏེ་ཐམས་ཅད་རབ་རྟོགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:04:28.05Z" creationid="S.E.">
+                <seg>If everyone realized it,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="149">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1698</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:07:23.37Z" creationid="S.E.">
+                <seg>།འགྲོ་བའི་རོལ་པ་རྣམ་པར་འཇིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:07:23.37Z" creationid="S.E.">
+                <seg>the manifestations of beings would utterly collapse.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="150">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1751</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:08:11.096Z" creationid="S.E.">
+                <seg>།དེ་ཕྱིར་ཡེ་ཤེས་འདི་གསང་ཞིང་། །མི་གསལ་ཡི་གེ་མེད་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:08:11.096Z" creationid="S.E.">
+                <seg>Therefore this wisdom is secret, obscure, and unwritten.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="151">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1808</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:09:13.029Z" creationid="S.E.">
+                <seg>།གང་ཕྱིར་སངས་རྒྱས་རྣམས་ཀྱིས་མཁྱེན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:09:13.029Z" creationid="S.E.">
+                <seg>Because the awakened ones know,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="152">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1840</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:16:11.792Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་གཉིད་དང་ཡང་དག་ལྡན། །གོང་བུར་སོང་བའི་ཡིད་དེ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:16:11.792Z" creationid="S.E.">
+                <seg>they who are immersed in yogic sleep, They concentrate upon the pill</seg>
+            </tuv>
+        </tu>
+        <tu tuid="153">
+            <prop name="folio">F.169.a</prop>
+            <prop name="position">1913</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:16:44.907Z" creationid="S.E.">
+                <seg>།གཟུགས་གཅིག་ཏུ་ནི་སྒོམ་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:16:44.907Z" creationid="S.E.">
+                <seg>meditate on the singular nature of forms.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="154">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">148</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:19:07.531Z" creationid="S.E.">
+                <seg>།སྒོ་དགུ་ལས་ནི་གང་བྱུང་བ། །རྫས་ཀྱི་བདག་ཉིད་རྣམ་བསྒོམས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:19:07.531Z" creationid="S.E.">
+                <seg>They meditate on the essence of the substances arisen from the nine doors,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="155">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">227</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:24:50.12Z" creationid="S.E.">
+                <seg>།རང་བཞིན་མེད་པའི་བློ་ལྡན་པའི། །རྣམ་པར་མི་རྟོག་པ་ཡིས་བཟའ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:24:50.12Z" creationid="S.E.">
+                <seg>consume them with a mind free of concepts and devoid of intrinsic nature.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="156">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">301</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:27:09.012Z" creationid="S.E.">
+                <seg>།མཐེ་བོང་དང་ནི་སྲིན་ལག་གིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:27:09.012Z" creationid="S.E.">
+                <seg>With the thumb and ring finger,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="157">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">333</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:30:11.98Z" creationid="S.E.">
+                <seg>།ཁ་རུ་ཡིད་བཞིན་ནོར་བུ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:30:11.98Z" creationid="S.E.">
+                <seg>place the wish-granting jewel in the mouth,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="158">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">381</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:31:10.486Z" creationid="S.E.">
+                <seg>།བདུད་རྩིའི་རང་བཞིན་ལས་བྱུང་བའི། ། རྟག་པའི་དངོས་གྲུབ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:31:10.486Z" creationid="S.E.">
+                <seg>attain the everlasting spiritual attainment arisen from the nature of the nectar.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="159">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">463</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:45:05.371Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་མའི་དབང་ཕྱུག་མའི་རིག་པ་ཆེན་མོ་ལས་སྦྱོར་བ་གཏན་ལ་དབབ་པའི་ལེའུ་སྟེ་གཉིས་པའོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:45:05.371Z" creationid="S.E.">
+                <seg>This completes the second instruction on the practice of The Great Vidyā, Queen of the Yoginīs.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="160">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">593</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T09:45:47.773Z" creationid="S.E.">
+                <seg>།།དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །དམ་ཚིག་སྒྲུབ་པའི་དམ་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T09:45:47.773Z" creationid="S.E.">
+                <seg>Now comes a thorough explanation of the supreme accomplishment of the samaya:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="161">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">671</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:21:47.911Z" creationid="S.E.">
+                <seg>།རྫས་གཞན་ཚོགས་ནི་བཟའ་བྱ་བ། །ཐམས་ཅད་མཁྱེན་པའི་འབྲས་སྟེར་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:21:47.911Z" creationid="S.E.">
+                <seg>The ingestion of the other gathered substances that bestow the result of omniscience.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="162">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">757</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:23:14.645Z" creationid="S.E.">
+                <seg>།གང་ཞིག་ཟོས་པ་ཙམ་གྱིས་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:23:14.645Z" creationid="S.E.">
+                <seg>By their mere consumption</seg>
+            </tuv>
+        </tu>
+        <tu tuid="164">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">897</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:31:34.579Z" creationid="S.E.">
+                <seg>།དེ་བཞིན་ཡེ་ཤེས་བདུད་རྩི་ལྔ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:31:34.579Z" creationid="S.E.">
+                <seg>and also the five wisdom nectars,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="165">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">931</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:32:11.488Z" creationid="S.E.">
+                <seg>།ཚེས་གྲངས་བཅུ་བཞི་བརྒྱད་ལ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:32:11.488Z" creationid="S.E.">
+                <seg>From the fourteenth to the eighth</seg>
+            </tuv>
+        </tu>
+        <tu tuid="167">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">828</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:36:51.327Z" creationid="S.E.">
+                <seg>།བརྟན་པ་དང་ནི་མྱུར་འགྲོ་ཉིད། །དེ་བཞིན་དུ་ནི་བ་ལང་ཁྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:36:51.327Z" creationid="S.E.">
+                <seg>Elephant and horse, and so too cow and dog.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="168">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">965</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:38:05.958Z" creationid="S.E.">
+                <seg>།ལྷན་ཅིག་བསྒོས་ཏེ་སྦྱར་བྱས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:38:05.958Z" creationid="S.E.">
+                <seg>they are combined and mingled together.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="169">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1005</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:40:00.399Z" creationid="S.E.">
+                <seg>།ཉི་མ་བདུན་དུ་ཅེ་སྤྱང་གི། །དབུས་སུ་གཞག་ལ་དེ་ནས་བཏོན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:40:00.399Z" creationid="S.E.">
+                <seg>Left inside a jackal for seven days, remove them.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="170">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1061</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:43:33.061Z" creationid="S.E.">
+                <seg>།ལྔ་པོ་དག་ལས་ཡུངས་ཀར་གྱི། །འབྲས་བུའི་ཚད་ཙམ་རིལ་བུ་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:43:33.061Z" creationid="S.E.">
+                <seg>Roll the five into pellets the size of mustard seeds.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="171">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1115</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:44:41.395Z" creationid="S.E.">
+                <seg>།དེ་ནི་རྒྱུད་འདིར་གསུངས་མོད་ཀྱི། །ཚེས་བརྒྱད་དང་ནི་བཅུ་བཞིའི་བར་དག་ཏུ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:44:41.395Z" creationid="S.E.">
+                <seg>Indeed this tantra teaches that from the eighth to the fourteenth</seg>
+            </tuv>
+        </tu>
+        <tu tuid="172">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:50:17.804Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:50:17.804Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="173">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1181</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:51:48.24Z" creationid="S.E.">
+                <seg>། ཉི་མ་བདུན་དུ་ལྷན་ཅིག་མིན་བསྒོམ་སྟེ། །སྦྱར་ནས་ཅེ་སྤྱང་དབུས་སུ་ལགས་བཞག་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:51:48.24Z" creationid="S.E.">
+                <seg>Cultivate them individually for seven days, mix them, and place them in a jackal.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="174">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1263</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:53:07.592Z" creationid="S.E.">
+                <seg>།དེ་ལས་བཏོན་ཏེ་ལྔ་པོ་དག་ལས་ནི། །དངོས་གྲུབ་འབྲས་བུའི་ཚད་ཙམ་རིལ་བུ་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:53:07.592Z" creationid="S.E.">
+                <seg>Take them out—from the five make pellets the size of the fruit of spiritual attainment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="175">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1351</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:54:26.283Z" creationid="S.E.">
+                <seg>།འབྲས་བུ་ཆེན་པོ་རབ་ཏུ་རྟོགས་པས་ན། །དེ་ནི་རྒྱུད་འདིར་གསུངས་ཀྱི་ཀུན་ཏུ་སྦས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:54:26.283Z" creationid="S.E.">
+                <seg>Because the great fruition is perfectly realized, it is taught in this tantra but fully concealed</seg>
+            </tuv>
+        </tu>
+        <tu tuid="176">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1449</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:55:25.692Z" creationid="S.E.">
+                <seg>། འབྲས་བུ་ཆེན་པོ་སངས་རྒྱས་ཀྱིས། །ཐམས་ཅད་དུ་ནི་སྦས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:55:25.692Z" creationid="S.E.">
+                <seg>The buddhas have concealed the great fruition in every instance.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="177">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1514</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:56:07.848Z" creationid="S.E.">
+                <seg>།དེ་ནས་སྒྲུབ་ཐབས་འབྱུང་བའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:56:07.848Z" creationid="S.E.">
+                <seg>Next follows the method of practice:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="178">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1551</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:56:59.598Z" creationid="S.E.">
+                <seg>།ཡིད་ཀྱི་པདྨ་བསམ་བྱ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:56:59.598Z" creationid="S.E.">
+                <seg>visualize a mind lotus</seg>
+            </tuv>
+        </tu>
+        <tu tuid="179">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1574</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:57:16.92Z" creationid="S.E.">
+                <seg>།ཁ་དོག་དམར་པོ་ཀུན་འོད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:57:16.92Z" creationid="S.E.">
+                <seg>Glowing red in color</seg>
+            </tuv>
+        </tu>
+        <tu tuid="180">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1599</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:57:41.956Z" creationid="S.E.">
+                <seg>།ལྷ་མོ་བཞི་དང་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:57:41.956Z" creationid="S.E.">
+                <seg>endowed with the four goddesses.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="181">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1632</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T10:58:11.703Z" creationid="S.E.">
+                <seg>།སངས་རྒྱས་གཟུགས་ཀྱིས་ཉེར་བརྒྱན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T10:58:11.703Z" creationid="S.E.">
+                <seg>It is adorned with the figure of the Buddha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="182">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1677</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T11:04:58.07Z" creationid="S.E.">
+                <seg>།ཤར་དུ་ཨུཏྤལ་སྔོ་འོད་མདོག །ལྷོ་རུ་སེར་པོ་ལྟ་བུའོ། །ནུབ་ཏུ་དཀར་དང་དམར་བའི་འོད། །བྱང་དུ་མ་རྒད་འོད་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T11:04:58.07Z" creationid="S.E.">
+                <seg>In the east he shines like a blue lotus, to the south he is yellow, To the west whitish red, and in the north he glows emerald.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="183">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1805</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T15:56:57.723Z" creationid="S.E.">
+                <seg>།འབར་བའི་ཕྲེང་བས་འཁྲིགས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T15:56:57.723Z" creationid="S.E.">
+                <seg>Shrouded in a garland of flames,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="184">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1838</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T15:57:35.756Z" creationid="S.E.">
+                <seg>།ཞལ་བཞི་ཕྱག་བཞི་སྤྱན་གསུམ་མ་མཛེས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T15:57:35.756Z" creationid="S.E.">
+                <seg>he is beautiful with three eyes, four faces, and four arms.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="185">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">1898</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:05:21.525Z" creationid="S.E.">
+                <seg>།ཤར་ཕྱོགས་ཀྱི་ལྷ་མོ་ནི་སྤྱན་གསུམ་པ་ཕྱག་གཡོན་ན་ཁ་ཊྭཱྃ་ག་དང་དྲིལ་བུ། གཡས་ན་རྡོ་རྗེ་དང་། ཐོད་པ་བསྣམས་པ་བསམ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:05:21.525Z" creationid="S.E.">
+                <seg>Imagine that the goddess in the east has three eyes and holds a khaṭvāṅga and bell in her left hands and a vajra and skull cup in her right hands.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="186">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">2045</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:34:25.264Z" creationid="S.E.">
+                <seg>།ལྷོ་ཕྱོགས་ཀྱི་ལྷ་མོའི་ཕྱག་ན་མདུང་རྩེ་གསུམ་པ་དང་། རིན་པོ་ཆེ་དང་། བ་དན་དང་། ཅེ་སྤྱང་བསྣམས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:34:25.264Z" creationid="S.E.">
+                <seg>The goddess in the south wields a trident, a jewel, a banner, and a jackal.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="187">
+            <prop name="folio">F.169.b</prop>
+            <prop name="position">2121</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:35:42.118Z" creationid="S.E.">
+                <seg>།ནུབ་ཕྱོགས་ཀྱི་ལྷ་མོའི་ཕྱག་ན་གཞུ་དང་། མདའ་དང་། སྣ་ཚོགས་པདྨ་དང་། ཐོད་པ་བསྣམས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:35:42.118Z" creationid="S.E.">
+                <seg>The goddess in the west holds a bow, an arrow, a multi-colored lotus, and a skull cup.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="188">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">311</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:39:33.95Z" creationid="S.E.">
+                <seg>།བྱང་ཕྱོགས་ཀྱི་ལྷ་མོའི་ཕྱག་ན་རལ་གྲི་དང་། ཞགས་པ་དང་། རྔེའུ་ཆུང་དང་། ཐོད་པ་བསྣམས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:39:33.95Z" creationid="S.E.">
+                <seg>The goddess in the north wields a sword, a noose, a hand drum, and a skull cup.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="189">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">391</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:40:11.096Z" creationid="S.E.">
+                <seg>།སྐུ་གསུང་ཐུགས་ཀྱི་རྡོ་རྗེ་ནི། །དེ་ཡི་དབུས་སུ་བསམ་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:40:11.096Z" creationid="S.E.">
+                <seg>In its center visualize the vajra body, speech, and mind</seg>
+            </tuv>
+        </tu>
+        <tu tuid="190">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">448</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:41:28.293Z" creationid="S.E.">
+                <seg>།ཐོད་པ་ཉིད་དང་ཁ་ཊྭཱྃ་ག། །དེ་བཞིན་གཞུ་དང་མདའ་ཉིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:41:28.293Z" creationid="S.E.">
+                <seg>Bearing a skull cup and khaṭvāṅga, and so too a bow and arrow.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="191">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">511</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:42:42.962Z" creationid="S.E.">
+                <seg>།དང་པོའི་སྔགས་དང་ཡང་དག་ལྡན། །བསྒོམས་ན་སྐད་ཅིག་དེ་ལ་འབར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:42:42.962Z" creationid="S.E.">
+                <seg>Meditating on that which possesses the first mantra, it blazes for an instant.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="192">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">590</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:45:23.268Z" creationid="S.E.">
+                <seg>།དེ་ལྟར་རྣལ་འབྱོར་པས་བསྒྲུབས་ན། །རྫས་ཀྱི་དངོས་གྲུབ་རབ་ཏུ་སྟེར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:45:23.268Z" creationid="S.E.">
+                <seg>Practicing like this, the yogī is granted the spiritual attainment of the substance.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="193">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">681</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:48:34.204Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་མ་ཡི་གྲུབ་སྦྱོར་བས། །འཕྲལ་དུ་ཡིད་ཆེས་ཡང་དག་འཇུག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:48:34.204Z" creationid="S.E.">
+                <seg>Through the accomplishment of the yoginī, confidence swiftly develops.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="194">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">752</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:49:59.741Z" creationid="S.E.">
+                <seg>།ཐམས་ཅད་ཀྱིས་ནི་མི་མཐོང་ཞིང་། ། སྟོང་ཕྲག་གཅིག་ཏུ་སྣང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:49:59.741Z" creationid="S.E.">
+                <seg>One can become entirely invisible and manifest a thousandfold at once.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="195">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">823</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-19T16:52:43.868Z" creationid="S.E.">
+                <seg>།སངས་རྒྱས་ཀུན་ལས་ཕྲོགས་པ་དང་། །ལྷ་ཡི་བུ་མོ་མཆོག་ལ་སྤྱོད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-19T16:52:43.868Z" creationid="S.E.">
+                <seg>Plunder from the buddhas and enjoy sublime celestial girls.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="196">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">883</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T07:53:11.045Z" creationid="S.E.">
+                <seg>།གང་གཱའི་བྱེ་སྙེད་སངས་རྒྱས་རྣམས། །ཉིད་ཀྱི་རྡོ་རྗེའི་གནས་བཞུགས་པ། །ལག་ཏུ་སྐྱུ་རུ་ར་བཞག་བཞིན། །རྡོ་རྗེའི་མིག་གིས་མཐོང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T07:53:11.045Z" creationid="S.E.">
+                <seg>With vajra eyes one will see, like an āmalaka fruit in the palm of one’s hand. Buddhas equal to grains of sand in the Ganga residing in their vajra realms,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="198">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1082</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:01:32.614Z" creationid="S.E.">
+                <seg>།སྐུ་གསུང་ཐུགས་ཀྱི་མཚན་ཉིད་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:01:32.614Z" creationid="S.E.">
+                <seg>the features of awakened body, speech, and mind,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="199">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1039</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:02:31.114Z" creationid="S.E.">
+                <seg>།གང་གཱའི་བྱེ་སྙེད་ཞིང་དག་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:02:31.114Z" creationid="S.E.">
+                <seg>Pure realms numerous as sand in the Ganga,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="200">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1131</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:03:44.61Z" creationid="S.E.">
+                <seg>།དངོས་པོ་ཀུན་གྱི་བདག་ཉིད་གནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:03:44.61Z" creationid="S.E.">
+                <seg>The intrinsic condition of all objects</seg>
+            </tuv>
+        </tu>
+        <tu tuid="201">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1170</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:04:11.762Z" creationid="S.E.">
+                <seg>།སེམས་ཀྱི་གར་ལས་བྱུང་བ་མཁྱེན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:04:11.762Z" creationid="S.E.">
+                <seg>know them to arise from the mind’s dance.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="202">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1212</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:06:30.115Z" creationid="S.E.">
+                <seg>།ཡི་གེ་གོ་བཟློག་སྦྱོར་བ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:06:30.115Z" creationid="S.E.">
+                <seg>Apply the syllables in reverse</seg>
+            </tuv>
+        </tu>
+        <tu tuid="203">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1247</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:07:10.92Z" creationid="S.E.">
+                <seg>།སྔགས་ནི་དེ་རུ་རྣམ་བསྒོམ་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:07:10.92Z" creationid="S.E.">
+                <seg>meditate on the mantra.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="204">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1271</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:07:56.145Z" creationid="S.E.">
+                <seg>།རྡོ་རྗེ་ཆུ་དང་ཡང་དག་ལྡན། །རིལ་བུ་རེ་རེ་བཟའ་བར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:07:56.145Z" creationid="S.E.">
+                <seg>Ingest each one of the pills infused with the vajra drink.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="206">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1367</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:10:22.952Z" creationid="S.E.">
+                <seg>།ཨཱུ་དང་ཐིག་ལེར་བཅས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:10:22.952Z" creationid="S.E.">
+                <seg>together with the ū and bindu;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="209">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1483</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:18:44.435Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་མ་ཀུན་སྦྱོར་བ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:18:44.435Z" creationid="S.E.">
+                <seg>In perfect union with the yoginī</seg>
+            </tuv>
+        </tu>
+        <tu tuid="210">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1516</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:19:03.207Z" creationid="S.E.">
+                <seg>།དང་པོའི་ཡི་གེ་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:19:03.207Z" creationid="S.E.">
+                <seg>take possession of the first syllable.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="211">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1555</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:19:54.089Z" creationid="S.E.">
+                <seg>།གལ་ཏེ་རྡོ་རྗེ་ཅན་གྱིས་གྲུབ་འདོད་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:19:54.089Z" creationid="S.E.">
+                <seg>If desiring accomplishment through the vajra holder,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="212">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1608</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:22:56.457Z" creationid="S.E.">
+                <seg>།ལན་བདུན་མངོན་སྔགས་རྣལ་འབྱོར་པ་ཡིས་བཟའ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:22:56.457Z" creationid="S.E.">
+                <seg>a yogī consumes the manifest mantra seven times.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="213">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1657</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:24:51.566Z" creationid="S.E.">
+                <seg>།ཡི་གེ་གསུམ་མཐའ་ཞེས་བྱ་སྟེ། །བརྒྱད་ཀྱི་མཐའ་མར་ལེགས་གནས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:24:51.566Z" creationid="S.E.">
+                <seg>The last of the three syllables sits clearly at the end of the eight.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="215">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:25:39.087Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:25:39.087Z" creationid="S.E.">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="216">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1727</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:26:32.974Z" creationid="S.E.">
+                <seg>།ཨཱ་དང་ཐིག་ལེར་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:26:32.974Z" creationid="S.E.">
+                <seg>Endowed with the ū and bindu</seg>
+            </tuv>
+        </tu>
+        <tu tuid="217">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1756</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:26:57.785Z" creationid="S.E.">
+                <seg>།ཡི་གེ་མཆོག་ཏུ་གྱུར་པའི་གནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:26:57.785Z" creationid="S.E.">
+                <seg>it remains as the supreme syllable.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="218">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1792</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:28:14.459Z" creationid="S.E.">
+                <seg>།ཡི་གེ་དང་པོ་སྦྱོར་བ་ཡིས། །ཧྲཱི་ཞེས་བྱ་བ་ཡང་དག་སྦྱར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:28:14.459Z" creationid="S.E.">
+                <seg>The one linked to the first syllable is united with hrīḥ.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="219">
+            <prop name="folio">F.170.a</prop>
+            <prop name="position">1398</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:28:53.343Z" creationid="S.E.">
+                <seg>།མཐའ་རུ་ཡང་དག་སྦྱར་བྱས་ལ། །སྔགས་ནི་ཀུན་དུ་བརྗོད་བྱ་སྟེ། །གུ་ཧྱ་བཀྵ་ཨ་བྷ་ཀྵེ་ཧཱུྃ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:28:53.343Z" creationid="S.E.">
+                <seg>Fix it firmly at the end and clearly pronounce the mantra: guhya bhakṣa abhakṣe hūṁ.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="221">
+            <prop name="folio">F.170.b</prop>
+            <prop name="position">124</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:44:23.423Z" creationid="S.E.">
+                <seg>།ཡི་གེ་ཡིས་ནི་རྣམ་བསྒོམས་ཏེ། །པདྨ་རབ་ཏུ་རྒྱས་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:44:23.423Z" creationid="S.E.">
+                <seg>Meditate upon the syllable and cause the lotus to fully bloom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="222">
+            <prop name="folio">F.170.b</prop>
+            <prop name="position">244</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:50:02.487Z" creationid="S.E.">
+                <seg>།དེ་ལྟའི་སྦྱོར་བ་ཀུན་ཤེས་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:50:02.487Z" creationid="S.E.">
+                <seg>this union should be fully known.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="223">
+            <prop name="folio">F.170.b</prop>
+            <prop name="position">187</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T08:50:56.1Z" creationid="S.E.">
+                <seg>།ཅི་སྟེ་རྡོ་རྗེ་ཅན་འགྲུབ་འདོད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T08:50:56.1Z" creationid="S.E.">
+                <seg>For those who seek the accomplishment of a vajra holder,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="226">
+            <prop name="folio">F.170.b</prop>
+            <prop name="position">484</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-07T09:18:27.209Z" creationid="S.E.">
+                <seg>བདེ་བ་ཆེན་པོ་གར་གྱིས་རབ་ཏུ་མཉེས་མཛོད་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-07T09:18:27.209Z" creationid="S.E.">
+                <seg>You have been aroused by the dance of great bliss.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="228">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">59</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T20:28:50.537Z" creationid="S.E.">
+                <seg>། ཡི་གེ་རྣམས་ཀྱི་མཐར་སྦྱོར་ལ། །ས་བོན་ལྔས་ནི་རབ་དགང་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T20:28:50.537Z" creationid="S.E.">
+                <seg>Apply the last of the syllables and fix in place the five seeds.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="230">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">649</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:17:08.021Z" creationid="S.E.">
+                <seg>། རྡོ་རྗེ་འཛིན་པ་ཆེན་པོ་ལ། །དེ་ནས་འདིར་གླུ་བླངས་ཙམ་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:17:08.021Z" creationid="S.E.">
+                <seg>Then, simply through this song sung to the great vajra holder</seg>
+            </tuv>
+        </tu>
+        <tu tuid="234">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">711</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:23:46.226Z" creationid="S.E.">
+                <seg>།རྡོ་རྗེ་མཁའ་འགྲོ་མ་རྣམས་གར། །རྡོ་རྗེ་སེམས་དཔའ་ཡང་དག་བསྐུལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:23:46.226Z" creationid="S.E.">
+                <seg>The vajraḍākinīs dance and call out to Vajrasattva.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="235">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">763</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:25:21.572Z" creationid="S.E.">
+                <seg>།དེ་ལྟར་རྟག་ཏུ་གུས་ལྡན་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:25:21.572Z" creationid="S.E.">
+                <seg>In this way one with consistent devotion</seg>
+            </tuv>
+        </tu>
+        <tu tuid="236">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">804</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:29:35.883Z" creationid="S.E.">
+                <seg>།སྦྱོར་བའི་དངོས་གྲུབ་འགྱུར་བ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:29:35.883Z" creationid="S.E.">
+                <seg>gains the spiritual attainment of union.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="238">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">886</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:34:09.952Z" creationid="S.E.">
+                <seg>།འགྲུབ་པར་འགྱུར་བ་བསྒོམ་པའི་མཆོག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:34:09.952Z" creationid="S.E.">
+                <seg>accomplishment is gained—this is the supreme meditation.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="239">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">943</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:34:32.534Z" creationid="S.E.">
+                <seg>།རྒྱན་རྣམས་ཐམས་ཅད་ཡོངས་རྫོགས་ཤིང་། །སྤོས་དང་མེ་ཏོག་རྣམས་ཀྱིས་བརྒྱན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:34:32.534Z" creationid="S.E.">
+                <seg>Adorned with all perfect ornaments and wreathed with flowers and perfume,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="240">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">845</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:35:13.141Z" creationid="S.E.">
+                <seg>།དུས་བཞིར་རབ་ཏུ་སྦྱོར་བ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:35:13.141Z" creationid="S.E.">
+                <seg>Through perfect union in the four times,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="242">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1017</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:39:23.259Z" creationid="S.E.">
+                <seg>།ཇི་ལྟར་སྐུ་གསུམ་མཆོག་སྟེར་བའི། །དངོས་གྲུབ་ངེས་པར་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:39:23.259Z" creationid="S.E.">
+                <seg>So the spiritual attainment that bestows the sublime three bodies is certainly attained,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="243">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1106</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:42:11.117Z" creationid="S.E.">
+                <seg>།དཔག་ཚད་བརྒྱ་ཡི་ཁྱོན་ཙམ་དུ། །འདི་ནི་རབ་ཏུ་སྣང་བར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:42:11.117Z" creationid="S.E.">
+                <seg>Causing its perfect illumination within a hundred miles.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="244">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1163</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:44:57.924Z" creationid="S.E.">
+                <seg>། དབང་པོ་གཉིས་ནི་རབ་སྦྱོར་བས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:44:57.924Z" creationid="S.E.">
+                <seg>From the perfect application of the two powers</seg>
+            </tuv>
+        </tu>
+        <tu tuid="245">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1210</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:45:36.413Z" creationid="S.E.">
+                <seg>།སྒོ་དགུ་ལས་ནི་བྱུང་བའི་རྫས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:45:36.413Z" creationid="S.E.">
+                <seg>arise the substances of the nine doors.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="246">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1250</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:47:05.241Z" creationid="S.E.">
+                <seg>།སངས་རྒྱས་བྱང་ཆུབ་གནས་ཞི་བའི། །དེ་ཉིད་བླ་ན་མེད་པ་འགྲུབ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:47:05.241Z" creationid="S.E.">
+                <seg>One will accomplish the unsurpassable essence, the peace of abiding in the awakening of buddhahood.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="247">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1350</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:47:55.922Z" creationid="S.E.">
+                <seg>།འདིར་ཚིགས་བཅད་དུ་འགྱུར་བ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:47:55.922Z" creationid="S.E.">
+                <seg>Now, in verse form:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="248">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1370</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:48:48.082Z" creationid="S.E.">
+                <seg>།གཟུགས་རྣམས་དེ་བཞིན་ཕྱག་རྒྱ་མཚན་མ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:48:48.082Z" creationid="S.E.">
+                <seg>The forms, the seals, and the attributes,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="249">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1412</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:49:14.019Z" creationid="S.E.">
+                <seg>།རྫས་རྣམས་དང་ནི་བསམ་གཏན་རྣམ་སྒོམ་པའི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:49:14.019Z" creationid="S.E.">
+                <seg>The substances, absorptions, and meditations—</seg>
+            </tuv>
+        </tu>
+        <tu tuid="250">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1458</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:50:06.168Z" creationid="S.E.">
+                <seg>།ཆོ་གའི་ཐབས་ནི་སྣ་ཚོགས་བསྟན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:50:06.168Z" creationid="S.E.">
+                <seg>These various ritual methods have been set forth,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="251">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1508</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T21:53:03.469Z" creationid="S.E.">
+                <seg>།ལྷ་མོ་ཡིད་འདོད་རྣམས་ནི་གསུངས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T21:53:03.469Z" creationid="S.E.">
+                <seg>Taught according to the desires of the goddess’s mind.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="252">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1563</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:06:51.877Z" creationid="S.E.">
+                <seg>།གང་གི་ཁྱིམ་དུ་རྒྱུད་འདི་གནས་པ་དང་། རྒྱུན་དུ་འཆང་བ་དང་། ཀློག་པ་དང་། རྣམ་པར་བསྒོམ་པ་དེ་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:06:51.877Z" creationid="S.E.">
+                <seg>Whoever keeps this tantra at home, keeps it with him always, and chants and meditates upon it</seg>
+            </tuv>
+        </tu>
+        <tu tuid="253">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1657</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:08:30.374Z" creationid="S.E.">
+                <seg>ནད་རྣམས་འབྱུང་བར་མི་འགྱུར་ཞིང་། རྒས་པ་དང་། བགེགས་མི་འབྱུང་ལ། འཆི་བར་མི་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:08:30.374Z" creationid="S.E.">
+                <seg>will no longer experience illness, aging, obstacles, or death.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="254">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1720</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:10:27.967Z" creationid="S.E.">
+                <seg>རྒྱུན་དུ་ཐམས་ཅད་དུ་རྣལ་འབྱོར་མའི་དབང་ཕྱུག་མ་རྣམས་ཀྱིས་བགགས་བསྲུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:10:27.967Z" creationid="S.E.">
+                <seg>He will be forever protected from obstacles by the queens among yoginīs.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="255">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">1793</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:13:15.247Z" creationid="S.E.">
+                <seg>།རྡོ་རྗེ་རྣལ་འབྱོར་མ་ཆེན་མོ་རྣམས་ཀྱི་དགོངས་པ་མཆོག་ཏུ་གསང་བ་གསང་བ་ཆེན་པོ་ཉེ་བར་སྤྱོད་པ་དང་བཅས་པའི་སྒྲུབ་ཐབས་ཏེ་ལེའུ་གསུམ་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:13:15.247Z" creationid="S.E.">
+                <seg>This completes the third instruction on the method of practice and ancillary activities, the supreme secret of secrets, that are the intent of the great vajraḍākinīs.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="256">
+            <prop name="folio">f.171.a</prop>
+            <prop name="position">168</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:14:29.862Z" creationid="S.E.">
+                <seg>།སྒྱུ་འཕྲུལ་ཆེན་མོའི་རྒྱུད་ཅེས་བྱ་བ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:14:29.862Z" creationid="S.E.">
+                <seg>This completes the Mahāmāyātantra.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="257">
+            <prop name="folio">f.171.a</prop>
+            <prop name="position">203</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:15:57.057Z" creationid="S.E.">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་བར་དང་། བོད་ཀྱི་ལོ་ཙྪ་བ་ཆེན་པོ་འགོས་ལྷས་བཙས་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:15:57.057Z" creationid="S.E.">
+                <seg>It was translated and edited by the Indian paṇḍita Jinavara and the great Tibetan translator Gö [515] Lhetsé.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="259">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">595</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:49:50.672Z" creationid="S.E.">
+                <seg>།བདེ་བ་ཆེན་པོ་གར་གྱིས་རབ་ཏུ་མཉེས་པར་མཛོད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:49:50.672Z" creationid="S.E.">
+                <seg>You have become aroused by the dance of great bliss.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="260">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">410</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T22:50:37.034Z" creationid="S.E.">
+                <seg>ཀྱེ་གྲོགས་པོ་རྡོ་རྗེས་པདྨ་ཁ་འབྱེད་སད་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T22:50:37.034Z" creationid="S.E.">
+                <seg>Hey, friend! The vajra makes the lotus swell and bloom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="261">
+            <prop name="folio">f.167.b</prop>
+            <prop name="position">1372</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-19T18:39:32.476Z" creationid="S.E.">
+                <seg>།རྣལ་འབྱོར་དབང་ཕྱུག་བྱེད་རིག་པ། །དེ་བཞིན་དུ་ནི་མིག་འཕྲུལ་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-19T18:39:32.476Z" creationid="S.E.">
+                <seg>The yogī has knowledge, masters yoga and weaves Indra’s Web.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="262">
+            <prop name="folio">f.167.b</prop>
+            <prop name="position">1433</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:16:17.406Z" creationid="laura">
+                <seg>།རྨོངས་པ་དང་ནི་རེངས་པ་དང་། །བསྐྲད་དང་གསད་པ་ལ་སོགས་པ། །དབང་དང་དགུག་པ་ལ་སོགས་དང་། །ནམ་མཁར་འགྲོ་བ་ཉིད་ཀྱང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:16:17.406Z" creationid="laura">
+                <seg>He beguiles and paralyzes, slays, dissuades, and more. He tames, magnetizes, and so forth; he flies through the sky.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="263">
+            <prop name="folio">f.168.a</prop>
+            <prop name="position">870</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:18:33.227Z" creationid="laura">
+                <seg>།སངས་རྒྱས་ཀུན་གྱི་རང་བཞིན་འབབ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:18:33.227Z" creationid="laura">
+                <seg>all becomes the nature of the Buddha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="264">
+            <prop name="folio">f.168.b</prop>
+            <prop name="position">1496</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:23:03.765Z" creationid="laura">
+                <seg>།ཕྲེང་བ་སྔགས་དང་གཟུང་བ་དང་། །སྦྱིན་སྲེག་གི་ནི་ལས་རྣམས་ཀྱང་། །གཅིག་ནས་གཅིག་ཏུ་ལྡོག་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:23:03.765Z" creationid="laura">
+                <seg>the activities of the garland mantra, Of retention, and of fire offerings are all omitted.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="265">
+            <prop name="folio">f.169.a</prop>
+            <prop name="position">473</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:24:32.137Z" creationid="laura">
+                <seg>།ཡི་གེ་ཨ་དང་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:24:32.137Z" creationid="laura">
+                <seg>Endowed with the syllable ā</seg>
+            </tuv>
+        </tu>
+        <tu tuid="266">
+            <prop name="folio">f.169.a</prop>
+            <prop name="position">922</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:25:25.853Z" creationid="laura">
+                <seg>།ཡི་གེར་དང་ཡང་དག་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:25:25.853Z" creationid="laura">
+                <seg>The one possessing the syllable ra</seg>
+            </tuv>
+        </tu>
+        <tu tuid="267">
+            <prop name="folio">f.169.a</prop>
+            <prop name="position">1336</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:26:24.573Z" creationid="laura">
+                <seg>སེང་གེ་རྣལ་འབྱོར་ཕྱག་རྒྱ་ཡི། །རྣལ་འབྱོར་པ་ཡིས་བཅིང་བར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:26:24.573Z" creationid="laura">
+                <seg>Yogīs take the posture of a sporting lion;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="268">
+            <prop name="folio">f.169.b</prop>
+            <prop name="position">713</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:28:21.198Z" creationid="laura">
+                <seg>འབྱུང་པོའི་མི་རྣམས་འགྲུབ་འགྱུར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:28:21.198Z" creationid="laura">
+                <seg>the mothers of the spirits are accomplished</seg>
+            </tuv>
+        </tu>
+        <tu tuid="269">
+            <prop name="folio">f.169.b</prop>
+            <prop name="position">802</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:29:33.657Z" creationid="laura">
+                <seg>།ཆེན་པོར་ཡང་དག་ལྡན་པ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:29:33.657Z" creationid="laura">
+                <seg>Mixed with the great one</seg>
+            </tuv>
+        </tu>
+        <tu tuid="270">
+            <prop name="folio">f.170.a</prop>
+            <prop name="position">1335</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:33:19.737Z" creationid="laura">
+                <seg>ཡི་གེ་བརྒྱད་ཀྱི་མཐའ་ལྡན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:33:19.737Z" creationid="laura">
+                <seg>the last of the eight syllables</seg>
+            </tuv>
+        </tu>
+        <tu tuid="271">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">278</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:35:14.039Z" creationid="laura">
+                <seg>།དེ་ནས་འདིར་རྡོ་རྗེ་རྣལ་འབྱོར་མ་རྣམས་ཀྱིས་དགོངས་པ་དཔལ་རྡོ་རྗེའི་གྲས་སྲིད་པ་ཤིན་ཏུ་སྒྲུབ་པ་བླངས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:35:14.039Z" creationid="laura">
+                <seg>Then, the sublime vajra song which is the realization of the vajra yoginīs welcomes the one who thoroughly accomplishes existence</seg>
+            </tuv>
+        </tu>
+        <tu tuid="272">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">466</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:35:30.545Z" creationid="laura">
+                <seg>།ཨ་ལ་ལ་ཧོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:35:30.545Z" creationid="laura">
+                <seg>A la la la la ho!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="273">
+            <prop name="folio">f.170.b</prop>
+            <prop name="position">535</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-08T23:35:59.15Z" creationid="laura">
+                <seg>།ཉི་མའི་དཀྱིལ་འཁོར་པདྨའི་ཁ་ནི་རབ་ཕྱེ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-08T23:35:59.15Z" creationid="laura">
+                <seg>The rays of the sun fully open the face of the lotus</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

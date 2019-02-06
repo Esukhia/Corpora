@@ -1,0 +1,175 @@
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-26T07:14:13.428Z" creationid="mabja"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">f.55.b</prop>
+            <prop name="position">41</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:14:13.428Z" creationid="mabja">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:14:13.428Z" creationid="mabja">
+                <seg>Thus have I heard at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">f.55.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:14:56.048Z" creationid="mabja">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:14:56.048Z" creationid="mabja">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">282</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:18:22.743Z" creationid="mabja">
+                <seg>དགེ་སློང་དག་འདི་དག་ནི་ཚུལ་ཁྲིམས་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:18:22.743Z" creationid="mabja">
+                <seg>“This, bhikṣus, is discipline.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">313</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:18:33.97Z" creationid="mabja">
+                <seg>།འདི་ནི་ཏིང་ངེ་འཛིན་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:18:33.97Z" creationid="mabja">
+                <seg>This is meditative concentration.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">347</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:18:43.536Z" creationid="mabja">
+                <seg>།འདི་ནི་ཤེས་རབ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:18:43.536Z" creationid="mabja">
+                <seg>This is wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">363</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:19:04.731Z" creationid="mabja">
+                <seg>།དགེ་སློང་དག་ཚུལ་ཁྲིམས་ལ་གོམས་པར་བྱས་ན། ཏིང་ངེ་འཛིན་ལ་ཡུན་རིང་དུ་གནས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:19:04.731Z" creationid="mabja">
+                <seg>Bhikṣus, training in discipline will lead one to abide for a long time in meditative concentration.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">960</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:24:49.241Z" creationid="mabja">
+                <seg>།བསླབ་པ་གསུམ་གྱི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:24:49.241Z" creationid="mabja">
+                <seg>This completes the Sūtra on the Threefold Training.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">869</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:25:59.876Z" creationid="mabja">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:25:59.876Z" creationid="mabja">
+                <seg>After the Bhagavān had thus spoken, the bhikṣus rejoiced and praised the Bhagavān’s words.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">809</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:28:19.682Z" creationid="mabja">
+                <seg>།འདི་ལས་སྲིད་པ་གཞན་མི་ཤེས་སོ་ཞེས་ཡང་དག་པ་ཁོ་ནར་ཤེས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:28:19.682Z" creationid="mabja">
+                <seg>From here onward, I will not know any further existence.’ ”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">f.55.b</prop>
+            <prop name="position">168</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:39:34.151Z" creationid="laura">
+                <seg>གྲོང་སྤྱིལ་བུ་ཅན་གྱི་གྲོང་གི་བྱང་ཕྱོགས་ཀྱི་ཤིང་སཱ་ལའི་ཚལ་ན། དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:39:34.151Z" creationid="laura">
+                <seg>settled to the north of that village in a grove of sāl trees, with a great saṅgha of bhikṣus</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">f.55.b</prop>
+            <prop name="position">72</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:39:50.16Z" creationid="laura">
+                <seg>བཅོམ་ལྡན་འདས་ཡུལ་སྤོང་བྱེད་ན། ལྗོངས་རྒྱུ་ཞིང་གཤེགས་པ་དང་། གྲོང་སྤྱིལ་བུ་ཅན་དུ་བྱོན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:39:50.16Z" creationid="laura">
+                <seg>As the Bhagavān was wandering in the land of Vṛji, he arrived at the village of Kuṭigrāmaka and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">222</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:40:29.588Z" creationid="laura">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:40:29.588Z" creationid="laura">
+                <seg>Thereupon the Bhagavān taught the following to the bhikṣus:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">463</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:41:06.208Z" creationid="laura">
+                <seg>།ཏིང་ངེ་འཛིན་ལ་གོམས་པར་བྱས་ན། ཤེས་རབ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:41:06.208Z" creationid="laura">
+                <seg>Training in meditative concentration will lead one to gain wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">530</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:41:38.119Z" creationid="laura">
+                <seg>ཤེས་རབ་ལ་གོམས་པར་བྱས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:41:38.119Z" creationid="laura">
+                <seg>By training in wisdom,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">553</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:42:22.04Z" creationid="laura">
+                <seg>འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་དག་ལས་སེམས་ཡང་དག་པ་ཁོ་ནར་རྣམ་པར་གྲོལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:42:22.04Z" creationid="laura">
+                <seg>one’s mind will be completely liberated from desire, anger, and ignorance.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">628</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:43:15.914Z" creationid="laura">
+                <seg>།དེ་ལྟར་སེམས་ཡང་དག་པ་ཁོ་ནར་རྣམ་པར་གྲོལ་བའི་འཕགས་པའི་ཉན་ཐོས་ཀྱིས་ནི་བདག་གི་ཟག་པ་འདི་ཟད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:43:15.914Z" creationid="laura">
+                <seg>In this way, having a completely liberated mind, a noble śrāvaka will perfectly know: ‘My defilements have ceased.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">f.56.a</prop>
+            <prop name="position">743</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:43:33.285Z" creationid="laura">
+                <seg>།ཚངས་པར་སྤྱོད་པ་ནི་བསྟེན་ཏོ། །བྱ་བ་ནི་བྱས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:43:33.285Z" creationid="laura">
+                <seg>I have lived the sublime life. What was to be done has been done.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

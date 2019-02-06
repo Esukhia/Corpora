@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-06T15:43:59.689Z" creationid="BG"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:43:59.689Z" creationid="BG">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:43:59.689Z" creationid="BG">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">41</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:45:12.97Z" creationid="BG">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་བཞུགས་སོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:45:12.97Z" creationid="BG">
+                <seg>Thus did I hear at one time. The Blessed One was dwelling on Vulture Peak Mountain in Rājgṛha</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">136</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:47:17.509Z" creationid="BG">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ཚད་མེད་གྲངས་མེད་པ་དང་། ལྷ་དང་། ཀླུ་དང་། འཁོར་ཐམས་ཅད་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:47:17.509Z" creationid="BG">
+                <seg>He was accompanied by his entire retinue, by immeasurable, countless bodhisattvas, and by gods and nāgas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">242</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:47:41.697Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ལ་བཀུར་སྟིར་བགྱིད་ཅིང་མཆོད་དོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:47:41.697Z" creationid="BG">
+                <seg>They paid respect to the Blessed One and made offerings to him</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">444</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:49:03.65Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:49:03.65Z" creationid="BG">
+                <seg>The Blessed One replied</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">469</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:49:59.8Z" creationid="BG">
+                <seg>སའི་སྙིང་པོ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ལ་སྐུ་གསུམ་མངའ་སྟེ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:49:59.8Z" creationid="BG">
+                <seg>“Kṣitigarbha, the Blessed One, the Tathāgata, has three bodies</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">306</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:53:25.354Z" creationid="BG">
+                <seg>དེའི་ཚེ་འཁོར་དེར་བྱང་ཆུབ་སེམས་དཔའ་སའི་སྙིང་པོ་འདུག་པ་སྟན་ལས་ལངས་ནས</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:53:25.354Z" creationid="BG">
+                <seg>At that time, the bodhisattva Kṣitigarbha, who was sitting among the retinue, rose from his seat</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">F.56.a</prop>
+            <prop name="position">403</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:57:27.467Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ལ་སྐུ་དུ་མངའ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:57:27.467Z" creationid="BG">
+                <seg>and asked, “Has the Blessed One a body?”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">90</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T15:59:39.382Z" creationid="BG">
+                <seg>ཆོས་ཀྱི་སྐུ་དང་། ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་དང་། སྤྲུལ་པའི་སྐུའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T15:59:39.382Z" creationid="BG">
+                <seg>a dharmakāya, a saṃbhogakāya and a nirmāṇakāya</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">138</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:01:09.376Z" creationid="BG">
+                <seg>རིགས་ཀྱི་བུ་དེ་བཞིན་གཤེགས་པའི་སྐུ་གསུམ་ནི</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:01:09.376Z" creationid="BG">
+                <seg>Son of a noble family, the three bodies of the Tathāgata are these:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">206</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:03:54.841Z" creationid="BG">
+                <seg>རང་བཞིན་རྣམ་པར་དག་པ་ནི་ཆོས་ཀྱི་སྐུའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:03:54.841Z" creationid="BG">
+                <seg>the pure nature is the dharmakāya</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">241</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:04:21.63Z" creationid="BG">
+                <seg>ཏིང་ངེ་འཛིན་རྣམ་པར་དག་པ་ནི་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:04:21.63Z" creationid="BG">
+                <seg>pure meditative absorption is the saṃbhogakāya</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">289</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:05:30.14Z" creationid="BG">
+                <seg>།སྤྱོད་པ་རྣམ་པར་དག་པ་ནི་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྤྲུལ་པའི་སྐུའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:05:30.14Z" creationid="BG">
+                <seg>and pure conduct is the nirmāṇakāya of all buddhas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">342</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:06:07.765Z" creationid="BG">
+                <seg>།རིགས་ཀྱི་བུ་དེ་བཞིན་གཤེགས་པའི་ཆོས་ཀྱི་སྐུ་ནི་ནམ་མཁའ་ལྟར་རང་བཞིན་མེད་པའི་དོན་ནོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:06:07.765Z" creationid="BG">
+                <seg>Son of a noble family, the dharmakāya of the Tathāgata consists in the fact that he has no nature, just like the sky.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">460</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:07:39.021Z" creationid="BG">
+                <seg>ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ནི་སྤྲིན་ལྟར་འབྱུང་བའི་དོན་ནོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:07:39.021Z" creationid="BG">
+                <seg>His saṃbhogakāya consists in the fact that he comes forth, just like a cloud</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">538</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:08:50.548Z" creationid="BG">
+                <seg>སྤྲུལ་པའི་སྐུ་ནི་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཕྲིན་ལས་ཏེ། ཆར་བ་ལྟ་བུ་སྟེ་ཐམས་ཅད་བངས་པའི་དོན་ནོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:08:50.548Z" creationid="BG">
+                <seg>His nirmāṇakāya consists in the activity of all the buddhas, the fact that it soaks everything, just like rain</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">651</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:09:19.76Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ལ་བྱང་ཆུབ་སེམས་དཔའ་སའི་སྙིང་པོས་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:09:19.76Z" creationid="BG">
+                <seg>The bodhisattva Kṣitigarbha then asked the Blessed One</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">708</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:10:01.332Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་སྐུ་གསུམ་གྱི་བཤད་པ་ཇི་ལྟར་བལྟ་བར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:10:01.332Z" creationid="BG">
+                <seg>How should one view this explanation on the three bodies of the Blessed One?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">786</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:11:08.127Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སའི་སྙིང་པོ་ལ་བཀའ་སྩལ་པ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:11:08.127Z" creationid="BG">
+                <seg>The Blessed One answered the bodhisattva Kṣitigarbha</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">841</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:11:45.629Z" creationid="BG">
+                <seg>རིགས་ཀྱི་བུ་དེ་བཞིན་གཤེགས་པའི་སྐུ་གསུམ་ནི་འདི་ལྟར་བལྟ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:11:45.629Z" creationid="BG">
+                <seg>Son of a noble family, you should view the three bodies of the Tathāgata in the following way</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">936</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:12:33.265Z" creationid="BG">
+                <seg>ཆོས་ཀྱི་སྐུ་ནི་དེ་བཞིན་གཤེགས་པའི་ངོ་གང་ལ་བལྟ་བར་བྱའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:12:33.265Z" creationid="BG">
+                <seg>The dharmakāya should be viewed as that which is the essence of the Tathāgata.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1015</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:13:37.87Z" creationid="BG">
+                <seg>།ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ནི་བྱང་ཆུབ་སེམས་དཔའི་ངོ་གང་ལ་བལྟ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:13:37.87Z" creationid="BG">
+                <seg>The saṃbhogakāya should be viewed as that which is the essence of the bodhisattvas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1099</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:14:21.828Z" creationid="BG">
+                <seg>སྤྲུལ་པའི་སྐུ་ནི་མོས་པས་སྤྱོད་པའི་སོ་སོ་སྐྱེ་བོའི་ངོ་གང་ལ་བལྟ་བར་བྱའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:14:21.828Z" creationid="BG">
+                <seg>The nirmāṇakāya should be viewed as that which is the essence of ordinary beings who conduct themselves devotedly.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1215</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:14:59.88Z" creationid="BG">
+                <seg>།རིགས་ཀྱི་བུ་ཆོས་ཀྱི་སྐུ་ནི་སངས་རྒྱས་ཐམས་ཅད་དང་རང་བཞིན་འཐུན་པར་གནས་སོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:14:59.88Z" creationid="BG">
+                <seg>Son of a noble family, the dharmakāya remains the same nature for all the buddhas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1298</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:15:29.278Z" creationid="BG">
+                <seg>ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ནི་སངས་རྒྱས་ཐམས་ཅད་དང་ཏིང་ངེ་འཛིན་འཐུན་པར་གནས་སོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:15:29.278Z" creationid="BG">
+                <seg>The saṃbhogakāya remains the same meditative absorption for all the buddhas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1375</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:15:57.833Z" creationid="BG">
+                <seg>སྤྲུལ་པའི་སྐུ་ནི་སངས་རྒྱས་ཐམས་ཅད་དང་ཕྲིན་ལས་འཐུན་པར་གནས་སོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:15:57.833Z" creationid="BG">
+                <seg>The nirmāṇakāya remains the same awakened activity for all the buddhas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1448</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:17:21.03Z" creationid="BG">
+                <seg>རིགས་ཀྱི་བུ་ཀུན་གཞི་གནས་སུ་དག་པ་ནི་མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་ཏེ་ཆོས་ཀྱི་སྐུའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:17:21.03Z" creationid="BG">
+                <seg>Son of a noble family, the basis-of-all in its pure state is mirror-like wisdom, the dharmakāya</seg>
+            </tuv>
+        </tu>
+        <tu tuid="28">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1545</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:17:59.448Z" creationid="BG">
+                <seg>ཉོན་མོངས་པའི་ཡིད་གནས་སུ་དག་པ་ནི་མཉམ་པ་ཉིད་ཀྱི་ཡེ་ཤེས་སོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:17:59.448Z" creationid="BG">
+                <seg>The afflicted mind in its pure state is the wisdom of equality</seg>
+            </tuv>
+        </tu>
+        <tu tuid="29">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1609</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:18:21.793Z" creationid="BG">
+                <seg>ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་གནས་སུ་དག་པ་ནི་སོ་སོར་ཀུན་དུ་རྟོག་པའི་ཡེ་ཤེས་ཏེ། ལོངས་སྤྱོད་རྫོགས་པའི་སྐུའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:18:21.793Z" creationid="BG">
+                <seg>Mental cognition in its pure state is discriminating wisdom, the saṃbhogakāya</seg>
+            </tuv>
+        </tu>
+        <tu tuid="30">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1688</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:18:39.417Z" creationid="BG">
+                <seg>སྒོ་ལྔའི་རྣམ་པར་ཤེས་པ་གནས་སུ་དག་པ་ནི་བྱ་བ་གྲུབ་པའི་ཡེ་ཤེས་ཏེ་སྤྲུལ་པའི་སྐུའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:18:39.417Z" creationid="BG">
+                <seg>The five sense cognitions in their pure state are all-accomplishing wisdom, the nirmāṇakāya.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1782</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:19:30.384Z" creationid="BG">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སའི་སྙིང་པོས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:19:30.384Z" creationid="BG">
+                <seg>The bodhisattva Kṣitigarbha then exclaimed to the Blessed One</seg>
+            </tuv>
+        </tu>
+        <tu tuid="32">
+            <prop name="folio">F.56.b</prop>
+            <prop name="position">1846</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:22:06.834Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་བདག་གིས་བཅོམ་ལྡན་འདས་ལ་དམ་པའི་ཆོས་ཐོས་པ་ནི་རབ་ཏུ་ལེགས་སོ། །བདེ་བར་གཤེགས་པ་རབ་ཏུ་ལེགས་སོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:22:06.834Z" creationid="BG">
+                <seg>Blessed One, the noble Dharma that I have heard from the Blessed One is excellent, Sugata, really excellent!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="33">
+            <prop name="folio">F.57.a</prop>
+            <prop name="position">175</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:23:49.56Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:23:49.56Z" creationid="BG">
+                <seg>The Blessed One then declared</seg>
+            </tuv>
+        </tu>
+        <tu tuid="34">
+            <prop name="folio">F.57.a</prop>
+            <prop name="position">207</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:25:01.713Z" creationid="BG">
+                <seg>རིགས་ཀྱི་བུ་བཅོམ་ལྡན་འདས་ལ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གང་གིས་རབ་ཏུ་འཛིན་པ་དེས་བསོད་ནམས་ཚད་མེད་བརྗོད་དུ་མེད་གྲངས་མེད་ཅིང་དཔག་ཏུ་མེད་པ་ཐོབ་བོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:25:01.713Z" creationid="BG">
+                <seg>Son of a noble family, whoever fully upholds this Dharma discourse of the Blessed One will obtain merit that is immeasurable, inexpressible, incalculable and unfathomable.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">F.57.a</prop>
+            <prop name="position">380</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:25:36.229Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:25:36.229Z" creationid="BG">
+                <seg>When the Blessed One had spoken</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">F.57.a</prop>
+            <prop name="position">413</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:27:57.149Z" creationid="BG">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སའི་སྙིང་པོ་དང་། ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:27:57.149Z" creationid="BG">
+                <seg>the world, including the bodhisattva Kṣitigarbha, the gods, nāgas, yakṣas, and gandharvas rejoiced</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">F.57.a</prop>
+            <prop name="position">512</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:29:00.554Z" creationid="BG">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:29:00.554Z" creationid="BG">
+                <seg>and praised the teachings of the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">F.57.a</prop>
+            <prop name="position">558</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-06T16:29:18.017Z" creationid="BG">
+                <seg>འཕགས་པ་སྐུ་གསུམ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-06T16:29:18.017Z" creationid="BG">
+                <seg>This concludes the Noble Mahāyāna Sūtra, The Three Bodies</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

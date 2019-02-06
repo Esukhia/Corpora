@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:08:11.291Z" creationid="dirk"/>
+    <body>
+        <tu tuid="">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T17:49:13.62Z" creationid="SJ">
+                <seg>བཅོམ་ལྡན་འདས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T17:49:13.62Z" creationid="SJ">
+                <seg>Homage to the Bhagavān Mañjuśrīkumārabhūta!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">45</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T17:50:54.014Z" creationid="SJ">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T17:50:54.014Z" creationid="SJ">
+                <seg>Thus have I heard at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">76</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T17:56:20.102Z" creationid="SJ">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་ཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T17:56:20.102Z" creationid="SJ">
+                <seg>The Bhagavān was dwelling in Rājagṛha on the Vulture Peak mountain together with a great monastic assembly of 1,250 monks and a multitude of bodhisattva mahāsattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">242</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T17:57:24.376Z" creationid="SJ">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་སྟན་ལས་ལངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T17:57:24.376Z" creationid="SJ">
+                <seg>At that time, the bodhisattva mahāsattva Noble Avalokiteśvara rose from his seat,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">324</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:01:34.425Z" creationid="SJ">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་པད་མའི་ལྟེ་བ་ལ་བཙུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:01:34.425Z" creationid="SJ">
+                <seg>arranged his upper robe on one shoulder, and placed his right knee in the center of a lotus flower.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">424</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:02:41.496Z" creationid="SJ">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:02:41.496Z" creationid="SJ">
+                <seg>Joining his hands in devotion toward the Bhagavān, he asked him,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">489</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:05:05.198Z" creationid="SJ">
+                <seg>།བཅོམ་ལྡན་འདས་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་མ་ཐག་པའི་བྱང་ཆུབ་སེམས་དཔས་ཆོས་དུ་ཞིག་ལ་བསླབ་པར་བགྱི། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:05:05.198Z" creationid="SJ">
+                <seg>“Bhagavān, in how many qualities should a bodhisattva train, just after generating the altruistic mind set on attaining awakening?”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">621</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:05:51.233Z" creationid="SJ">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:05:51.233Z" creationid="SJ">
+                <seg>The Bhagavān replied to the bodhisattva mahāsattva Noble Avalokiteśvara’s inquiry with the following words.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">729</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:06:29.557Z" creationid="SJ">
+                <seg>།རིགས་ཀྱི་བུ་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་མ་ཐག་པའི་བྱང་ཆུབ་སེམས་དཔས་ཆོས་བདུན་ལ་བསླབ་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:06:29.557Z" creationid="SJ">
+                <seg>“Kulaputra, bodhisattvas should train in seven qualities just after generating the altruistic mind set on attaining awakening.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">856</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:07:34.451Z" creationid="SJ">
+                <seg>བདུན་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:07:34.451Z" creationid="SJ">
+                <seg>What are the seven? They are as follows.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">F.331.a</prop>
+            <prop name="position">897</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:09:28.471Z" creationid="SJ">
+                <seg>རྣམ་པར་རྟོག་པས་ཀྱང་འདོད་པ་ལ་སྟེན་པར་མི་བྱེད་ན་དབང་པོ་གཉིས་ཀྱིས་སྦྱོར་བ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:09:28.471Z" creationid="SJ">
+                <seg>“(1) One should not have sexual enjoyment even in thought, not to mention joining together the two sexual organs.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">115</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:10:10.334Z" creationid="SJ">
+                <seg>ཐ་ན་རྨི་ལམ་གྱི་ནང་དུ་ཡང་མི་དགེ་བའི་བཤེས་གཉེན་སྟེན་པར་མི་བྱེད་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:10:10.334Z" creationid="SJ">
+                <seg>“(2) One should not take up with a non-virtuous friend even in dreams.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">186</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:10:36.64Z" creationid="SJ">
+                <seg>བྱ་དང་འདྲ་བའི་སེམས་ཀྱིས་ཡོངས་སུ་འཛིན་པ་མེད་པར་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:10:36.64Z" creationid="SJ">
+                <seg>“(3) With a mind free like a bird, one should be completely without grasping.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">264</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:11:42.388Z" creationid="SJ">
+                <seg>ཐབས་དང་ཤེས་རབ་ལ་མཁས་པས་ང་རྒྱལ་དང་། ངར་འཛིན་པ་མེད་པར་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:11:42.388Z" creationid="SJ">
+                <seg>“(4) With mastery in skill and wisdom, one should be without pride and reified conceptions of ‘I.’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">363</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:12:26.81Z" creationid="SJ">
+                <seg>དངོས་པོ་དང་དངོས་པོ་མེད་པ་སྤངས་ནས་སྟོང་པ་ཉིད་ཀྱི་རྣམ་པར་ཐར་པ་བརྟན་པོ་དང་ལྡན་པར་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:12:26.81Z" creationid="SJ">
+                <seg>“(5) One should abandon conceptions of existence and non-existence and be firm in the emancipation (vimokṣa) of emptiness.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">486</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:13:37.6Z" creationid="SJ">
+                <seg>ཡང་དག་པར་བདེན་པ་མ་ཡིན་པའི་ཀུན་དུ་རྟོག་པའི་ཤེས་པས་སྒྱུ་མ་དང་། རྨི་ལམ་དང་འདྲ་བར་འཁོར་བ་ལས་མངོན་པར་དགའ་བར་བྱ་བ་མ་ཡིན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:13:37.6Z" creationid="SJ">
+                <seg>“(6) One should not take delight in saṃsāra through an inauthentic conceptual understanding, saṃsāra being like a magical illusion or dream.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">627</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:14:14.67Z" creationid="SJ">
+                <seg>རྒྱུ་དང་འབྲས་བུ་ལ་སྐུར་པ་གདབ་པར་མི་བྱ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:14:14.67Z" creationid="SJ">
+                <seg>“(7) And one should refrain from deprecating the law of cause and effect.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">701</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:14:40.175Z" creationid="SJ">
+                <seg>རིགས་ཀྱི་བུ་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་མ་ཐག་པའི་བྱང་ཆུབ་སེམས་དཔས་ཆོས་བདུན་པོ་དེ་དག་ལ་བསླབ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:14:40.175Z" creationid="SJ">
+                <seg>“Kulaputra, a bodhisattva who has just generated the altruistic mind set on attaining awakening should train in these seven qualities.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">837</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:16:40.908Z" creationid="SJ">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:16:40.908Z" creationid="SJ">
+                <seg>When the Bhagavān had spoken,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">867</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:17:40.417Z" creationid="SJ">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། དགེ་སློང་དེ་དག་དང་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:17:40.417Z" creationid="SJ">
+                <seg>the bodhisattva Noble Avalokiteśvara, along with the monks and bodhisattvas, rejoiced and praised highly what had been proclaimed by the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">1014</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:18:12.02Z" creationid="SJ">
+                <seg>།འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:18:12.02Z" creationid="SJ">
+                <seg>This completes the Noble Mahāyāna sūtra, The Inquiry of Avalokiteśvara on the Seven Qualities.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">F.331.b</prop>
+            <prop name="position">1109</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-13T18:18:34.34Z" creationid="SJ">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱི་ཛྙཱ་ན་དང་། ལོ་ཙྪ་བ་དགེ་སློང་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར་བ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-13T18:18:34.34Z" creationid="SJ">
+                <seg>Translated and edited by the Indian master Dīpaṃkara­śrī­jñāna and the translator monk Gewai Lodrö.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

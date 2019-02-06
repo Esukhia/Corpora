@@ -1,0 +1,295 @@
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-05-03T06:51:41.225Z" creationid="dolma"/>
+    <body>
+        <tu tuid="2">
+            <prop name="folio">F.250.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-03T06:51:47.666Z" creationid="dolma">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-03T06:51:47.666Z" creationid="dolma">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:16:33.375Z" creationid="mabja">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:16:33.375Z" creationid="mabja">
+                <seg>Homage to all buddhas and bodhisatvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">40</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:16:43.483Z" creationid="mabja">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:16:43.483Z" creationid="mabja">
+                <seg>Thus I have heard at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">71</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:20:00.132Z" creationid="mabja">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:20:00.132Z" creationid="mabja">
+                <seg>The Bhagavān was residing at the grove of Anāthapiṇḍada in Jeta Wood in Śrāvastī together with a great assembly of monks and a great multitude of bodhisatvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">572</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:26:58.126Z" creationid="mabja">
+                <seg>།གཟུགས་བཟང་བ་འདོད་པས་བཟོད་པ་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:26:58.126Z" creationid="mabja">
+                <seg>who desires beauty should cultivate patience;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">736</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:30:27.762Z" creationid="mabja">
+                <seg>།ཡེ་ཤེས་འདོད་པས་ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་ལ་གནས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:30:27.762Z" creationid="mabja">
+                <seg>who desires knowledge should frequently practice appropriate mindfulness;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">680</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:43:39.367Z" creationid="mabja">
+                <seg>།གཟུངས་འདོད་པས་མངོན་པའི་ང་རྒྱལ་མེད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:43:39.367Z" creationid="mabja">
+                <seg>who desires memory should not have excessive pride;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">622</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T06:44:04.701Z" creationid="mabja">
+                <seg>།སྤོབས་པ་འདོད་པས་བླ་མ་ལ་གུས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T06:44:04.701Z" creationid="mabja">
+                <seg>who desires eloquence should pay respect to the guru;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">520</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:02:16.094Z" creationid="mabja">
+                <seg>། ཐར་པ་འདོད་པས་སྡིག་པ་ཐམས་ཅད་སྤང་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:02:16.094Z" creationid="mabja">
+                <seg>who desires liberation should abstain from all evil;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">578</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:02:34.582Z" creationid="mabja">
+                <seg>།སེམས་ཅན་ཐམས་ཅད་བདེ་བར་བྱ་བར་འདོད་པས་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:02:34.582Z" creationid="mabja">
+                <seg>who desires to make all beings happy should generate the mind for awakening;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">660</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:02:47.117Z" creationid="mabja">
+                <seg>།སྐད་སྙན་པ་འདོད་པས་བདེན་པར་སྨྲ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:02:47.117Z" creationid="mabja">
+                <seg>who desires a sweet voice should speak truthfully;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">716</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:02:59.539Z" creationid="mabja">
+                <seg>།ཡོན་ཏན་འདོད་པས་རབ་ཏུ་དབེན་པ་ལ་དགའ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:02:59.539Z" creationid="mabja">
+                <seg>who desires virtuous qualities should take joy in solitude;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">781</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:05:48.62Z" creationid="mabja">
+                <seg>།ཆོས་འདོད་པས་དགེ་བའི་བཤེས་གཉེན་ལ་བསྟེན་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:05:48.62Z" creationid="mabja">
+                <seg>who desires the Dharma should attend to the spiritual friend;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">848</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:06:59.111Z" creationid="mabja">
+                <seg>།ཞི་གནས་འདོད་པས་འདུ་འཛི་མེད་པ་མང་དུ་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:06:59.111Z" creationid="mabja">
+                <seg>who desires quiescence should frequently practice no contact with others;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">927</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:07:10.384Z" creationid="mabja">
+                <seg>།ལྷག་མཐོང་འདོད་པས་ཆོས་སྟོང་པར་སོ་སོར་བརྟག་པ་མང་དུ་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:07:10.384Z" creationid="mabja">
+                <seg>who desires insight should frequently examine things as empty;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">995</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:07:48.326Z" creationid="mabja">
+                <seg>།ཚངས་པའི་འཇིག་རྟེན་འདོད་པས་བྱམས་པ་དང་། སྙིང་རྗེ་དང་། དགའ་བ་དང་། བཏང་སྙོམས་བསྒོམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:07:48.326Z" creationid="mabja">
+                <seg>who desires rebirth in the world of Brahmā should cultivate love, compassion, joy, and equanimity;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1099</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:08:26.68Z" creationid="mabja">
+                <seg>།ལྷ་དང་མིའི་ལོངས་སྤྱོད་ཕུན་སུམ་ཚོགས་པ་འདོད་པས་དགེ་བཅུའི་ལས་ཀྱི་ལམ་ཡང་དག་པར་བླངས་ཏེ་གནས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:08:26.68Z" creationid="mabja">
+                <seg>who desires the abundant resources of gods and humans should behave in conformity with the path of ten virtuous actions;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1225</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:08:38.378Z" creationid="mabja">
+                <seg>།ཡོངས་སུ་མྱ་ངན་འདའ་བར་འདོད་པས་སྟོང་པའི་ཆོས་ལ་མངོན་པར་དགའ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:08:38.378Z" creationid="mabja">
+                <seg>who desires complete nirvāṇa should take joy in empty dharmas;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1293</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:09:01.65Z" creationid="mabja">
+                <seg>།ཡོན་ཏན་ཐམས་ཅད་ཐོབ་པར་འདོད་པས་དཀོན་མཆོག་གསུམ་ལ་མཆོད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:09:01.65Z" creationid="mabja">
+                <seg>who desires to obtain all virtuous qualities should worship the Three Jewels.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="30">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1591</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-26T07:11:23.426Z" creationid="mabja">
+                <seg>།།འཕགས་པ་རྒྱལ་བའི་བློ་གྲོས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-26T07:11:23.426Z" creationid="mabja">
+                <seg>This completes the Noble Mahāyāna sūtra, The Inquiry of Jayamati.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">230</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:41:06.182Z" creationid="celso">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་རྒྱལ་བའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:41:06.182Z" creationid="celso">
+                <seg>Then, the Bhagavān addressed the bodhisatva Jayamati as follows.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="32">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">296</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:41:24.798Z" creationid="celso">
+                <seg>རྒྱལ་བའི་བློ་གྲོས་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:41:24.798Z" creationid="celso">
+                <seg>Jayamati, a faithful man or woman of a good family</seg>
+            </tuv>
+        </tu>
+        <tu tuid="33">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">351</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:41:37.483Z" creationid="celso">
+                <seg>བསོད་ནམས་འདོད་པས་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:41:37.483Z" creationid="celso">
+                <seg>who desires merit should worship the Tathāgata;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="34">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">403</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:42:31.621Z" creationid="celso">
+                <seg>།ཤེས་རབ་འདོད་པས་ཐོས་པ་ལ་བརྩོན་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:42:31.621Z" creationid="celso">
+                <seg>who desires discernment should be devoted to learning;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">462</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:42:40.988Z" creationid="celso">
+                <seg>།མཐོ་རིས་འདོད་པས་ཚུལ་ཁྲིམས་བསྲུང་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:42:40.988Z" creationid="celso">
+                <seg>who desires heavenly rebirth should uphold moral conduct;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">524</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:42:49.761Z" creationid="celso">
+                <seg>།ལོངས་སྤྱོད་འདོད་པས་གཏོང་བ་སྦེལ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:42:49.761Z" creationid="celso">
+                <seg>who desires wealth should increase charity;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1372</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:45:10.782Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:45:10.782Z" creationid="celso">
+                <seg>When the Bhagavān had spoken,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1402</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:45:21.374Z" creationid="celso">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྒྱལ་བའི་བློ་གྲོས་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:45:21.374Z" creationid="celso">
+                <seg>the bodhisatva mahāsatva Jayamati,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="39">
+            <prop name="folio">f.251.a</prop>
+            <prop name="position">1437</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:45:35.728Z" creationid="celso">
+                <seg>ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:45:35.728Z" creationid="celso">
+                <seg>the complete assembly, and the world with its gods, humans, demigods and gandharvas rejoiced and highly praised what had been proclaimed by the Bhagavān.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

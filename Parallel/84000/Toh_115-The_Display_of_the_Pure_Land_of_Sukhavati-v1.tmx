@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T15:37:56.261Z" creationid="celso"/>
+    <body>
+        
+        <tu tuid="2">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">45</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-27T07:48:36.967Z" creationid="admin">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-27T07:48:36.967Z" creationid="admin">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        
+        <tu tuid="4">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">155</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-30T04:42:11.495Z" creationid="mabja">
+                <seg>དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་གནས་བརྟན་ཉན་ཐོས་ཆེན་པོ་དགྲ་བཅོམ་པ་ཤ་སྟག་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-30T04:42:11.495Z" creationid="mabja">
+                <seg>along with a large monastic saṅgha of 1,250 bhikṣus, all of them great elders, śrāvakas, and arhats,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">285</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:38:59.885Z" creationid="celso">
+                <seg>མཽད་གལ་གྱི་བུ་ཆེན་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:38:59.885Z" creationid="celso">
+                <seg>Mahā­maudgalyāyana,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">305</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:39:14.974Z" creationid="celso">
+                <seg>འོད་སྲུང་ཆེན་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:39:14.974Z" creationid="celso">
+                <seg>Mahākāśyapa,</seg>
+            </tuv>
+        </tu>
+    
+        <tu tuid="9">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">256</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-18T10:17:27.311Z" creationid="dirk">
+                <seg>འདི་ལྟ་སྟེ། གནས་བརྟན་ཤཱ་རིའི་བུ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-18T10:17:27.311Z" creationid="dirk">
+                <seg>such as the Elder Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">334</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-18T10:17:54.691Z" creationid="dirk">
+                <seg>ཀ་པི་ན་ཆེན་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-18T10:17:54.691Z" creationid="dirk">
+                <seg>Mahākapphiṇa,</seg>
+            </tuv>
+        </tu>
+        
+        
+        
+        
+        
+        
+        <tu tuid="17">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">348</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-18T10:24:08.901Z" creationid="dirk">
+                <seg>གསུས་པོ་ཆེ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-18T10:24:08.901Z" creationid="dirk">
+                <seg>Mahākauṣṭhila,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">363</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-18T10:24:41.716Z" creationid="dirk">
+                <seg>ནམ་གྲུ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-18T10:24:41.716Z" creationid="dirk">
+                <seg>Revata,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">371</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-13T04:32:06.302Z" creationid="mabja">
+                <seg>ལམ་ཕྲན་བསྟན་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-13T04:32:06.302Z" creationid="mabja">
+                <seg>Śuddhipaṃthaka,</seg>
+            </tuv>
+        </tu>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <tu tuid="31">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-05T04:15:38.347Z" creationid="dirk">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-05T04:15:38.347Z" creationid="dirk">
+                <seg>Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+    <tu tuid="32">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">74</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-10T07:08:19.322Z" creationid="mabja">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-10T07:08:19.322Z" creationid="mabja">
+                <seg>The Bhagavān was dwelling in Anāthapiṇḍada’s park in the Jeta Grove in Śrāvastī,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="33">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">318</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:07:27.203Z" creationid="jinpa">
+                <seg>ཀཱ་ཏྱཱའི་བུ་ཆེན་པོ་དང་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:07:27.203Z" creationid="jinpa">
+                <seg>Mahā­kātyāyana</seg>
+            </tuv>
+        </tu>
+        <tu tuid="34">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">387</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:15:49.269Z" creationid="jinpa">
+                <seg>དགའ་བོ་དང་། ཀུན་དགའ་བོ་དང་། སྒྲ་གཅན་ཟིན་དང་། བ་ལང་བདག་དང་། བྷ་ར་དྷྭ་ཛི་དང་། འཆར་བྱེད་ནག་པོ་དང་། བ་ཀུ་ལ་དང་། མ་འགགས་པ་དང་། དེ་དག་དང་། ཉན་ཐོས་ཆེན་པོ་གཞན་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མང་པོ་ལ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:15:49.269Z" creationid="jinpa">
+                <seg>Nanda, Ānanda, Rāhula, Gavāṃpati, Bharadvāja, Kālodāyin, Vakula, and Aniruddha. He dwelt with these and other great śrāvakas and with many bodhisattva mahāsattvas,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">515</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:21:51.459Z" creationid="jinpa">
+                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མི་ཕམ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:21:51.459Z" creationid="jinpa">
+                <seg>the youthful Mañjuśrī, the Bodhisattva Mahāsattva Ajita,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">572</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:22:14.917Z" creationid="jinpa">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤོས་ཀྱི་གླང་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:22:14.917Z" creationid="jinpa">
+                <seg>the Bodhisattva Mahāsattva Gandhahastin,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">613</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:22:32.225Z" creationid="jinpa">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྟག་ཏུ་བརྩོན་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:22:32.225Z" creationid="jinpa">
+                <seg>the Bodhisattva Mahāsattva Nityodyukta,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">653</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:23:01.532Z" creationid="jinpa">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བརྩོན་པ་མི་འདོར་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:23:01.532Z" creationid="jinpa">
+                <seg>and the Bodhisattva Mahāsattva Anikṣiptadhura,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="39">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">700</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:27:43.829Z" creationid="jinpa">
+                <seg>དེ་དག་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཞན་མང་པོ་དག་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། དེ་དག་དང་ལྷ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་མང་པོ་གཞན་དག་དང་ཡང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:27:43.829Z" creationid="jinpa">
+                <seg>along with many other bodhisattva mahāsattvas. He was also accompanied by Indra, the lord of gods, and Brahmā, the ruler of the Sahā world, along with many myriads of gods.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="40">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">873</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:30:03.017Z" creationid="jinpa">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:30:03.017Z" creationid="jinpa">
+                <seg>On that occasion, the Bhagavān said to the venerable Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="41">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">937</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:32:43.275Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་ནུབ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:32:43.275Z" creationid="jinpa">
+                <seg>“Śāriputra, if you go from this buddha realm past 100,000 myriad buddha realms toward the western direction, there is a world known as Sukhāvatī (The Delightful).</seg>
+            </tuv>
+        </tu>
+        <tu tuid="42">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">1100</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:35:54.449Z" creationid="jinpa">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཅེས་བྱ་བ་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་ལ་ཆོས་ཀྱང་སྟོན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:35:54.449Z" creationid="jinpa">
+                <seg>In that place the Tathāgata, the arhat, the perfectly and fully enlightened buddha known as Amitāyus (Immeasurable Life), dwells, lives, and abides, teaching the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="43">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">1270</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T04:42:59.672Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། འཇིག་རྟེན་གྱི་ཁམས་དེ་ཅིའི་ཕྱིར་བདེ་བ་ཅན་ཞེས་བྱ་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T04:42:59.672Z" creationid="jinpa">
+                <seg>“Now what do you think, Śāriputra, why is that world called ‘Sukhāvatī’?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="44">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">1343</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T05:00:08.967Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དེ་ན་སེམས་ཅན་རྣམས་ཀྱི་ལུས་ལ་སྡུག་བསྔལ་མེད། སེམས་ལ་སྡུག་བསྔལ་མེད་ཅིང་བདེ་བའི་རྒྱུ་ཚད་མེད་པར་ཡོད་དེ། དེའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ཞེས་བྱའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T05:00:08.967Z" creationid="jinpa">
+                <seg>“Śāriputra, in the Sukhāvatī world, sentient beings experience neither physical pain nor mental suffering and the causes for their happiness are limitless. For this reason, this world is called Sukhāvatī. Furthermore,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="45">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">1561</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T05:10:57.682Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ནི་ཁ་ཁྱེར་རིམ་པ་བདུན་དང་། ཤིང་ཏ་ལའི་ཕྲེང་བ་རིམ་པ་བདུན་དང་། དྲིལ་བུ་གཡེར་ཀའི་དྲ་བ་རྣམས་ཀྱིས་ཀུན་ནས་ཡོངས་སུ་བསྐོར་བ། བཀྲ་བ་བལྟ་ན་སྡུག་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T05:10:57.682Z" creationid="jinpa">
+                <seg>Śāriputra, the Sukhāvatī world is surrounded on all sides by seven layers of terraces, seven rows of palm trees, and filigrees of chimes. It is radiantly beautiful.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="51">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">757</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T05:56:56.99Z" creationid="jinpa">
+                <seg>རང་རང་གི་སྐད་དག་གིས་སྨྲའོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T05:56:56.99Z" creationid="jinpa">
+                <seg>each singing its own melody.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="52">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">786</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T05:57:59.218Z" creationid="jinpa">
+                <seg>།དེ་དག་སྨྲ་བ་ན་དབང་པོ་དང་སྟོབས་དང་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་གི་སྒྲ་དག་འབྱུང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T05:57:59.218Z" creationid="jinpa">
+                <seg>When they sing, the sounds of the powers, strengths, and branches of enlightenment emerge.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="53">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">877</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T06:02:22.695Z" creationid="jinpa">
+                <seg>།སེམས་ཅན་གང་དག་དེར་སྐྱེས་པ་དེ་དག་གིས་སྒྲ་དེ་ཐོས་ནས་སངས་རྒྱས་ཡིད་ལ་བྱེད་པ་སྐྱེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T06:02:22.695Z" creationid="jinpa">
+                <seg>Upon hearing those sounds, the sentient beings born there are moved to contemplate the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu tuid="54">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">972</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T06:03:29.644Z" creationid="jinpa">
+                <seg>ཆོས་ཡིད་ལ་བྱེད་པ་སྐྱེ། དགེ་འདུན་ཡིད་ལ་བྱེད་པར་སྐྱེའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T06:03:29.644Z" creationid="jinpa">
+                <seg>to contemplate the Dharma, and to contemplate the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="58">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1167</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T06:11:23.781Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དུ་སྐྱེ་བའི་མིང་ཡང་མེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T06:11:23.781Z" creationid="jinpa">
+                <seg>Śāriputra, in this buddha realm there are not even words for birth as a hell being, birth as an animal, or birth in the world of the Lord of Death.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="59">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1315</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T06:14:23.905Z" creationid="jinpa">
+                <seg>།བྱའི་ཚོགས་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེ་ཉིད་ཀྱིས་ཆོས་ཀྱི་སྒྲ་དབྱུང་བའི་ཕྱིར་སྤྲུལ་པ་དག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T06:14:23.905Z" creationid="jinpa">
+                <seg>Those flocks of birds were manifested by the Tathāgata Amitāyus himself to voice the sound of Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="61">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1704</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T06:32:14.796Z" creationid="jinpa">
+                <seg>འདི་ལྟ་སྟེ་དཔེར་ན། རོལ་མོ་མཁན་གྱིས་ཡན་ལག་བྱེ་བ་འབུམ་དང་ལྡན་པའི་ལྷའི་སིལ་སྙན་བླངས་པ་བཞིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T06:32:14.796Z" creationid="jinpa">
+                <seg>like the myriad subtleties of divine cymbals when played by a skilled musician.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="62">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1784</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T06:54:21.138Z" creationid="jinpa">
+                <seg>།དེར་མི་དེ་དག་གིས་སྒྲ་དེ་ཐོས་ནས་སངས་རྒྱས་རྗེས་སུ་དྲན་པ་དང་། ཆོས་རྗེས་སུ་དྲན་པ་དང་། དགེ་འདུན་རྗེས་སུ་དྲན་པ་ལུས་ལ་གནས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T06:54:21.138Z" creationid="jinpa">
+                <seg>The people there, upon hearing those sounds, settle into the recollection of the Buddha, the recollection of the Dharma, and the recollection of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="65">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1941</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:07:50.613Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པའི་རྒྱན་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ། །ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:07:50.613Z" creationid="jinpa">
+                <seg>Śāriputra, this buddha realm is beautifully adorned by such displays of the excellences of buddha realms. “Now what do you think, Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="67">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:09:33.003Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:09:33.003Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="68">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:12:10.779Z" creationid="jinpa">
+                <seg>གཏོར་ནས་ཉིན་མོ་གནས་པའི་ཕྱིར་སླར་འཇིག་རྟེན་གྱི་ཁམས་དེ་ཉིད་དུ་འདོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:12:10.779Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="69">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">476</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:12:43.449Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ། །ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ན་ངང་པ་དང་། ཁྲུང་ཁྲུང་དང་། རྨ་བྱ་དག་ཡོད་པ་དེ་དག་ཀྱང་ཉིན་ལན་གསུམ། མཚན་ལན་གསུམ་འདུས་ནས་ཡང་དག་པར་བགྲོ་བར་བྱེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:12:43.449Z" creationid="jinpa">
+                <seg>Śāriputra, this buddha realm is beautifully adorned by such displays of the excellences of buddha realms. “Furthermore, Śāriputra, in the Sukhāvatī world there are swans, cranes, and peacocks that assemble three times during the day and three times at night and perform a concert,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="70">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1030</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:13:33.881Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། སེམས་ཅན་དེ་དག་དུད་འགྲོའི་སྐྱེ་གནས་སུ་གྱུར་པ་ཡིན་སྙམ་དུ་སེམས་པ་ལྟ་ན་དེ་ལྟར་མི་བལྟའོ། །དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:13:33.881Z" creationid="jinpa">
+                <seg>Now what do you think about this, Śāriputra? Have those sentient beings taken birth as animals? You should not think so. Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="71">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1417</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:15:06.431Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ། །ཤཱ་རིའི་བུ་གཞན་ཡང་སངས་རྒྱས་ཀྱི་ཞིང་དེའི་ཏ་ལའི་ཕྲེང་བ་དེ་དག་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:15:06.431Z" creationid="jinpa">
+                <seg>Śāriputra, this buddha realm is beautifully adorned by such displays of the excellences of buddha realms. “Furthermore, Śāriputra, when the wind blows in that buddha realm it sways the rows of palm trees</seg>
+            </tuv>
+        </tu>
+        <tu tuid="72">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">1621</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T07:15:39.622Z" creationid="jinpa">
+                <seg>དྲིལ་བུ་གཡེར་ཀའི་དྲ་བ་དེ་དག་ལ་རླུང་གིས་ཕོག་ཅིང་རླུང་གིས་བསྐྱོད་ན་སྒྲ་སྙན་པ་ཡིད་དུ་འོང་བ། ཉམས་དགའ་བ་འབྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T07:15:39.622Z" creationid="jinpa">
+                <seg>and the filigree net of chimes, creating sweet, enchanting, and delightful sounds,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="73">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">36</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:35:05.269Z" creationid="jinpa">
+                <seg>ཅིའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་ཏུ་མེད་ཅེས་བྱ་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:35:05.269Z" creationid="jinpa">
+                <seg>why is that tathāgata called ‘Amitāyus’ (Immeasurable Life)?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="74">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">97</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:42:39.601Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་ཚེའི་ཚད་དཔག་ཏུ་མེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:42:39.601Z" creationid="jinpa">
+                <seg>Śāriputra, the lifespan of Tathāgata Amitāyus is immeasurable.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="75">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">160</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:42:59.547Z" creationid="jinpa">
+                <seg>དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཅེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:42:59.547Z" creationid="jinpa">
+                <seg>For this reason, he is called ‘Tathāgata Amitāyus.’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="76">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">212</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:44:47.74Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་གཞན་ཡང་ཅིའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་དེ་འོད་དཔག་མེད་ཅེས་བྱ་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:44:47.74Z" creationid="jinpa">
+                <seg>Furthermore, Śāriputra, why is that tathāgata called ‘Amitābha’ (Immeasurable Light)?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="77">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">298</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:45:27.847Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་འོད་སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་དུ་ཐོགས་པ་མེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:45:27.847Z" creationid="jinpa">
+                <seg>Śāriputra, the light of Tathāgata Amitābha shines unimpeded throughout all buddha realms.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="78">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">388</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:45:49.116Z" creationid="jinpa">
+                <seg>དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཅེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:45:49.116Z" creationid="jinpa">
+                <seg>For this reason, he is called ‘Tathāgata Amitābha.’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="79">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">440</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:46:54.072Z" creationid="jinpa">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་བསྐལ་པ་བཅུ་ལོན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:46:54.072Z" creationid="jinpa">
+                <seg>The Bhagavān Tathāgata Amitābha fully awakened to unsurpassable, completely perfect enlightenment ten eons ago</seg>
+            </tuv>
+        </tu>
+        <tu tuid="80">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">552</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:48:25.829Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་གཞན་ཡང་བཅོམ་ལྡན་འདས་དེའི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དག་པ་དགྲ་བཅོམ་པ་ཤ་སྟག་ཚད་མེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:48:25.829Z" creationid="jinpa">
+                <seg>“Furthermore, Śāriputra, this bhagavān has an immeasurable saṅgha of śrāvakas, who are all pure arhats;</seg>
+            </tuv>
+        </tu>
+        <tu tuid="81">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">657</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:48:47.287Z" creationid="jinpa">
+                <seg>དེ་དག་གི་ཚད་བརྗོད་པར་སླ་བ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:48:47.287Z" creationid="jinpa">
+                <seg>heir number cannot be easily expressed.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="82">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">697</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:24:17.548Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་གཞན་ཡང་སངས་རྒྱས་ཀྱི་ཞིང་དེར་སྐྱེས་པའི་སེམས་ཅན་དག་ནི་ཕྱིར་མི་ལྡོག་པ། སྐྱེ་བ་གཅིག་གིས་ཐོགས་པའི་བྱང་ཆུབ་སེམས་དཔའ་དག་པ་ཤ་སྟག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:24:17.548Z" creationid="jinpa">
+                <seg>Furthermore, Śāriputra, the sentient beings born in this buddha realm are all pure bodhisattvas who will not regress and are bound by only one more birth.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="83">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">852</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T08:54:23.696Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་ཚད་ནི་བརྗོད་པར་སླ་བ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T08:54:23.696Z" creationid="jinpa">
+                <seg>Śāriputra, one cannot express the total number of bodhisattvas except to say that they are immeasurable or countless.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="84">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">970</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:23:56.708Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:23:56.708Z" creationid="jinpa">
+                <seg>Śāriputra, this buddha realm is beautifully adorned by such displays of the excellences of buddha realms.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="85">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">1077</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:30:29.127Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོས་སངས་རྒྱས་ཀྱི་ཞིང་དེར་སྐྱེ་བར་བྱ་བའི་ཕྱིར་དགེ་བའི་རྩ་བ་རྣམས་གུས་པར་ཡོངས་སུ་བསྔོ་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:30:29.127Z" creationid="jinpa">
+                <seg>Therefore Śāriputra, sons and daughters of good family should completely dedicate all roots of virtue in a respectful manner to be born in that buddha realm.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="86">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">1235</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:31:43.83Z" creationid="jinpa">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན། འདི་ལྟར་སྐྱེས་བུ་དམ་པ་དེ་ལྟ་བུ་དག་དང་ཕྲད་པར་འགྱུར་བའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:31:43.83Z" creationid="jinpa">
+                <seg>Why? Because by doing so, they will be able to meet holy beings similar to themselves.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="87">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">1322</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:37:55.137Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་བའི་རྩ་བ་ངན་ངོན་ཙམ་གྱིས་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་ཞིང་དུ་སྐྱེ་བར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:37:55.137Z" creationid="jinpa">
+                <seg>Śāriputra, one cannot take birth in the realm of Bhagavān Tathāgata Amitāyus merely with minimal roots of virtue.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="88">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">1436</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:40:33.304Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་མཚན་ཐོས་ལ་ཐོས་ནས་ཀྱང་ཡིད་ལ་བྱེད་ཅིང་ནུབ་གཅིག་གམ། ནུབ་གཉིས་སམ། ནུབ་གསུམ་མམ། ནུབ་བཞི་འམ། ནུབ་ལྔའམ། ནུབ་དྲུག་གམ། ནུབ་བདུན་དུ་གཡེང་བ་མེད་པའི་སེམས་ཀྱིས་ཡིད་ལ་བྱེད་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:40:33.304Z" creationid="jinpa">
+                <seg>“Śāriputra, if those sons and daughters of good family hear the name of the Bhagavān Tathāgata Amitāyus and keep it in mind unwaveringly for one, two, three, four, five, six, or seven nights,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="89">
+            <prop name="folio">F.197.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T09:41:02.946Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T09:41:02.946Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="90">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">1337</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T10:53:36.891Z" creationid="jinpa">
+                <seg>།དེ་བཞིན་དུ་ལྷོ་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་ཉི་ཟླའི་སྒྲོན་མ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་གྲགས་པ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་གྲགས་པའི་འོད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་འོད་འཕྲོ་ཕུང་པོ་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T10:53:36.891Z" creationid="jinpa">
+                <seg>’“Likewise, in the south, the bhagavān buddhas of the south, such as the Tathāgata Candra­sūrya­pradīpa, the Tathāgata Renown, the Tathāgata Yaśaḥprabha,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="91">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">1203</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-21T11:24:51.4Z" creationid="jinpa">
+                <seg>ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-21T11:24:51.4Z" creationid="jinpa">
+                <seg>‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,” which praises inconceivable qualities.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="92">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">729</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T04:16:19.658Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་ཇི་ལྟར་དེ་བཞིན་གཤེགས་པ་ངས་ད་ལྟར་ཡོངས་སུ་བརྗོད་པ་དེ་བཞིན་དུ་ཤཱ་རིའི་བུ་ཤར་ཕྱོགས་ན་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་མི་འཁྲུགས་པ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ལྷུན་པོའི་རྒྱལ་མཚན་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T04:16:19.658Z" creationid="jinpa">
+                <seg>“O Śāriputra, I, the Tathāgata, at present praise [this Sukhāvatī]. So, likewise, Śāriputra, in the east, the Tathāgata Akṣobhya, the Tathāgata Merudhvaja,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="93">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">885</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T04:07:20.998Z" creationid="jinpa">
+                <seg>དེ་བཞིན་གཤེགས་པ་ལྷུན་པོ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ལྷུན་པོ་ཆེན་པོ་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T04:07:20.998Z" creationid="jinpa">
+                <seg>the Tathāgata Meru, the Tathāgata Mahāmeru,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="94">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">929</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T04:07:52.632Z" creationid="jinpa">
+                <seg>དེ་བཞིན་གཤེགས་པ་ལྷུན་པོ་ཆེན་པོ་སྣང་བ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་འཇམ་སྒྲ་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T04:07:52.632Z" creationid="jinpa">
+                <seg>the Tathāgata Mahā­meru­prabhāsa, the Tathāgata Harmonious Speech,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="95">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">996</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T04:08:31.975Z" creationid="jinpa">
+                <seg>དེ་བཞིན་གཤེགས་པ་འཇམ་དབྱངས་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T04:08:31.975Z" creationid="jinpa">
+                <seg>the Tathāgata Harmonious Voice,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="96">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">1028</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T04:09:09.175Z" creationid="jinpa">
+                <seg>དེ་དག་ལ་སོགས་པ་ཤར་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T04:09:09.175Z" creationid="jinpa">
+                <seg>and the other bhagavān buddhas of the east, who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="97">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">570</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T04:12:29.805Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་དོན་གྱི་དབང་དེ་མཐོང་ནས་རིགས་ཀྱི་བུ་འམ། རིགས་ཀྱི་བུ་མོས་སངས་རྒྱས་ཀྱི་ཞིང་དེར་གུས་པར་སྨོན་ལམ་གདབ་པར་བྱའོ་ཞེས་དེ་སྐད་བརྗོད་དོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T04:12:29.805Z" creationid="jinpa">
+                <seg>Therefore, Śāriputra, having seen its real point, sons and daughters of good family, I declare, ought to respectfully make prayers to reach that buddha realm.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="103">
+            <prop name="folio">F.198.b</prop>
+            <prop name="position">687</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T05:12:54.629Z" creationid="jinpa">
+                <seg>དེ་བཞིན་གཤེགས་པ་འོད་ཟེར་སྣང་བ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་ཏོག་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་འོད་ཟེར་དག་པ་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T05:12:54.629Z" creationid="jinpa">
+                <seg>the Tathāgata Illuminating Light Rays, the Tathāgata Ratnaketu, the Tathāgata Śuddha­raśmi­prabha,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="104">
+            <prop name="folio">F.198.b</prop>
+            <prop name="position">184</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T05:13:14.894Z" creationid="jinpa">
+                <seg>དེ་བཞིན་གཤེགས་པ་ལྷུན་པོའི་སྒྲོན་མ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་བརྩོན་འགྲུས་མཐའ་ཡས་ཞེས་བྱ་བ་དང་། དེ་དག་ལ་སོགས་པ་ལྷོ་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T05:13:14.894Z" creationid="jinpa">
+                <seg>the Tathāgata Merupradīpa, the Tathāgata Anaṃtavīrya, and others, who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="105">
+            <prop name="folio">F.198.b</prop>
+            <prop name="position">381</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T05:13:36.039Z" creationid="jinpa">
+                <seg>ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ། །དེ་བཞིན་དུ་ནུབ་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཕུང་པོ་དཔག་མེད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་རྒྱལ་མཚན་དཔག་མེད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་འོད་ཆེན་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T05:13:36.039Z" creationid="jinpa">
+                <seg>‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,” which praises inconceivable qualities.’“Likewise, in the west, the bhagavān buddhas of the west, such as the Tathāgata Amitāyus, the Tathāgata Amitaskandha, the Tathāgata Amitadhvaja, the Tathāgata Mahāprabha,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="106">
+            <prop name="folio">F.198.b</prop>
+            <prop name="position">238</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T05:14:33.332Z" creationid="jinpa">
+                <seg>དེ་དག་ལ་སོགས་པ་ནུབ་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ། ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T05:14:33.332Z" creationid="jinpa">
+                <seg>and others, who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,” which praises inconceivable qualities.’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="107">
+            <prop name="folio">F.198.b</prop>
+            <prop name="position">1065</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T05:16:44.193Z" creationid="jinpa">
+                <seg>།དེ་བཞིན་དུ་བྱང་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་འོད་འཕྲོའི་ཕུང་པོ་ཆེན་པོ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་སྒྲོལ་བའི་དབྱངས་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་རབ་ཏུ་ཐུལ་དཀའ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཉི་མ་འབྱུང་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་དྲ་བ་ཅན་གྱི་འོད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་འོད་ཀྱི་འབྱུང་གནས་ཞེས་བྱ་བ་དང་། དེ་དག་ལ་སོགས་པ་བྱང་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T05:16:44.193Z" creationid="jinpa">
+                <seg>Likewise, in the north, the bhagavān buddhas of the north, such as the Tathāgata Mahārciskandha, the Tathāgata Vaiśvānara­nirghoṣa, the Tathāgata Duṣpradharṣa, the Tathāgata Āditya­saṃbhava, the Tathāgata Jālinīprabha, the Tathāgata Prabhākara,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="111">
+            <prop name="folio">F.199.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T05:56:04.561Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T05:56:04.561Z" creationid="jinpa">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="118">
+            <prop name="folio">F.199.a</prop>
+            <prop name="position">1388</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T06:03:02.197Z" creationid="jinpa">
+                <seg>དེ་དག་ལ་སོགས་པ་སྟེང་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ། ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T06:03:02.197Z" creationid="jinpa">
+                <seg>and others who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="119">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">611</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T06:27:48.104Z" creationid="jinpa">
+                <seg>།ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། ཅིའི་ཕྱིར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བ་ཞེས་བྱ་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T06:27:48.104Z" creationid="jinpa">
+                <seg>which praises Sukhāvatī’s inconceivable qualities.’“What do you think about this, Śāriputra, why is this Dharma discourse called ‘Complete Embrace by All Buddhas’?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="120">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">775</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T06:31:50.489Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དང་། སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་གི་མཚན་ཐོས་པར་གྱུར་པ་དང་། ཐོས་པ་དང་ཐོས་པར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་ཡོངས་སུ་བཟུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T06:31:50.489Z" creationid="jinpa">
+                <seg>Śāriputra, those sons and daughters of good family who have heard, now hear, or will hear this Dharma discourse and the names of those bhagavān buddhas will all be embraced completely by the bhagavān buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="121">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">984</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T08:50:36.506Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་སེམས་ཅན་གང་དག་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སེམས་ཀྱིས་སྨོན་པར་བྱེད་པའམ། བྱས་པའམ། བྱེད་པའམ། བྱེད་པར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་གོ། ། ཕྱིར་མ་ལོག་གོ་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T08:50:36.506Z" creationid="jinpa">
+                <seg>Śāriputra, of all those sentient beings who aspire, who have made, are making, or will make aspirations to the Sukhāvatī world, the buddha realm of the Bhagavān Tathāgata Amitābha, none has turned away, is turning away, nor will ever turn away from the pursuit of unsurpassable, completely perfect enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="122">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">1297</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T08:58:18.794Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་ཇི་ལྟར་ད་ལྟ་རང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་གི་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་དེ་བཞིན་དུ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T08:58:18.794Z" creationid="jinpa">
+                <seg>Śāriputra, just as I now praise the inconceivable qualities of those bhagavān buddhas, likewise,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="123">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">1394</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T09:04:16.782Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ཀྱང་ངའི་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T09:04:16.782Z" creationid="jinpa">
+                <seg>Śāriputra, those bhagavān buddhas also praise my inconceivable qualities.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="124">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">1469</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:01:42.466Z" creationid="jinpa">
+                <seg>ཤཱ་རིའི་བུས་གསོལ་པ། བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་ཤཱཀྱའི་རྒྱལ་པོས་བསྐལ་པའི་སྙིགས་མ་དང་། ཉོན་མོངས་པའི་སྙིགས་མ་དང་། སེམས་ཅན་གྱི་སྙིགས་མ་དང་། ལྟ་བའི་སྙིགས་མ་དང་། ཚེའི་སྙིགས་མའི་ཚེ་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:01:42.466Z" creationid="jinpa">
+                <seg>Śāriputra declared, “Bhagavān Śākyamuni, king of the Śākyas, you have fully awakened to unsurpassable, completely perfect enlightenment in this Sahā world. You have taught the Dharma that the whole world was reluctant to accept at the time of the degeneration of the eon,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="126">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">1741</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:33:51.042Z" creationid="jinpa">
+                <seg>འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་པའི་ཆོས་བསྟན་པ་ནི་ངོ་མཚར་ལགས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་སྙིགས་མ་ལྔའི་ཚེ་འཇིག་རྟེན་དུ་ངས་གང་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:33:51.042Z" creationid="jinpa">
+                <seg>the degeneration of afflictions, the degeneration of beings, the degeneration of views, and the degeneration of lifespan. How marvelous indeed!” The Bhagavān replied, “Śāriputra, having fully awakened to unsurpassable, completely perfect enlightenment in this world, the Sahā world, at the time of the five degenerations,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="127">
+            <prop name="folio">F.199.b</prop>
+            <prop name="position">2063</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:34:41.383Z" creationid="jinpa">
+                <seg>འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་པའི་ཆོས་བསྟན་པ་དེ་ནི་མཆོག་ཏུ་དཀའ་བ་བྱེད་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:34:41.383Z" creationid="jinpa">
+                <seg>I have taught the Dharma that the whole world was reluctant to accept.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="128">
+            <prop name="folio">F.200.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:36:04.741Z" creationid="jinpa">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། ཉན་ཐོས་ཆེན་པོ་དེ་དག་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:36:04.741Z" creationid="jinpa">
+                <seg>After the Bhagavān had thus spoken, the whole world, including the venerable Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="129">
+            <prop name="folio">F.200.a</prop>
+            <prop name="position">89</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:37:47.858Z" creationid="jinpa">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:37:47.858Z" creationid="jinpa">
+                <seg>the great śrāvakas, bodhisattvas, gods, humans, demigods, and gandharvas were delighted and praised highly the words spoken by the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="131">
+            <prop name="folio">F.200.a</prop>
+            <prop name="position">296</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:39:32.589Z" creationid="jinpa">
+                <seg>།རྒྱ་གར་གྱི་མཁན་པོ་དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:39:32.589Z" creationid="jinpa">
+                <seg>This sūtra was translated and finalized by the Indian abbot Dānaśīla and the principal revisor-translator, the monk Yeshé Dé, along with others.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="132">
+            <prop name="folio">F.200.a</prop>
+            <prop name="position">230</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-22T10:46:02.722Z" creationid="jinpa">
+                <seg>འཕགས་པ་བདེ་བ་ཅན་གྱི་བཀོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-22T10:46:02.722Z" creationid="jinpa">
+                <seg>This completes the Noble Mahāyāna Sūtra The Display of Sukhāvatī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="133">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-09T07:14:57.498Z" creationid="mabja">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-09T07:14:57.498Z" creationid="mabja">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="134">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">551</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-10T13:10:34.995Z" creationid="dirk">
+                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མི་ཕམ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-10T13:10:34.995Z" creationid="dirk">
+                <seg>such as the youthful Mañjuśrī, the Bodhisattva Mahāsattva Ajita,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="135">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">1726</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:38:15.606Z" creationid="celso">
+                <seg>།ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་རིན་པོ་ཆེ་སྣ་བཞི་ལ་འདི་ལྟ་སྟེ། གསེར་དང་། དངུལ་དང་། བཻ་དཱུརྱ་དང་། ཤེལ་དང་། རྣམ་པ་དེ་ལྟ་བུའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:38:15.606Z" creationid="celso">
+                <seg>Śāriputra, this buddha realm is beautifully adorned with displays of the excellences of buddha realms, such as the four kinds of jewels, namely, gold, silver, beryl, and crystal.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="136">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">1905</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:39:04.576Z" creationid="celso">
+                <seg>།ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ན་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རྫིང་ཡན་ལག་བརྒྱད་དང་ལྡན་པའི་ཆུས་ཡོངས་སུ་གང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:39:04.576Z" creationid="celso">
+                <seg>Furthermore, Śāriputra, the Sukhāvatī world has ponds adorned with seven kinds of jewels. The ponds are full of water possessing the eight qualities.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="137">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">2055</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:39:41.915Z" creationid="celso">
+                <seg>རིན་པོ་ཆེའི་པད་མས་ཁེབས་པ། བྱ་རོག་གིས་བཏུང་དུ་རུང་བར་ཁ་ད་ཆད་དུ་གྱུར་པ་གསེར་གྱི་བྱེ་མ་བདལ་བ་དག་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:39:41.915Z" creationid="celso">
+                <seg>They are covered by jeweled lotuses, are filled to the top to enable crows to drink, and are lined with golden sand.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="138">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">2172</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:40:09.534Z" creationid="celso">
+                <seg>རྫིང་དེ་དག་གི་ཕྱོགས་བཞི་ཀུན་ན་ཐེམ་སྐས་བཀྲ་བ། བལྟ་ན་སྡུག་པ། གསེར་དང་། དངུལ་དང་། བཻ་དཱུརྱ་དང་། ཤེལ་དང་། རིན་པོ་ཆེ་སྣ་བཞི་ལས་བྱས་པ་བཞི་བཞི་ཡོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:40:09.534Z" creationid="celso">
+                <seg>All around, on the four sides of the ponds are four radiantly elegant staircases, each made of one of the four precious substances: gold, silver, beryl, and crystal.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="139">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">2338</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:40:57.405Z" creationid="celso">
+                <seg>།རྫིང་དེ་དག་གི་འགྲམ་ན་རིན་པོ་ཆེའི་ཤིང་ལྗོན་པ་རིན་པོ་ཆེ་སྣ་བདུན་ལ་འདི་ལྟ་སྟེ། གསེར་དང་། དངུལ་དང་། བཻ་དཱུརྱ་དང་། ཤེལ་དང་། མུ་ཏིག་དམར་པོ་དང་། རྡོའི་སྙིང་པོ་དང་། སྤུག་གི་ཤིང་བཀྲ་བ། བལྟ་ན་སྡུག་པ་དག་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:40:57.405Z" creationid="celso">
+                <seg>By the banks of the ponds grow jeweled trees of the seven radiantly beautiful jewels: gold, silver, beryl, crystal, rosy pearls, emerald, and coral.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="140">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">2561</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:42:10.558Z" creationid="celso">
+                <seg>གསེར་དང་། གསེར་གྱི་ཁ་དོག །གསེར་གྱི་འོད་འབྱུང་བ། གསེར་ལྟ་བུར་སྟོན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:42:10.558Z" creationid="celso">
+                <seg>The golden lotuses have a golden hue, a golden sheen, and manifest as gold.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="141">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">2637</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:42:21.235Z" creationid="celso">
+                <seg>སྔོན་པོ་ཁ་དོག་སྔོན་པོ། འོད་སྔོན་པོ་འབྱུང་བ། སྔོན་པོ་ལྟ་བུར་སྟོན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:42:21.235Z" creationid="celso">
+                <seg>The blue ones have a blue hue, a blue sheen, and manifest as blue.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="142">
+            <prop name="folio">F.196.a</prop>
+            <prop name="position">2704</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:42:33.276Z" creationid="celso">
+                <seg>སེར་པོ་ཁ་དོག་སེར་པོ། འོད་སེར་པོ་འབྱུང་བ། སེར་པོ་ལྟ་བུར་སྟོན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:42:33.276Z" creationid="celso">
+                <seg>The yellow ones have a yellow hue, a yellow sheen, and manifest as yellow.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="143">
+            <prop name="folio">F.197.a</prop>
+            <prop name="position">316</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:43:18.139Z" creationid="celso">
+                <seg>དེ་བཞིན་གཤེགས་པ་རེ་རེ་ལ་ཡང་མེ་ཏོག་སྐོན་བུ་བྱེ་བ་ཕྲག་འབུམ་མངོན་པར་འཐོར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:43:18.139Z" creationid="celso">
+                <seg>They also toss hundreds of thousands of bouquets of flowers toward each tathāgata.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="144">
+            <prop name="folio">F.198.a</prop>
+            <prop name="position">193</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:49:03.551Z" creationid="celso">
+                <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་འཆི་བའི་དུས་ཀྱི་ཚེ་ཕྱིན་ཅི་ལོག་མེད་པའི་སེམས་ཀྱིས་འཆི་བའི་དུས་བྱས་ནས་འཆི་བའི་དུས་བྱས་པ་དེ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཉན་ཐོས་ཀྱི་དགེ་འདུན་གྱིས་ཡོངས་སུ་བསྐོར་ཅིང་བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཀྱིས་མདུན་གྱིས་བལྟས་པའི་མདུན་ན་བཞུགས་པ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:49:03.551Z" creationid="celso">
+                <seg>when the hour of their death arrives, they will depart in an undeluded state. After they have passed away, the Tathāgata Amitābha will stand before them, entirely surrounded by a śrāvaka assembly and accompanied by a congregation of bodhisattvas. These sons and daughters of good family will be born in the Sukhāvatī world, the buddha realm of the Bhagavān Tathāgata Amitābha.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="145">
+            <prop name="folio">F.199.a</prop>
+            <prop name="position">390</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:52:15.718Z" creationid="celso">
+                <seg>ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:52:15.718Z" creationid="celso">
+                <seg>‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,” which praises inconceivable qualities.’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="146">
+            <prop name="folio">F.199.a</prop>
+            <prop name="position">526</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:52:52.587Z" creationid="celso">
+                <seg>།དེ་བཞིན་དུ་འོག་གི་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་སེང་གེ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་གྲགས་པ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་གྲགས་འོད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཆོས་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཆོས་འཛིན་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཆོས་ཀྱི་རྒྱལ་མཚན་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:52:52.587Z" creationid="celso">
+                <seg>Likewise, in the nadir, the bhagavān buddhas of the nadir, such as the Tathāgata Siṃha, the Tathāgata Yaśas, the Tathāgata Yaśaḥprabhāsa, the Tathāgata Dharma, the Tathāgata Dharmadhara, the Tathāgata Dharmadhvaja,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="147">
+            <prop name="folio">F.199.a</prop>
+            <prop name="position">741</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:56:38.877Z" creationid="celso">
+                <seg>དེ་དག་ལ་སོགས་པ་འོག་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:56:38.877Z" creationid="celso">
+                <seg>and others, who are numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech</seg>
+            </tuv>
+        </tu>
+        <tu tuid="148">
+            <prop name="folio">F.199.a</prop>
+            <prop name="position">1017</prop>
+            <tuv xml:lang="bo" creationdate="2018-08-20T15:57:06.251Z" creationid="celso">
+                <seg>།དེ་བཞིན་དུ་སྟེང་གི་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་ཚངས་པའི་དབྱངས་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་སྐར་མའི་རྒྱལ་པོ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་སྤོས་མཆོག་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་སྤོས་འོད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་སྤོས་ཀྱི་ཕུང་པོ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་རིན་ཆེན་མེ་ཏོག་ཤིན་ཏུ་རྒྱས་པའི་རིགས་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་སཱ་ལའི་དབང་པོའི་རྒྱལ་པོ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་རིན་ཆེན་ཨུད་པལའི་དཔལ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་མཐོང་བ་དོན་ཡོད་ཅེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་རི་རབ་ལྟ་བུ་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-08-20T15:57:06.251Z" creationid="celso">
+                <seg>Likewise, in the zenith, the bhagavān buddhas of the zenith, such as the Tathāgata Brahmaghoṣa, the Tathāgata Nakṣatrarāja, the Tathāgata Gandhottama, the Tathāgata Gandhaprabhāsa, the Tathāgata Heap of Incense, the Tathāgata Ratna­kusuma­saṃpuṣpita­gotra, the Tathāgata Sālendrarāja, the Tathāgata Ratnotpalaśrī, the Tathāgata Sarvārthadarśa, the Tathāgata Sumerukalpa,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

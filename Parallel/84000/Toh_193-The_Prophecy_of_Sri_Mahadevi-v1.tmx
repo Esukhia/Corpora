@@ -1,0 +1,1775 @@
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-23T01:58:33.491Z" creationid="dirk"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.246.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-23T01:58:33.491Z" creationid="dirk">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-23T01:58:33.491Z" creationid="dirk">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:46:44.176Z" creationid="S.J.">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:46:44.176Z" creationid="S.J.">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">30</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:48:53.131Z" creationid="S.J.">
+                <seg>བཅོམ་ལྡན་འདས་བདེ་བ་ཅན་ན་བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:48:53.131Z" creationid="S.J.">
+                <seg>The Bhagavān was dwelling in Sukhāvatī together with the great saṅgha of bodhisattvas,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">190</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:51:04.014Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:51:04.014Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Ārya Avalokiteśvara,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">234</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:52:14.559Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མཐུ་ཆེན་ཐོབ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:52:14.559Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Mahā­sthāma­prāpta,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">277</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:52:54.607Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྒྲིབ་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:52:54.607Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Sarva­nīvaraṇa­viṣkaṃbhin,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">327</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:53:15.858Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སའི་སྙིང་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:53:15.858Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Kṣitigarbha,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="8">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">363</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:53:31.399Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:53:31.399Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Samantabhadra,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">401</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:53:59.264Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནམ་མཁའི་སྙིང་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:53:59.264Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Ākāśagarbha,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">437</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:56:44.344Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇིགས་པ་ཐམས་ཅད་སེལ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:56:44.344Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Vajrapāṇi and Bodhisattva Sarvabhayahara,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">502</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:57:17.935Z" creationid="S.J.">
+                <seg>དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དགའ་བྱེད་ཀྱི་བཀྲ་ཤིས་ཐམས་ཅད་འཛིན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:57:17.935Z" creationid="S.J.">
+                <seg>and similarly Bodhisattva Mahāsattva Sarva­maṅgala­dhārin,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="12">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">561</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:57:45.707Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བསོད་ནམས་ཀྱི་མཚན་ཐམས་ཅད་འཛིན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:57:45.707Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Sarva­puṇya­lakṣaṇa­dhārin,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="13">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">612</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:58:05.498Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཉི་ཟླ་དང་འཇིག་རྟེན་གསུམ་འཛིན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:58:05.498Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Candra­sūrya­trailokya­dhārin,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="14">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">666</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:58:33.929Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མུ་སྟེགས་ཀྱི་བཀྲ་ཤིས་ཐམས་ཅད་འཛིན་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:58:33.929Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Sarva­tīrtha­maṅgala­dhārin,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="15">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">722</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T16:59:00.775Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T16:59:00.775Z" creationid="S.J.">
+                <seg>Bodhisattva Mahāsattva Mañjuśrī Kumārabhūta.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="16">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">117</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:00:04.031Z" creationid="S.J.">
+                <seg>དེ་དག་ལ་སོགས་པ་བསྐལ་པ་བཟང་པོའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དང་ཐམས་ཅད་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:00:04.031Z" creationid="S.J.">
+                <seg>amongst them the following bodhisattva mahāsattvas of the excellent eon</seg>
+            </tuv>
+        </tu>
+        <tu tuid="17">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">767</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:01:30.508Z" creationid="S.J.">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:01:30.508Z" creationid="S.J.">
+                <seg>Then Bodhisattva Mahāsattva Avalokiteśvara went to the place where the Bhagavān was, paid homage at the Bhagavān’s feet, and remained at one side.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="18">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">918</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:03:03.412Z" creationid="S.J.">
+                <seg>།ལྷ་མོ་ཆེན་མོ་དཔལ་ཡང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། ལན་གསུམ་བསྐོར་བ་བྱས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:03:03.412Z" creationid="S.J.">
+                <seg>Mahādevī also went toward the Bhagavān, paid homage at his feet, and circumambulated him three times.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="19">
+            <prop name="folio">f.246.b</prop>
+            <prop name="position">1020</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:04:03.34Z" creationid="S.J.">
+                <seg>ནས་བདེ་བ་ཅན་ན་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ཐམས་ཅད་ལ་ཡང་མགོ་བོས་ཕྱག་འཚལ་ཏེ། ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:04:03.34Z" creationid="S.J.">
+                <seg>Then she also paid homage to all the bodhisattva mahāsattvas who were dwelling in Sukhāvati and remained at one side.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="20">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">372</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:05:20.439Z" creationid="S.J.">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་བསོད་ནམས་བརྒྱ་སྟོང་དུ་མས་བརྒྱན་ཅིང་དེ་བཞིན་གཤེགས་པ་བྱེ་བ་སྙེད་ཀྱིས་ཡོངས་སུ་བསྐོར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:05:20.439Z" creationid="S.J.">
+                <seg>The Bhagavān was adorned with many hundreds of thousands of merits and surrounded by as many as ten million tathāgatas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="21">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">492</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:07:08.406Z" creationid="S.J.">
+                <seg>བརྒྱ་བྱིན་དང་ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་ཐམས་ཅད་ཀྱིས་བསྟོད་ཅིང་བསྔགས་པས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:07:08.406Z" creationid="S.J.">
+                <seg>As Indra, Brahmā and the guardians of the world all offered their praises and acclaim,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="22">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">579</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:07:51.849Z" creationid="S.J.">
+                <seg>ལྷ་མོ་ཆེན་མོ་དཔལ་ལ་གཟིགས་ནས། ཚངས་པ་ཆེན་པོའི་གསུང་གིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:07:51.849Z" creationid="S.J.">
+                <seg>the Bhagavān, having gazed at Śrī Mahādevī, addressed Bodhisattva Mahāsattva Avalokiteśvara as follows in his Great Brahmā voice:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="23">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">709</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:12:30.239Z" creationid="S.J.">
+                <seg>།སྤྱན་རས་གཟིགས་དབང་ཕྱུག་རྒྱལ་པོའམ། བློན་པོའམ། དགེ་སློང་ངམ། དགེ་སློང་མའམ། དགེ་བསྙེན་ནམ། དགེ་བསྙེན་མའམ། བྲམ་ཟེའམ། རྒྱལ་རིགས་སམ། རྗེའུ་རིགས་སམ། དམངས་རིགས་གང་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:12:30.239Z" creationid="S.J.">
+                <seg>“Avalokiteśvara, if any one of the kings, ministers, bhikṣus, bhikṣuṇīs, upāsakas, upāsikās, brāhmaṇas, kṣatriyas, vaiśyas or śūdras</seg>
+            </tuv>
+        </tu>
+        <tu tuid="24">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">842</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:13:03.063Z" creationid="S.J.">
+                <seg>ལྷ་མོ་ཆེན་མོ་དཔལ་གྱི་མིང་བརྒྱ་རྩ་བརྒྱད་དྲི་མ་མེད་པར་གྲགས་པ་ཞེས་བྱ་བའི་བསྟོད་པ་འདི་འཆང་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:13:03.063Z" creationid="S.J.">
+                <seg>retains this praise “The One Hundred and Eight Names of Śrī Mahādevī which are Renowned as Stainless,”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="25">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">945</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:14:25.095Z" creationid="S.J.">
+                <seg>རྒྱལ་རིགས་ཀྱི་རྒྱལ་པོ་དེའི་ཡུལ་དང་། སེམས་ཅན་དེ་དག་གི་འཇིགས་པ་དང་། ཡམས་ཀྱི་ནད་དང་། གནོད་པ་ཐམས་ཅད་ཞི་བར་འགྱུར་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:14:25.095Z" creationid="S.J.">
+                <seg>then the kṣatriya king’s kingdom, the fears of those beings there, as well as the epidemics and harmful influences will all be pacified, and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="26">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1086</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:15:38.184Z" creationid="S.J.">
+                <seg>ཆོམ་རྐུན་དང་། གཡོན་ཅན་དང་། མི་དང་མི་མ་ཡིན་པའི་འཇིགས་པ་ཐམས་ཅད་འབྱུང་བར་མི་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:15:38.184Z" creationid="S.J.">
+                <seg>no one at all will fear robbers, rogues, humans or nonhumans.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="27">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1148</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:16:29.553Z" creationid="S.J.">
+                <seg>ནོར་དང་། འབྲུ་དང་། མཛོད་དང་། བང་བ་ཐམས་ཅད་རྣམ་པར་འཕེལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:16:29.553Z" creationid="S.J.">
+                <seg>Wealth, grains, treasuries and stores will all increase,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="28">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1205</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:18:02.388Z" creationid="S.J.">
+                <seg>།རྒྱལ་རིགས་ཀྱི་རྒྱལ་པོ་དེའི་ཁྱིམ་དུ་ཡང་དཔལ་ངེས་པར་གནས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:18:02.388Z" creationid="S.J.">
+                <seg>and the Glorious Mahādevī will no doubt abide in the home of this kṣatriya king.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="29">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1287</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:18:45.053Z" creationid="S.J.">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་གིས་ཚིག་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཚིག་འདི་ལེགས་པར་བཀའ་སྩལ་པ། ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:18:45.053Z" creationid="S.J.">
+                <seg>Then those bodhisattva mahāsattvas said, “Bhagavāṇ, these words are well said. Excellent! Excellent!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="30">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1388</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:19:40.436Z" creationid="S.J.">
+                <seg>།གང་དག་ལྷ་མོ་ཆེན་མོ་དཔལ་གྱི་མིང་རྣམས་འཛིན་པ་དང་། ཐོས་ནས་ཉམས་སུ་ལེན་པ་གང་ལགས་པ་དེ་དག་གི་ཡོན་ཏན་དང་ཕན་ཡོན་ནི་དེ་དག་ཏུ་འགྱུར་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:19:40.436Z" creationid="S.J.">
+                <seg>Those people who will retain the names of Śrī Mahādevī and who will put them into practice once they have heard them will have those aforementioned qualities and benefits.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="33">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">148</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:22:31.56Z" creationid="S.J.">
+                <seg>སྤྱན་རས་གཟིགས་དབང་ཕྱུག་སྔོན་བྱུང་བ་འདས་པའི་དུས་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:22:31.56Z" creationid="S.J.">
+                <seg>O Avalokiteśvara, previously, in the past</seg>
+            </tuv>
+        </tu>
+        <tu tuid="34">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">190</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:23:46.883Z" creationid="S.J.">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་ལས་བྱུང་བ་ཞེས་བྱ་བ་ན། དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་མེ་ཏོག་ཡོན་ཏན་གྱི་རྒྱ་མཚོ་བཻ་དཱུརྱ་དང་གསེར་གྱི་རི་བོ་མདོག་མཛེས་གསེར་འོད་དཔལ་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:23:46.883Z" creationid="S.J.">
+                <seg>in a world system called Ratna­saṃbhavā, the tathāgata called Ratna­kusuma­guṇa­sāgara­vaiḍūrya­kanaka­giri­suvarṇa­kāṃcana­prabhāsa­śrī came forth into the world.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="35">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">354</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:24:09.64Z" creationid="S.J.">
+                <seg>དེ་དང་དེ་བཞིན་གཤེགས་པ་མང་པོ་གཞན་དག་ལ་ཡང་ལྷ་མོ་ཆེན་མོ་དཔལ་གྱིས་དགེ་བའི་རྩ་བ་བསྐྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:24:09.64Z" creationid="S.J.">
+                <seg>Śrī Mahādevī generated roots of virtue in his presence and in the presence of many other tathāgatas, too.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="36">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">460</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:25:17.705Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་མཚན་འདི་དག་ཀྱང་ལྷ་མོ་ཆེན་མོ་དཔལ་དེའི་དགེ་བའི་རྩ་བ་རྣམ་པར་འཕེལ་བ་དང་། འགྲུབ་པར་བྱེད་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:25:17.705Z" creationid="S.J.">
+                <seg>Now, the names of the tathāgatas make Śrī Mahādevī’s roots of virtue flourish and come to fulfillment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="37">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">563</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:26:20.565Z" creationid="S.J.">
+                <seg>རྟག་ཏུ་རྗེས་སུ་འབྲང་བ་ཡིན་ཏེ། དེ་དག་ནི་འདིར་ལྷ་མོ་ཆེན་མོ་དཔལ་གྱིས་ཡང་དག་པར་བརྗོད་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:26:20.565Z" creationid="S.J.">
+                <seg>They stay with her always, these names which here in this world Śrī Mahādevī recites precisely and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="38">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">662</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:30:15.27Z" creationid="S.J.">
+                <seg>སྡིག་པ་ཐམས་ཅད་སེལ་བ་དང་། ཉེས་སྡིག་ཐམས་ཅད་མེད་པར་བྱེད་པ་དང་། ལུས་ཐམས་ཅད་དྲི་མ་མེད་པར་བྱེད་པ་དང་། ནོར་དང་འབྲུ་རྣམས་འདུ་ཞིང་འཕེལ་བར་བྱེད་པ་དང་། དབུལ་བ་གཅོད་པར་བྱེད་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:30:15.27Z" creationid="S.J.">
+                <seg>which dispel all sins, eliminate all offenses, make all effects stainless, gather and increase wealth and grains, eradicate poverty,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="39">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">795</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:30:33.344Z" creationid="S.J.">
+                <seg>ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་ཐམས་ཅད་འདུན་པར་བྱེད་ཅིང་འགུགས་པར་བྱེད་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:30:33.344Z" creationid="S.J.">
+                <seg>attract and catch the attention of all gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, and mahoragas,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="40">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">909</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:31:29.393Z" creationid="S.J.">
+                <seg>ཡམས་ཀྱི་ནད་དང་། གནོད་པ་དང་། འཐབ་པ་དང་། འཁྲུག་པ་དང་། འགྱེད་པ་དང་། རྩོད་པ་ཐམས་ཅད་ཞི་བར་བྱེད་པ་དང་། ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་རྫོགས་པར་བྱེད་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:31:29.393Z" creationid="S.J.">
+                <seg>pacifying all epidemics, natural misfortunes, disputes, conflicts, dissensions, and arguments, and which will bring the six perfections to fulfilment.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="41">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1060</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:32:20.249Z" creationid="S.J.">
+                <seg>།འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:32:20.249Z" creationid="S.J.">
+                <seg>They are as follows:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="42">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1081</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:34:01.393Z" creationid="S.J.">
+                <seg>དེ་བཞིན་གཤེགས་པ་དཔལ་སྟུག་པ་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:34:01.393Z" creationid="S.J.">
+                <seg>“Homage to Tathāgata Śrīghana.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="43">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1112</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:34:45.683Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་མེ་ཏོག་ཡོན་ཏན་གྱི་རྒྱ་མཚོ་བཻ་དཱུརྱ་དང་གསེར་གྱི་རི་བོ་མདོག་མཛེས་གསེར་འོད་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:34:45.683Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Ratna­kusuma­guṇa­sāgara­vaiḍūrya­kanaka­giri­suvarṇa­kāṃcana­prabhāsa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="44">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1208</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:35:09.342Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་གང་གཱའི་མུ་སྟེགས་ཀྱི་སྒོ་ཐམས་ཅད་ཀྱི་བཀྲ་ཤིས་ཀྱི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:35:09.342Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Gaṅgāsarva­tīrthamukha­maṅgala­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="45">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1264</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:35:41.771Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཙན་དན་གྱི་མེ་ཏོག་གཟི་བརྗིད་སྐར་མའི་འོད་ཀྱི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:35:41.771Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Candana­kusuma­tejo­nakṣatra­prabhāsa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="46">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1327</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:36:06.278Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཀུན་ཏུ་སྣང་བ་གཡུལ་ལས་རྣམ་པར་རྒྱལ་བའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:36:06.278Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Samantāvabhāsa­vijita­saṃgrāma­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="47">
+            <prop name="folio">f.247.b</prop>
+            <prop name="position">1383</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:36:27.8Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཡོན་ཏན་རྒྱ་མཚོ་སྣང་བའི་དཀྱིལ་འཁོར་གྱི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:36:27.8Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Guṇa­samudrāvabhāsa­maṇḍala­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="48">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">356</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:37:06.067Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཆོས་ཀྱི་ཆོ་འཕྲུལ་རྒྱལ་མཚན་ཤུགས་ཀྱི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:37:06.067Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Dhārma­vikurvaṇa­dhvaja­vega­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="49">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">410</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:37:43.249Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྐར་འོད་ཞི་བའི་སྤོས་སྣང་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:37:43.249Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Jyotiḥsaumya­gandhāvabhāsa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="50">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">462</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:38:25.188Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སེམས་ཅན་གྱི་བསམ་པ་ཞི་བར་མཛད་པའི་སྐུའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:38:25.188Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Sattvāśaya­śamana­śarīra­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="51">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">512</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:38:48.569Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྨོན་ལམ་རྒྱ་མཚོས་སྣང་བའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:38:48.569Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Praṇidhāna­sāgarāvabhāsa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="52">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">562</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:39:10.485Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཤིན་ཏུ་ཡོངས་སུ་བརྗོད་པ་མཚན་གསོལ་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:39:10.485Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Su­parikīrtita­nāmadheya­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="53">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">612</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:49:48.901Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་བརྩོན་འགྲུས་གྲངས་མེད་པ་ལ་རབ་ཏུ་ཞུགས་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:49:48.901Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Asaṃkhyeya­vīrya­susaṃprasthita­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="54">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">777</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:51:18.66Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཤེས་རབ་སྒྲོན་མ་གྲངས་མེད་པའི་འོད་ཀྱི་མེ་ཏོག་གི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:51:18.66Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Prajñā­pradīpāsaṃkhyeya­prabhā­ketu­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="55">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">838</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:52:36.686Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྲེད་མེད་ཀྱི་བུའི་བརྟུལ་ཞུགས་ཀྱི་གོ་ཆ་རི་རབ་ཀྱི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:52:36.686Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Nārāyaṇa­vrata­sannāha­sumeru­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="56">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">893</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:52:52.068Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཚངས་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:52:52.068Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Brahmaśrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="57">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">924</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:53:15.572Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་དབང་ཕྱུག་ཆེན་པོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:53:15.572Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Maheśvaraśrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="58">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">958</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:53:28.99Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཉི་ཟླའི་འོད་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:53:28.99Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Candrasūryaśrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="59">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">994</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:54:03.609Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཟབ་མོའི་ཆོས་ཀྱི་འོད་ཀྱི་རྒྱལ་པོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:54:03.609Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Gambhīra­dharma­prabhā­rāja­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="60">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">1047</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:55:43.46Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ནམ་མཁའི་སྒྲོན་མའི་འོད་བཟང་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:55:43.46Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Gagana­pradīpābhirāma­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="61">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">1094</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:56:00.631Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཉི་འོད་ཏོག་གི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:56:00.631Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Sūrya­prabhā­ketu­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="62">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">1137</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:56:26.241Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྤོས་ཀྱི་སྒྲོན་མའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:56:26.241Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Gandha­pradīpa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="63">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">1177</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:56:54.371Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་རྒྱ་མཚོའི་སྙིང་པོ་ལས་བྱུང་བའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:56:54.371Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Sāgara­garbha­saṃbhava­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="64">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">723</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T17:59:23.286Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་གསུང་གི་ཡན་ལག་ཐམས་ཅད་ཀྱི་སྒྲ་དབྱངས་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T17:59:23.286Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Sarva­svarāṅga­ruta­nirghoṣa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="65">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">669</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:00:34.352Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་དཔག་ཏུ་མེད་པའི་གསེར་མདོག་སྣང་བའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:00:34.352Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Aprameya­suvarṇotta­prabhāsa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="66">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1277</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:04:43.538Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཆོས་ཀྱི་སྣང་བ་ཐམས་ཅད་བཀོད་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:04:43.538Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Sarva­dharma­prabhāsa­vyūha­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="67">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1330</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:05:08.096Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཤིང་གི་རྒྱལ་པོ་ལྟར་སྐྱེས་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:05:08.096Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Druma­rāja­vivardhita­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="68">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1377</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:05:47.387Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་རིན་ཆེན་འོད་འཕྲོ་རི་བོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:05:47.387Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Ratnārciḥparvata­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="69">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1419</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:06:17.267Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཡེ་ཤེས་འོད་འཕྲོ་རྒྱ་མཚོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:06:17.267Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Jñānārciḥsāgara­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="70">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1504</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:07:09.224Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་པོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:07:09.224Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Mahāmeghaśrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="71">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1460</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:08:05.869Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྨོན་ལམ་ཆེན་པོའི་ཤུགས་ཀྱི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:08:05.869Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Mahā­praṇidhi­vega­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="72">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1538</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:08:23.143Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་དྲན་པའི་ཏོག་གི་རྒྱལ་པོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:08:23.143Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Smṛtiketu­rāja­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="73">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1578</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:09:47.515Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་དབང་པོའི་ཏོག་གི་རྒྱལ་མཚན་གྱི་རྒྱལ་པོའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:09:47.515Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Indra­ketu­dhvaja­rāja­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="74">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1626</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:10:59.08Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ནོར་དང་འབྲུ་ཐམས་ཅད་སྡུད་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:10:59.08Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Sarva­dhana­dhānyākarṣaṇa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="75">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1756</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:15:18.959Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་མཚན་འདི་དག་རིམ་གྲོར་བྱས་ཏེ། བཅང་བར་བྱའོ། ། བཀླག་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:15:18.959Z" creationid="S.J.">
+                <seg>“Having treated these names of tathāgatas with veneration, one should retain and recite them,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="76">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1854</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:15:41.083Z" creationid="S.J.">
+                <seg>།དེ་ལྟར་བྱས་ན་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་ལ་བསོད་ནམས་ཤིན་ཏུ་མང་དུ་འཕེལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:15:41.083Z" creationid="S.J.">
+                <seg>in this way the merit of a son or daughter of a noble family will increase immensely.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="77">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1677</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:17:05.274Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཞི་བ་འདྲེན་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:17:05.274Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Saumyākarṣaṇa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="78">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1716</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:18:41.282Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཕུན་སུམ་ཚོགས་པ་འགུགས་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:18:41.282Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Lakṣmyākarṣaṇa­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="79">
+            <prop name="folio">f.248.a</prop>
+            <prop name="position">1225</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-17T18:21:04.114Z" creationid="S.J.">
+                <seg>།དེ་བཞིན་གཤེགས་པ་སྤྲུལ་པའི་འབྲུག་སྒྲ་སྙན་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-17T18:21:04.114Z" creationid="S.J.">
+                <seg>Homage to Tathāgata Nirmita­megha­garjanayaśaḥ­śrī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="80">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">1940</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:30:02.311Z" creationid="S.J.">
+                <seg>།ལྷ་མོ་ཆེན་མོ་དཔལ་ཡང་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱིས་ཀྱང་ལུང་བསྟན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:30:02.311Z" creationid="S.J.">
+                <seg>“Now, all the tathāgatas made the following prophecies concerning Śrī Mahādevī:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="81">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">2020</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:37:15.579Z" creationid="S.J.">
+                <seg>།ལྷ་མོ་ཆེན་མོ་དཔལ་ཁྱོད་མ་འོངས་པའི་དུས་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:37:15.579Z" creationid="S.J.">
+                <seg>‘Śrī Mahādevī, in the future</seg>
+            </tuv>
+        </tu>
+        <tu tuid="82">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">2049</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:39:14.36Z" creationid="S.J.">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དཔལ་རིན་པོ་ཆེས་བརྒྱན་པ་ཞེས་བྱ་བར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དཔལ་ནོར་བུ་རིན་པོ་ཆེ་ལས་བྱུང་བ་ཞེས་བྱ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:39:14.36Z" creationid="S.J.">
+                <seg>you will become the tathāgata, the arhat, the truly complete buddha called Śrī­maṇi­ratna­sambhava in the world system called Śrī­mahā­ratna­pratimaṇḍitā.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="83">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">2204</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:39:45.29Z" creationid="S.J.">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ཡང་ལྷའི་རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱིས་བརྒྱན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:39:45.29Z" creationid="S.J.">
+                <seg>And that world system will be adorned with various sorts of divine jewels.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="84">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">2279</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:41:44.626Z" creationid="S.J.">
+                <seg>།འཇིག་རྟེན་གྱི་ཁམས་དེར་དེ་བཞིན་གཤེགས་པ་དེ་ཉིད་སྣང་བར་མཛད་པར་འགྱུར་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:41:44.626Z" creationid="S.J.">
+                <seg>This very tathāgata will spread light in that world system,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="85">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">2343</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:42:33.104Z" creationid="S.J.">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ན་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་ཀྱང་རང་ལས་འོད་འབྱུང་ཞིང་ཚེ་དཔག་ཏུ་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:42:33.104Z" creationid="S.J.">
+                <seg>those bodhisattvas dwelling there in that world will spontaneously become radiant and have immeasurable life spans.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="86">
+            <prop name="folio">f.248.b</prop>
+            <prop name="position">2459</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:43:26.524Z" creationid="S.J.">
+                <seg>།ནམ་མཁའ་ལས་ཀྱང་སངས་རྒྱས་དང་། ཆོས་དང་དགེ་འདུན་གྱི་སྒྲ་འབྱུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:43:26.524Z" creationid="S.J.">
+                <seg>The word buddha­dharma­saṅgha will also come down from the sky,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="87">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">588</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:45:07.158Z" creationid="S.J.">
+                <seg>།སངས་རྒྱས་ཀྱི་ཞིང་དེར་བྱང་ཆུབ་སེམས་དཔའ་གང་དག་སྐྱེ་བར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་ཀྱང་པད་མའི་སྙིང་པོ་དག་ལས་སྐྱེ་བར་འགྱུར་རོ་ཞེས་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:45:07.158Z" creationid="S.J.">
+                <seg>the bodhisattvas who will be born in that buddha field will all be born from the centers of lotuses.’</seg>
+            </tuv>
+        </tu>
+        <tu tuid="88">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">690</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:46:54.606Z" creationid="S.J.">
+                <seg>།དེ་ལ་མིང་བརྒྱ་རྩ་བརྒྱད་དྲི་མ་མེད་པར་གྲགས་པ་ཞེས་བྱ་བའི་བསྟོད་པ་བརྒྱད་ཅུ་གཉིས་པ་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:46:54.606Z" creationid="S.J.">
+                <seg>“What is the twelve-line praise with one hundred and eight names that is renowned as being stainless?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="89">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">792</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:47:27.634Z" creationid="S.J.">
+                <seg>འཇིགས་པ་མེད་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལྷ་མོ་ཆེན་མོ་དཔལ་གྱི་མིང་རྣམས་ཉོན་ཅིག །འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:47:27.634Z" creationid="S.J.">
+                <seg>“O fearless Avalokiteśvara, please hearken to the names of Śrī Mahādevī. They are as follows:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="90">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">886</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:49:13.537Z" creationid="S.J.">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱིས་དབང་བསྐུར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:49:13.537Z" creationid="S.J.">
+                <seg>Sarva­tathāgatābhiṣiktā (She who was Empowered by All Tathāgatas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="91">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">953</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:49:32.109Z" creationid="S.J.">
+                <seg>ལྷ་ཐམས་ཅད་ཀྱིས་དབང་བསྐུར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:49:32.109Z" creationid="S.J.">
+                <seg>Sarva­devatābhiṣiktā (She who was Empowered by All Gods)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="92">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1011</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:50:07.019Z" creationid="S.J.">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཡུམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:50:07.019Z" creationid="S.J.">
+                <seg>Sarva­tathāgata­mātṛ (Mother of All Tathāgatas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="93">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1060</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:58:17.494Z" creationid="S.J.">
+                <seg>ལྷ་ཐམས་ཅད་ཀྱི་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:58:17.494Z" creationid="S.J.">
+                <seg>Sarva­devatā­mātṛ (Mother of All Gods)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="94">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1100</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:58:35.063Z" creationid="S.J.">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:58:35.063Z" creationid="S.J.">
+                <seg>Sarva­tathāgata­śrī (Glory of All Tathāgatas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="95">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1147</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:58:59.516Z" creationid="S.J.">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:58:59.516Z" creationid="S.J.">
+                <seg>Sarva­bodhisattva­śrī (Glory of All Bodhisattvas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="96">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1198</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:59:36.329Z" creationid="S.J.">
+                <seg>འཕགས་པ་ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:59:36.329Z" creationid="S.J.">
+                <seg>Sarvārya­śrāvaka­pratyeka­buddha­śrī (Glory of All Āryaśrāvakas and Pratyekabuddhas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="97">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1284</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T16:59:57.416Z" creationid="S.J.">
+                <seg>ཚངས་པ་དང་། ཁྱབ་འཇུག་དང་། དབང་ཕྱུག་ཆེན་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T16:59:57.416Z" creationid="S.J.">
+                <seg>Brahma­viṣṇu­maheśvara­śrī (Glory of Brahmā, Viṣṇu and Maheśvara)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="98">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1351</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:00:57.189Z" creationid="S.J.">
+                <seg>གནས་ཐམས་ཅད་ན་ཡོད་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:00:57.189Z" creationid="S.J.">
+                <seg>Mahā­sthāna­gata­śrī (Glory Present in Great Places)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="99">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1467</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:02:00.722Z" creationid="S.J.">
+                <seg>ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:02:00.722Z" creationid="S.J.">
+                <seg>Sarva­deva­nāga­yakṣa­gandharvāsura­garuḍa­kiṃnara­mahoraga­śrī (Glory of All the Gods, Nāgas, Yakṣas, Gandharvas, Asuras, Garuḍas, Kiṃnaras and Mahoragas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="100">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1405</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:06:11.345Z" creationid="S.J.">
+                <seg>ལྷ་ལ་སོགས་པ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:06:11.345Z" creationid="S.J.">
+                <seg>Sarva­devatābhimukha­śrī (Glory in the Presence of all Gods)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="101">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1624</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:06:51.214Z" creationid="S.J.">
+                <seg>རིག་སྔགས་འཆང་དང་། ལག་ན་རྡོ་རྗེ་དང་། རྡོ་རྗེ་འཆང་བ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:06:51.214Z" creationid="S.J.">
+                <seg>Sarva­vidyā­dhara­vajra­pāṇi­vajra­dhara­śrī (Glory of All the Vidyādharas, Vajrapāṇi and Vajradharas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="102">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1728</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:08:07.55Z" creationid="S.J.">
+                <seg>འཇིག་རྟེན་སྐྱོང་བ་བཞི་དང་ལྔའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:08:07.55Z" creationid="S.J.">
+                <seg>Catuḥpañca­lokapāla­śrī (Glory of the Four and the Five Guardians of the World)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="103">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1809</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:08:55.596Z" creationid="S.J.">
+                <seg>གཟའ་བརྒྱད་དང་། རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱི་དཔལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:08:55.596Z" creationid="S.J.">
+                <seg>Aṣṭa­grahāṣṭāviṃśati­nakṣatra­śrī (Glory of the Eight Planets and Twenty-Eight Constellations)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="104">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1905</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:11:40.866Z" creationid="S.J.">
+                <seg>།ཨོཾ་ཉི་མའི་བུ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:11:40.866Z" creationid="S.J.">
+                <seg>Oṃ Sāvitrī (Daughter of Savitra)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="105">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1955</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:11:55.727Z" creationid="S.J.">
+                <seg>མ་མ་ཡུམ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:11:55.727Z" creationid="S.J.">
+                <seg>Mātṛ (Mother)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="106">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">1970</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:12:26.628Z" creationid="S.J.">
+                <seg>རིག་བྱེད་བཞིའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:12:26.628Z" creationid="S.J.">
+                <seg>Caturvedaśrī (Glory of the Four Vedas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="107">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2042</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:15:35.929Z" creationid="S.J.">
+                <seg>བཀྲ་ཤིས་མ། སེམས་ཅན་རྣམས་ཀྱི་མ། རྒྱལ་མ། རྣམ་རྒྱལ་མ། གང་གཱ་མ། མུ་སྟེགས་ཀྱི་སྒོ་ཐམས་ཅད་ཀྱི་བཀྲ་ཤིས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:15:35.929Z" creationid="S.J.">
+                <seg>Bhūtamātṛ (Mother of Sentient Beings), Jayā (She who is Victorious), Vijayā (She who Conquers), Gaṅgā (She who is the Ganges), Sarvatīrthā (She of All Holy Places), Sarvamaṅgalyā (She who Confers All Auspiciousness)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="108">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2259</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:16:04.949Z" creationid="S.J.">
+                <seg>དྲི་མ་མེད་པ། དྲི་མ་མེད་པར་བྱེད་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:16:04.949Z" creationid="S.J.">
+                <seg>Vimala­nirmala­kara­śrī (Glory that Makes One Stainless and Pure)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="109">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2326</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:16:45.205Z" creationid="S.J.">
+                <seg>སྡིག་པ་ཐམས་ཅད་འཕྲོག་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:16:45.205Z" creationid="S.J.">
+                <seg>Sarva­pāpa­hantrī (She who Slays All Sins)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="110">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2370</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:18:40.642Z" creationid="S.J.">
+                <seg>རྒྱགས་པ་མེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:18:40.642Z" creationid="S.J.">
+                <seg>Nirmadakarā (She who Humbles)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="111">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2401</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:20:40.506Z" creationid="S.J.">
+                <seg>ཟླ་བའི་དཔལ། ཉི་མའི་དཔལ། ཟླ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:20:40.506Z" creationid="S.J.">
+                <seg>Candraśrī (Glory of the Moon), Sūryaśrī (Glory of the Sun), Sarvagrahaśrī (Glory of All the Planets)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="112">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2503</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:20:52.792Z" creationid="S.J.">
+                <seg>སེང་གེ་ལ་ཞོན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:20:52.792Z" creationid="S.J.">
+                <seg>Siṃhavāhinī (She who Rides upon a Lion)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="113">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2544</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:23:43.334Z" creationid="S.J.">
+                <seg>པད་མའི་མཆོག་འབུམ་གྱིས་བཀབ་མ། པད་མ་པད་མ་ལ་གནས་པ། པད་མ་འཛིན་པ། པད་མ་ལས་བྱུང་མ། པད་མ་དང་ལྡན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:23:43.334Z" creationid="S.J.">
+                <seg>Śata­sahasra­koṭipadma­vivara­saṃcchannā (She who is Enveloped by a Display of One Hundred Thousand Crore Lotuses), Padmā (She who has Lotuses), Padmasambhavā (She who was Born from a Lotus), Padmālayā (She whose Abode is a Lotus), Padmadharā (She who Holds a Lotus), Padmāvatī (She who is Endowed with Lotuses)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="114">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2857</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:25:06.654Z" creationid="S.J.">
+                <seg>འོད་ཟེར་འབར་བ་དུ་མས་འཁོར་བ། ནོར་སྦྱིན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:25:06.654Z" creationid="S.J.">
+                <seg>Aneka­ratnāṃśu­mālā (She who has a Garland of Many Light Rays that are like Jewels), Dhanadā (She who Brings Wealth)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="115">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">2975</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:27:56.039Z" creationid="S.J.">
+                <seg>དཀར་མོ། དཀར་མོ་ཆེན་མོ། ལག་དཀར་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:27:56.039Z" creationid="S.J.">
+                <seg>Śvetā (Fair One), Mahāśvetā (Great Fair One), Śvetabhujā (She who has Fair Arms)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="116">
+            <prop name="folio">f.249.a</prop>
+            <prop name="position">3057</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:28:31.442Z" creationid="S.J.">
+                <seg>བཀྲ་ཤིས་ཐམས་ཅད་འཛིན་མ། བསོད་ནམས་ཀྱི་ཕུང་པོ་ཐམས་ཅད་ཀྱི་ལུས་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:28:31.442Z" creationid="S.J.">
+                <seg>Sarva­maṅgala­dhāriṇī (She who Possesses All Auspiciousness), Sarva­puṇyopacitāṅgī (She whose Body Consists of All Collections of Merit)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="117">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2310</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:29:37.197Z" creationid="S.J.">
+                <seg>ཤེས་ཉེན་ཅན་གྱི་བུ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:29:37.197Z" creationid="S.J.">
+                <seg>Dākṣāyaṇī (Daughter of Dakṣa)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="118">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2341</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:30:00.867Z" creationid="S.J.">
+                <seg>ལག་པ་འབུམ་དང་ལྡན་མ། མིག་འབུམ་དང་ལྡན་མ། མགོ་འབུམ་དང་ལྡན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:30:00.867Z" creationid="S.J.">
+                <seg>Śata­sahasra­bhujā (She who has One Hundred Thousand Arms), Śata­sahasra­nayanā (She who has One Hundred Thousand Eyes), Śata­sahasra­śirā (She who has One Hundred Thousand Heads)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="119">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2522</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:30:35.144Z" creationid="S.J.">
+                <seg>ནོར་བུ་རྣམ་པ་སྣ་ཚོགས་ཀྱིས་མཛེས་པར་བྱས་པའི་ཅོད་པན་ཐོགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:30:35.144Z" creationid="S.J.">
+                <seg>Vividha­vicitra­maṇi­mauli­dharā (She who Bears a Diadem of Many Sorts of Multicolored Jewels)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="120">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2618</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:30:55.591Z" creationid="S.J.">
+                <seg>གཟུགས་བཟང་བ། གཟུགས་སྣ་ཚོགས་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:30:55.591Z" creationid="S.J.">
+                <seg>Surūpā (She who has a Beautiful Form), Viśvarūpā (She who has All Different Forms)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="121">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2702</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:31:22.868Z" creationid="S.J.">
+                <seg>རབ་གྲགས་མ། ཤིན་ཏུ་གྲགས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:31:22.868Z" creationid="S.J.">
+                <seg>Yaśā (Renowned One), Mahāyaśā (Highly Renowned One)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="122">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2755</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:32:57.62Z" creationid="S.J.">
+                <seg>ཞི་བ་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:32:57.62Z" creationid="S.J.">
+                <seg>Saumyā (Benign One)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="123">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2776</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:33:11.7Z" creationid="S.J.">
+                <seg>སྤྲིན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:33:11.7Z" creationid="S.J.">
+                <seg>Bahujīmūtā (She of the Many Clouds)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="124">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2813</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:33:27.602Z" creationid="S.J.">
+                <seg>སྐྲ་གཙང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:33:27.602Z" creationid="S.J.">
+                <seg>Pavitrakeśā (She whose Hair is Purity)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="125">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2853</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:33:43.534Z" creationid="S.J.">
+                <seg>ཟླ་བ་ལྟར་མཛེས་མ། ཉི་མ་ལྟར་མཛེས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:33:43.534Z" creationid="S.J.">
+                <seg>Candrakāntā (She who is Lovely like the Moon), Sūryakāntā (She who is Lovely like the Sun)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="126">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">2945</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:34:01.33Z" creationid="S.J.">
+                <seg>དགེ་མ། དགེ་བྱེད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:34:01.33Z" creationid="S.J.">
+                <seg>Śubhā (Virtuous One), Śubhakartrī (She who Brings About Virtue)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="127">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3010</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:34:26.607Z" creationid="S.J.">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ལ་མངོན་དུ་ཕྱོགས་མའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:34:26.607Z" creationid="S.J.">
+                <seg>Sarva­sattvābhimukhī (She who is Disposed towards All Sentient Beings)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="128">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3082</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:34:44.753Z" creationid="S.J.">
+                <seg>འཕགས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:34:44.753Z" creationid="S.J.">
+                <seg>Āryā (Noble One)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="129">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3100</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:35:05.646Z" creationid="S.J.">
+                <seg>མེ་ཏོག་ལ་གནས་མ། མེ་ཏོག་གི་དབང་ཕྱུག་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:35:05.646Z" creationid="S.J.">
+                <seg>Kusumaśrī (Glory of the Flowers), Kusumeśvarā (She who is the Sovereign of the Flowers)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="130">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3189</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:35:23.515Z" creationid="S.J.">
+                <seg>རི་བོའི་རྒྱལ་པོ་རི་རབ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:35:23.515Z" creationid="S.J.">
+                <seg>Sarva­sumeru­parvata­rāja­śrī (Glory of the Entire King of Mountains, Mt. Sumeru)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="131">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3272</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:36:07.636Z" creationid="S.J.">
+                <seg>ཆུ་ཀླུང་དང་། མཚོ་ཐམས་ཅད་ཀྱི་དཔལ། ཆུ་ཐམས་ཅད་ཀྱི་རྒྱ་མཚོའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:36:07.636Z" creationid="S.J.">
+                <seg>Sarva­nadī­saricchrī (Glory of All Rivers and Streams), Sarva­toya­samudra­śrī (Glory of the Ocean of All Waters)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="132">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3387</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:36:31.202Z" creationid="S.J.">
+                <seg>མུ་སྟེགས་ཐམས་ཅད་དུ་མངོན་དུ་ཕྱོགས་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:36:31.202Z" creationid="S.J.">
+                <seg>Sarva­tīrthābhimukha­śrī (Glory of Turning Towards All the Holy Places)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="133">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3460</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:38:48.076Z" creationid="S.J.">
+                <seg>སྨན་དང་། རྩི་ཏོག་དང་། ཤིང་དང་། ནོར་དང་། འབྲུ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:38:48.076Z" creationid="S.J.">
+                <seg>Sarvauṣadhi­tṛṇa­vanaspati­dhana­dhānya­śrī (Glory of All Medicinal Herbs, Grasses, Trees, Wealth and Grains)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="134">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3571</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:39:53.546Z" creationid="S.J.">
+                <seg>གསེར་སྦྱིན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:39:53.546Z" creationid="S.J.">
+                <seg>Hiraṇyadā (She who Gives Gold)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="135">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3603</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:40:12.55Z" creationid="S.J.">
+                <seg>ཟས་དང་གོས་སྦྱིན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:40:12.55Z" creationid="S.J.">
+                <seg>Annapānadā (She who Gives Food and Drink)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="136">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3646</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:40:36.008Z" creationid="S.J.">
+                <seg>འོད་གསལ་མ། སྣང་བ་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:40:36.008Z" creationid="S.J.">
+                <seg>Prabhāsvarā (She of the Clear Light), Ālokakarā (She who Illuminates)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="137">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3717</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:40:55.872Z" creationid="S.J.">
+                <seg>ལུས་གཙང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:40:55.872Z" creationid="S.J.">
+                <seg>Pavitrāṅgā (She of the Pure Body)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="138">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3752</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:41:09.704Z" creationid="S.J.">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་དབང་སྒྱུར་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:41:09.704Z" creationid="S.J.">
+                <seg>Sarva­tathāgata­vaśavartinī (She who has Power over All Tathāgatas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="139">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3821</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:41:29.374Z" creationid="S.J.">
+                <seg>ལྷའི་ཚོགས་ཐམས་ཅད་ལ་མངོན་དུ་ཕྱོགས་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:41:29.374Z" creationid="S.J.">
+                <seg>Sarva­deva­gaṇa­mukha­śrī (Glory when in the Presence of the Entire Assembly of the Gods)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="140">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3912</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:41:47.967Z" creationid="S.J.">
+                <seg>གཤིན་རྗེ་དང་། ཆུ་ལྷ་དང་། ཀུ་བེ་ར་དང་། བརྒྱ་བྱིན་ལ་སོགས་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:41:47.967Z" creationid="S.J.">
+                <seg>Yama­varuṇa­kubera­vāsava­śrī (Glory of Yama, Varuṇa, Kubera and Vāsava)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="141">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">3986</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:42:57.419Z" creationid="S.J.">
+                <seg>སྦྱིན་པ་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:42:57.419Z" creationid="S.J.">
+                <seg>Dātrī (She who Gives)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="142">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4009</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:43:10.301Z" creationid="S.J.">
+                <seg>ལོངས་སྤྱོད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:43:10.301Z" creationid="S.J.">
+                <seg>Bhoktrī (She who Takes Pleasure)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="143">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4043</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:46:58.593Z" creationid="S.J.">
+                <seg>གཟི་བརྗིད་ལྡན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:46:58.593Z" creationid="S.J.">
+                <seg>Tejā (She who is Brilliance)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="144">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4096</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:47:48.018Z" creationid="S.J.">
+                <seg>ཕུན་སུམ་ཚོགས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:47:48.018Z" creationid="S.J.">
+                <seg>Vibhūtī (Abundance)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="145">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4117</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:49:21.395Z" creationid="S.J.">
+                <seg>རྣམ་པར་སྐྱེ་བ་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:49:21.395Z" creationid="S.J.">
+                <seg>Samṛddhi (Great Prosperity)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="146">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4187</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:49:36.006Z" creationid="S.J.">
+                <seg>ཆོས་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:49:36.006Z" creationid="S.J.">
+                <seg>Dharmaśrī (Glory of the Dharma)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="147">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4220</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:50:40.178Z" creationid="S.J.">
+                <seg>ཁྱབ་འཇུག་ལ་བརྟེན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:50:40.178Z" creationid="S.J.">
+                <seg>Mādhavāśrayā (She who Relies on Viṣṇu)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="148">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4260</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:51:33.475Z" creationid="S.J.">
+                <seg>ཀུ་མུ་ད་ལ་གནས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:51:33.475Z" creationid="S.J.">
+                <seg>Kusumanilayā (She whose Abode is the Flowers)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="149">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4395</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:54:54.806Z" creationid="S.J.">
+                <seg>དག་བྱེད་དང་བཀྲ་ཤིས་ཐམས་ཅད་ཀྱི་ལག་པ་དང་ལྡན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:54:54.806Z" creationid="S.J.">
+                <seg>Sarvapavitragātrā (She whose Body is Entirely Pure), Maṅgalahastā (She whose Hands are Auspicious)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="150">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4342</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:55:13.983Z" creationid="S.J.">
+                <seg>མཐུ་རྩལ་གྱི་གནས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:55:13.983Z" creationid="S.J.">
+                <seg>Puruṣa­kārā­śrayā (She who Relies on Virile Action)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="151">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4307</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:55:31.635Z" creationid="S.J.">
+                <seg>བཟོད་ལྡན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:55:31.635Z" creationid="S.J.">
+                <seg>Anasūyā (She who is not Spiteful)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="152">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4495</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:56:08.874Z" creationid="S.J.">
+                <seg>བཀྲ་མི་ཤིས་པ་ཐམས་ཅད་མེད་པར་བྱེད་པ་བསོད་ནམས་ཐམས་ཅད་སྡུད་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:56:08.874Z" creationid="S.J.">
+                <seg>Sarvālakṣmī­nāśayitrī (She who Destroys All Inauspiciousness), Sarva­puṇyākarṣaṇa­śrī (Glory that Collects All Merits)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="153">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4615</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:56:36.499Z" creationid="S.J.">
+                <seg>ས་ཐམས་ཅད་དང་། རྒྱལ་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:56:36.499Z" creationid="S.J.">
+                <seg>Sarva­pṛthivī­śrī (Glory of the Entire Earth), Sarvarājaśrī (Glory of All Kings)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="154">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4697</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:57:40.12Z" creationid="S.J.">
+                <seg>རིག་སྔགས་འཆང་གི་རྒྱལ་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:57:40.12Z" creationid="S.J.">
+                <seg>Sarva­vidyā­dhara­rāja­śrī (Glory of the King of All Vidyādharas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="155">
+            <prop name="folio">f.249.b</prop>
+            <prop name="position">4764</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T17:58:14.243Z" creationid="S.J.">
+                <seg>འབྱུང་པོ་ཐམས་ཅད་དང་། གནོད་སྦྱིན་དང་། སྲིན་པོ་དང་། ཡི་དགས་དང་། ཤ་ཟ་དང་། གྲུལ་བུམ་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T17:58:14.243Z" creationid="S.J.">
+                <seg>Sarva­bhūta­yakṣa­rākṣasa­preta­piśāca­kuṃbhāṇḍa­mahoraga­śrī (Glory of All Bhūtas, Yakṣas, Rākṣasas, Pretas, Piśācas, Kumbhāṇḍas and Mahoragas)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="156">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5407</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:00:46.419Z" creationid="S.J.">
+                <seg>ཆོས་ཀྱི་རྒྱལ་པོའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:00:46.419Z" creationid="S.J.">
+                <seg>Dharmarājaśrī (Glory of the Dharma King)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="157">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5374</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:01:09.733Z" creationid="S.J.">
+                <seg>ཀུ་བེ་རའི་སྙིང་དུ་སྡུག་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:01:09.733Z" creationid="S.J.">
+                <seg>Kuberakāntā (Beloved of Kubera)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="158">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5336</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:03:07.514Z" creationid="S.J.">
+                <seg>སིམ་པར་བྱེད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:03:07.514Z" creationid="S.J.">
+                <seg>Sukhakarī (She who Causes Happiness)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="159">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5310</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:03:24.116Z" creationid="S.J.">
+                <seg>ཡིད་དུ་འོང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:03:24.116Z" creationid="S.J.">
+                <seg>Rūpavatī (Beautiful One)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="160">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5158</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:04:14.105Z" creationid="S.J.">
+                <seg>དཔལ་གྱི་མཆོག་མིའམ་ཅི་མོ་ཐམས་ཅད་དང་ལྷ་མ་ཡིན་མོ་ཐམས་ཅད་ཀྱི་དཔལ་གྱི་མཆོག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:04:14.105Z" creationid="S.J.">
+                <seg>Sarva­kiṃnara­sarvāsuryottama­śrī (Glory that is the First of All Kiṃnaras and of All Asuras)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="161">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5253</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:04:50.591Z" creationid="S.J.">
+                <seg>།ཁ་ན་མ་ཐོ་བ་མེད་པའི་གནས་ན་འདུག་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:04:50.591Z" creationid="S.J.">
+                <seg>Nir­avadya­sthāna­vāsinī (She who Stays Irreproachable)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="162">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">4992</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:05:36.193Z" creationid="S.J.">
+                <seg>དྲང་སྲོང་ཐམས་ཅད་དག་པར་བྱེད་པའི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:05:36.193Z" creationid="S.J.">
+                <seg>Sarva­rṣi­pavitra­śrī (Glory that is the Purity of All Seers)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="163">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">4929</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:09:00.314Z" creationid="S.J.">
+                <seg>སྐལ་བ་དང་ལྡན་པར་འདོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:09:00.314Z" creationid="S.J.">
+                <seg>Pramoda­bhāgya­lolā (She who Longs for Delight and Happiness)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="164">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">4910</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:09:16.177Z" creationid="S.J.">
+                <seg>འོད་ལ་དགའ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:09:16.177Z" creationid="S.J.">
+                <seg>Dyuti (Splendour)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="165">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5055</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:11:08.91Z" creationid="S.J.">
+                <seg>བཀྲ་ཤིས་ཐམས་ཅད་ཀྱི་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:11:08.91Z" creationid="S.J.">
+                <seg>Sarvaśrī (Glory of All)</seg>
+            </tuv>
+        </tu>
+        <tu tuid="166">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5454</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:23:37.446Z" creationid="S.J.">
+                <seg>སྡུག་བསྔལ་ཐམས་ཅད་ལས་རྣམ་པར་གཟིགས་ཤིག །སྒྲོལ་ཅིག་ཐར་བར་མཛོད་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:23:37.446Z" creationid="S.J.">
+                <seg>Look at us, save us, and emancipate us from all sufferings.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="167">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">5514</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:24:08.233Z" creationid="S.J.">
+                <seg>།བསོད་ནམས་ཀྱི་ཚོགས་ཐམས་ཅད་བདག་ལ་མངོན་དུ་གྱུར་པར་མཛོད་ཅིག་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:24:08.233Z" creationid="S.J.">
+                <seg>Make us turn in the direction of all collections of merits,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="168">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">6336</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:30:15.558Z" creationid="S.J.">
+                <seg>གང་ལ་ལ་ལྷ་མོ་ཆེན་མོ་དཔལ་གྱི་མིང་ཉེས་སྡིག་ཐམས་ཅད་མེད་པར་བྱེད་པ། སྡིག་པ་ཐམས་ཅད་འཇོམས་པར་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:30:15.558Z" creationid="S.J.">
+                <seg>these names of Śrī Mahādevī—which eliminate all offenses, overcome all sins,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="170">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">6413</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:31:44.398Z" creationid="S.J.">
+                <seg>བསོད་ནམས་ཐམས་ཅད་སྡུད་པར་བྱེད་པ། བཀྲ་མི་ཤིས་པ་ཐམས་ཅད་མེད་པར་བྱེད་པ། དཔལ་དང་། བདེ་བ་དང་། སྐལ་བ་བཟང་པོ་ཐམས་ཅད་སྡུད་པར་བྱེད་པ་འདི་དག་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:31:44.398Z" creationid="S.J.">
+                <seg>accumulate all merits, eliminate all inauspiciousness, and accumulate all glories, happiness and good fortunes</seg>
+            </tuv>
+        </tu>
+        <tu tuid="172">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:35:57.493Z" creationid="S.J.">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:35:57.493Z" creationid="S.J.">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="173">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">6270</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:36:50.733Z" creationid="S.J.">
+                <seg>འཇིགས་པ་མེད་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:36:50.733Z" creationid="S.J.">
+                <seg>Fearless Avalokiteśvara</seg>
+            </tuv>
+        </tu>
+        <tu tuid="174">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">6528</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:37:34.628Z" creationid="S.J.">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཚན་འདི་དག་འཆང་བ་དང་། ཀློག་པར་བྱེད་པ་དེས་ནང་པར་ལངས་ཏེ་གཙང་མར་བྱས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:37:34.628Z" creationid="S.J.">
+                <seg>who is going to retain and recite these names of the tathāgatas, should rise in the morning, clean up, and,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="175">
+            <prop name="folio">f.250.a</prop>
+            <prop name="position">6636</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:37:52.524Z" creationid="S.J.">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ལ་མེ་ཏོག་དང་བདུག་པ་གསོལ་ནས་ལྷ་མོ་ཆེན་མོ་དཔལ་ལ་ཡང་ཙན་དན་གྱི་བདུག་པ་ཕུལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:37:52.524Z" creationid="S.J.">
+                <seg>having offered flowers and incense to all the buddhas, also offer sandalwood incense to Śrī Mahādevī.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="176">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">470</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:38:46.11Z" creationid="S.J.">
+                <seg>བཀླགས་ན་དེས་དཔལ་ཐམས་ཅད་ཐོབ་པར་འགྱུར་ཞིང་བདེ་བ་དང་། ཡིད་བདེ་བ་ཐམས་ཅད་ཐོབ་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:38:46.11Z" creationid="S.J.">
+                <seg>Then, when he recites these names, all glory, all happiness and joys will be obtained.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="177">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">557</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:39:18.759Z" creationid="S.J.">
+                <seg>ལྷ་ཐམས་ཅད་ཀྱང་བསྲུང་བ་དང་། བསྐྱབ་པ་དང་། སྦེད་པ་བྱེད་པར་འགྱུར་ལ་དེའི་དོན་ཐམས་ཅད་ཀྱང་འགྲུབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:39:18.759Z" creationid="S.J.">
+                <seg>The gods will all guard, protect and preserve him, and all of his purposes will be fulfilled.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="178">
+            <prop name="folio">f.250.b</prop>
+            <prop name="position">652</prop>
+            <tuv xml:lang="bo" creationdate="2018-09-18T18:40:59.539Z" creationid="S.J.">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། བྱང་ཆུབ་སེམས་དཔའ་འཇིགས་པ་མེད་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། ལྷ་མོ་ཆེན་མོ་དཔལ་དེ་དང་། འཁོར་དེ་དག་ཐམས་ཅད་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-09-18T18:40:59.539Z" creationid="S.J.">
+                <seg>When the Bhagavān had thus spoken, the fearless bodhisattva Avalokiteśvara, Śrī Mahādevī, the entire retinue, and the world, including gods, humans, asuras, and gandharvas, rejoiced and [678] praised the words of the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="179">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1561</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:52:20.781Z" creationid="celso">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:52:20.781Z" creationid="celso">
+                <seg>Then Bodhisattva Mahāsattva Ārya Avalokiteśvara asked the Bhagavān,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="180">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1630</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:52:29.233Z" creationid="celso">
+                <seg>།བཅོམ་ལྡན་འདས་ལྷ་མོ་ཆེན་མོ་དཔལ་གྱིས་དགེ་བའི་རྩ་བ་གང་དུ་བསྐྱེད་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:52:29.233Z" creationid="celso">
+                <seg>Bhagavān, where did Śrī Mahādevī generate her roots of virtue?</seg>
+            </tuv>
+        </tu>
+        <tu tuid="181">
+            <prop name="folio">f.247.a</prop>
+            <prop name="position">1717</prop>
+            <tuv xml:lang="bo" creationdate="2018-11-07T18:53:00.429Z" creationid="celso">
+                <seg>ལྷ་མོ་ཆེན་མོ་དཔལ་གྱིས་ནི་དེ་བཞིན་གཤེགས་པ་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ལ་དགེ་བའི་རྩ་བ་བསྐྱེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-11-07T18:53:00.429Z" creationid="celso">
+                <seg>Śrī Mahādevī generated roots of virtue in the presence of tathāgatas as numerous as the grains of sand of the River Ganges.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
