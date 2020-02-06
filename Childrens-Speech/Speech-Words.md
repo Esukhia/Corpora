@@ -1,4 +1,4 @@
-*key* {a new word} / [a loanword] / (a pronunciation-based spelling) / (EN/BO/HI) English, Tibetan, Hindi
+*key* {a new word} / [a loanword] / (a new pronunciation-based spelling) / (EN/BO/HI) English, Tibetan, Hindi
 
 ཁ་སྐད (Transcript Spelling) | ཡིག་སྐད (Literary &/or Etymology) | ཨིན་སྐད (English Translation / Explanation) 
 ------------ | ------------- | -------------
@@ -44,7 +44,7 @@
 | (སྐུ་ཞོགས) | སྐུ་ཞབས་ | venerable \(form of address for a monk\) |
 | [མོ་ཊ] | motor (EN) | car |
 | [ཨ་རམ]| आराम (HI) | relaxed, calm, quiet |
-| གཡའ་ | | interjection, "ya?" |
+| {གཡའ} | | interjection, "ya?" |
 | འགྲོའོ་ | འགྲོ | to be in the process of / to be beginning to happen \(usually used w/ "བྱེད" in this corpus, see: MST, p. 387\) |
 | (དཔལ་ཀོ) | དཔྲལ་བ། | forehead |
 | {ཡི་ཙི} | | soap |
@@ -52,7 +52,7 @@
 | [ཏར་སྐུད] | तार (HI) + སྐུད (BO) | wire |
 | (ཟིམ) | འཛིན་ | catch, grab, grasp |
 | ཕ་གི་ | ཕར་ | over there |
-| མེ་ལ་ | मेला (HI) | fair; carnival |
+| [མེ་ལ] | मेला (HI) | fair; carnival |
 | baby | (EN) |  |
 | mommy | (EN) |  |
 | Bhagsu | (HI) | a village in N. India |
