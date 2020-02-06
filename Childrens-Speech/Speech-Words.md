@@ -53,3 +53,58 @@
 | (ཟིམ) | འཛིན་ | catch, grab, grasp |
 | ཕ་གི་ | ཕར་ | over there |
 | མེ་ལ་ | मेला (HI) | fair; carnival |
+| baby | (EN) |  |
+| mommy | (EN) |  |
+| Bhagsu | (HI) | a village in N. India |
+| ice cream | (EN) |  |
+| doctor | (EN) |  |
+| chocolate | (EN) |  |
+| police | (EN) |  |
+| Bomdila | (HI) | a city in N. India (A.P.) |
+| bye | (EN) |  |
+| spider man | (EN) |  |
+| bus | (EN) |  |
+| circle | (EN) |  |
+| omelette | (EN) |  |
+| Shimla | (HI) | a city in N. India |
+| bag | (EN) |  |
+| birth | (EN) |  |
+| current | (EN) |  |
+| day | (EN) |  |
+| happy | (EN) |  |
+| ball | (EN) |  |
+| bottle | (EN) |  |
+| chips | (EN) | chips |
+| Didi | दीदी (HI) | respectful address to a woman older than you |
+| download | (EN) |  |
+| game | (EN) |  |
+| Ramesh | रमेश (HI) | a name |
+| shining | (EN) |  |
+| side | (EN) |  |
+| tv | (EN) |  |
+| battery | (EN) |  |
+| birthday | (EN) |  |
+| body | (EN) |  |
+| boxing | (EN) |  |
+| bubble |  |  |
+| check | (EN) |  |
+| chewing gum | (EN) |  |
+| Derahadun | (HI) | a city in N. India |
+| doll | (EN) |  |
+| dustbin | (EN) |  |
+| English | (EN) |  |
+| free | (EN) |  |
+| gas | (EN) |  |
+| gate | (EN) |  |
+| giraffe | (EN) |  |
+| half | (EN) |  |
+| hostel | (EN) |  |
+| laptop | (EN) |  |
+| octopus | (EN) |  |
+| puzzle | (EN) |  |
+| rajma | (HI) | kidney beans |
+| Robert | (EN) |  |
+| room | (EN) |  |
+| station | (EN) |  |
+| super | (EN) |  |
+| zombie | (EN) |  |
