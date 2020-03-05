@@ -2,7 +2,7 @@
 
 ཁ་སྐད (Transcript Spelling) | ཡིག་སྐད (Literary &/or Etymology) | ཨིན་སྐད (English Translation / Explanation) 
 ------------ | ------------- | -------------
-| {ཨ་ནས} | also spelled "ཨ་ནི་" (BO), དེ་ནས་?, ནི་? | then, and |
+| {ཨ་ནས} | also spelled "ཨ་ནི་" (BO), དེ་ནས་?, ནི་? | then, and, a filler word |
 | (ད) | དང་ | and |
 | ད | ད་ལྟ་ | now |
 | \-ད་ | \-དང་ | imperative marker |
