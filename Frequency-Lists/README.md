@@ -4,7 +4,7 @@ Edited lists for grading literature and textbook materials in Tibetan (for use i
 
 This folder includes: 
 
-1) A0 — pre-reader, beginner level (from https://www.esukhia.xyz/a0-cover/). The top 200 headwords for beginners. 
+1) A0 — pre-reader, beginner level (from https://www.esukhia.xyz/a0-cover/). The top 200+ headwords for beginners. 
 2) A1 — beginner "breakthrough" level. The top 500 headwords for beginning learners. 
 3) Childrens — 1,910 words young native speakers (ages 5-6) in the diaspora know (from https://github.com/Esukhia/Corpora/tree/master/Childrens-Speech)
 
