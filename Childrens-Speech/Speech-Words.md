@@ -26,7 +26,7 @@
 | {ཁ་གྱི} | | a general connective \(ie, possessive\) |
 | [སྦག་སུ] | “Bhagsu” (HI) | Bhagsu \(a village above Dharamsala\) |
 | ལོ | terminative particle \(ལོ, སོ, རོ, གོ, etc\) | the generalized terminative (a sentence\-final word used for emphasis) |
-| [ཨོ་སུག] | also spelled "ཨུ་སུག" (EN?) རྐང་ཤུབ (BO) | socks |
+| [ཨོ་སུག] | also spelled "ཨུ་སུག", རྐང་ཤུབ (BO) | socks |
 | (ཁེར) | འཁྱེར་ | pronunciation\-based spelling of "to carry" |
 | དུས་བསམ་པ་ | སྐབས་ལ་ | when/while |
 | (ཁོ་ར) | ཁོ་རང་\(a impersonal pronoun usage\) | Eg; སྒང་ཚང་ཁོ་ར་ or ཆ་ཚང་ཁོ་ར་or རྦད་དེ་ཁོ་ར་། |
