@@ -4,7 +4,7 @@ Edited lists for grading literature and textbook materials in Tibetan (for use i
 
 This folder includes: 
 
-1) A0 — pre-reader, beginner level (from https://www.esukhia.xyz/a0-cover/). The top 200+ headwords for beginners (now "pre-A1" in CEFR). 
+1) A0 — pre-reader, beginner level (from https://esukhia.online/A0/COVER). The top 200+ headwords for beginners (now "pre-A1" in CEFR). 
 2) A1 — beginner "breakthrough" level. The top 500 headwords for beginning learners. 
 3) A2 — elementary "basic user" level. The top 1,000 headwords for elementary learners. 
 4) B1 — intermediate "independent user" level. The top 2,000 headwords for intermediate learners. 
