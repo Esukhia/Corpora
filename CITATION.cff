@@ -1,0 +1,29 @@
+abstract: "This is a database (corpus) of Tibetan language data. The current release (2021) contains 6 datasets (corpuses). 1) The Children's Story Speech Corpus (Dharamsala-variety children's speech); 2) A set of Frequency Lists; 3) The Nanhai Corpus (Dharamsala speech and multiple literary varieties); 4) The 84000 Parallel Corpus; 5) A simplified-scheme, POS-tagged version of SOAS's Digital Communication corpus; and 6) Tibetan transcripts pulled from a web-crawl."
+authors:
+  - name: "Esukhia R&D"
+  - given-names: Dirk
+    family-names: Schmidt
+  - given-names: Ngawang
+    family-names: Trinley
+cff-version: 1.0.0
+date-released: "2021-10-26"
+identifiers:
+  - description: "This is a collection of Tibetan-language corpora"
+    type: doi
+    value: 10.5281/zenodo.5598435
+keywords:
+  - Tibetan
+  - language
+  - corpus
+  - corpora
+  - Diaspora Tibetan
+  - Literary Tibetan
+  - children's speech
+  - parallel corpus 
+  - speech corpus
+license: CC BY-NC
+type: dataset
+message: "If you use this data, please cite it using these metadata."
+repository-code: "https://github.com/Esukhia/Corpora"
+title: "Tibetan Language Corpora"
+version: 1.0.0
