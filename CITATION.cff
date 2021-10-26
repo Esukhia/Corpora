@@ -1,6 +1,7 @@
 abstract: "This is a database (corpus) of Tibetan language data. The current release (2021) contains 6 datasets (corpuses). 1) The Children's Story Speech Corpus (Dharamsala-variety children's speech); 2) A set of Frequency Lists; 3) The Nanhai Corpus (Dharamsala speech and multiple literary varieties); 4) The 84000 Parallel Corpus; 5) A simplified-scheme, POS-tagged version of SOAS's Digital Communication corpus; and 6) Tibetan transcripts pulled from a web-crawl."
 authors:
   - name: "Esukhia R&D"
+  - name: "84000 Technology & Publications" (84000 Parallel Corpus)
   - given-names: Dirk
     family-names: Schmidt
   - given-names: Ngawang
