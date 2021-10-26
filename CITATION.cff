@@ -2,6 +2,7 @@ abstract: "This is a database (corpus) of Tibetan language data. The current rel
 authors:
   - name: "Esukhia R&D"
   - name: "84000 Technology & Publications" (84000 Parallel Corpus)
+  - name: "SOAS Tibetan in Digital Communication" (SOAS Digital Communication corpus)
   - given-names: Dirk
     family-names: Schmidt
   - given-names: Ngawang
