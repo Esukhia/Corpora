@@ -3,6 +3,7 @@ authors:
   - name: "Esukhia R&D"
   - name: "84000 Technology & Publications" (84000 Parallel Corpus)
   - name: "SOAS Tibetan in Digital Communication" (SOAS Digital Communication corpus)
+editors: 
   - given-names: Dirk
     family-names: Schmidt
   - given-names: Ngawang
